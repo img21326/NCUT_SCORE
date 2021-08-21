@@ -1,7 +1,9 @@
+import warnings
+warnings.filterwarnings("ignore")
 import sys
-import pandas
-dfs = pandas.read_html('歷年成績.html')
-df = df[0]
+import pandas as pd
+dfs = pd.read_html('歷年成績.html')
+df = dfs[0]
 df = df[df.排名.isnull()]
 df['pass'] = False
 df['pass'][df.成績>59] = True
@@ -10,16 +12,25 @@ df.to_csv('out_put_score.csv',encoding='utf-8-sig')
 
 score_history = pd.read_csv('out_put_score.csv')
 score_history = score_history.drop('Unnamed: 0',axis=1)
-
+print()
+print()
+print("檢查必修學分：")
+print("------------------------------------------------------------------------")
 need_score = pd.read_csv('data/必修學分.csv',encoding = "big5")
 need_score['pass'] = False
 for history_index, history_row in score_history.iterrows():
     for need_index,need_row in need_score.iterrows():
         if (history_row.科目名稱 == need_row.科目 and history_row['pass'] == True):
             need_score['pass'][need_index] = True
-print("未修過必修課程為:")
-print(need_score[need_score['pass'] == False])
-
+if len(need_score[need_score['pass'] == False]) > 0:
+    print(need_score[need_score['pass'] == False])
+else:
+    print("必修學分已經都通過了")
+print("------------------------------------------------------------------------")
+print()
+print()
+print("檢查三個學程：")
+print("------------------------------------------------------------------------")
 choose_imformation = pd.read_csv('data/imformation.csv')
 choose_innovation = pd.read_csv('data/innovation.csv')
 choose_other = pd.read_csv('data/other.csv')
@@ -38,6 +49,7 @@ def check_if_learn(df):
 print("imformation:" + str(check_if_learn(choose_imformation)))
 print("technology:" + str(check_if_learn(choose_technology)))
 print("innovation:" + str(check_if_learn(choose_innovation)))
+print("------------------------------------------------------------------------")
 
 def caculate_total_score(arr):
     total = 0
