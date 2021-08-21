@@ -1,0 +1,2678 @@
+﻿代碼,學分,學時,老師,班級,Subject,科目,時間,地點
+1102,3,3,謝慶雄,四機三選 1, Numerical analysis,數值分析,一02-04,機械館機械系統設計實驗室
+1103,3,3,謝瑞青,四機三選 1, Technology and Application of Renewable Energy,可再生能源技術與應用,一02-04,國秀樓301教室
+1104,3,3,顏木田,四機三選 1, The theory and Practice of Mechatronics,機電整合,一02-04,機械館自動控制實驗室
+1105,3,3,陳永銓,四機三選 1, Vibrations,振動學,一02-04,國秀樓302教室
+1108,3,3,郝敏仁,四機三選 2, Practice of Digital IC,數位IC實務,二06-08,機械館電子實驗室
+1109,3,3,盧鴻華,四機三選 2, Semiconductor Fabrication Process,半導體製程,二05-07,國秀樓301教室
+1110,3,3,張子欽,四機三選 2, Computer Numerical Control Manufactur（II）,CNC加工（二）,二05-07,"機械館綜合工廠), 二05-0"
+1111,3,3,林清福,四機三選 2, MATLAB for Engineering Applications,MATLAB 軟體之工程應用,二05-07,機械館CAE電腦教室
+1112,3,3,葉彥良,四機三選 2, Creative Design of Mechanisms,創意機構設計,二06-08,機械館微控制器實驗室
+1114,3,3,機科技英文,四機三選 3, English for Science and Technology,科技英文,三02-04,國秀樓2F語言教室C
+1115,3,3,楊梓群,四機三選 3, Microcontroller,微控制器,三02-04,機械館微控制器實驗室
+1116,3,3,林清福,四機三選 3, Reverse engineering,逆向工程,三02-04,機械館CAE電腦教室
+1117,3,3,邱俊智,四機三選 3, Practices of Robot Control,機器人控制實務,三02-04,機械館自動控制實驗室
+1118,3,3,林岳鋒,四機三選 3, 3D Parametric Mechanical Design,3D參數化機械設計,三02-04,機械館電腦繪圖室
+1119,3,3,朱玟霖,四機三選 3, Linear Algebra,線性代數,三02-04,國秀樓302教室
+1121,3,3,沈銘原,四機四選 1, Introduction to Aeronautical Manufacturing,航空產業概論,一05-07,工具機學院大樓一樓視訊會議室
+1127,3,3,朱玟霖,四機四選 2, Introduction to Instrumentation of Medical Engineering,醫工設備概論,二02-04,國秀樓402教室
+1129,3,3,林金雄,四機四選 3, Industrial Safety and Health,工業安全與衛生,三05-07,國秀樓309教室
+1131,9,9,機校外實習,機校外實習, Extracurricular Intern （Ⅱ）,校外實習（二）,,
+1132,0,3,姚威宏,機-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1133,0,3,謝明珠,機-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1151,3,3,江東源,四機一甲, Material Science and Engineering（Ⅱ）,材料科學與工程（二）,四08-08,"國秀樓302教室), 三03-0"
+1152,1,3,蘇怡甄,四機一甲, Precision manufacture practicum,精密製造實習,一06-08,"機械館綜合工廠), 一06-0"
+1153,3,3,陳志明,四機一甲, Statics,靜力學,一05-05,"機械館材料實驗室), 二05-0"
+1154,3,3,葉彥良,四機一甲, Manufacturing Processes,製造學,四06-07,"國秀樓302教室), 三05-0"
+1155,3,3,盧鴻華,四機一乙, Material Science and Engineering（Ⅱ）,材料科學與工程（二）,三03-04,"國秀樓301教室), 二08-0"
+1156,1,3,張子欽,四機一乙, Precision manufacture practicum,精密製造實習,四06-08,"機械館綜合工廠), 四06-0"
+1157,3,3,邱俊智,四機一乙, Statics,靜力學,四05-05,"國秀樓303教室), 二05-0"
+1158,3,3,楊梓群,四機一乙, Manufacturing Processes,製造學,三07-07,"國秀樓301教室), 一05-0"
+1159,3,3,林金雄,四機一丙, Material Science and Engineering（Ⅱ）,材料科學與工程（二）,四05-05,"國秀樓301教室), 三03-0"
+1160,1,3,張子欽,四機一丙, Precision manufacture practicum,精密製造實習,三05-07,"機械館綜合工廠), 三05-0"
+1161,3,3,謝慶雄,四機一丙, Statics,靜力學,一05-06,"國秀樓301教室), 二05-0"
+1162,3,3,江東源,四機一丙, Manufacturing Processes,製造學,四06-07,"國秀樓301教室), 二02-0"
+1163,3,3,謝忠祐,四機一丁, Material Science and Engineering（Ⅱ）,材料科學與工程（二）,一05-05,"國秀樓305教室), 二06-0"
+1164,1,3,蘇怡甄,四機一丁, Precision manufacture practicum,精密製造實習,五02-04,"機械館綜合工廠), 五02-0"
+1165,3,3,葉彥良,四機一丁, Statics,靜力學,三06-07,"國秀樓401教室), 二05-0"
+1166,3,3,江東源,四機一丁, Manufacturing Processes,製造學,三05-05,"國秀樓401教室), 二03-0"
+1167,3,3,邱煥釗,四機二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,四02-02,"國秀樓402教室), 三02-0"
+1168,1,3,林岳鋒,四機二甲(工業設計), Practice of Mechanical Engineering—Part （Ⅰ）,機械工程實驗（一）,二02-04,機械館微控制器實驗室
+1169,3,3,楊善國,四機二甲, Applied Electronics（Ⅰ）,應用電子學（一）,四05-06,"國秀樓402教室), 三04-0"
+1170,3,3,陳雄章,四機二甲, Introduction to Mechanisms,機構學,一05-06,"國秀樓303教室), 二05-0"
+1171,3,3,陳永銓,四機二甲, Thermodynamics （Ⅰ）,熱力學（一）,一07-07,"國秀樓303教室), 三05-0"
+1172,3,3,陳再萬,四機二甲, Automatic Controls,自動控制,二06-08,國秀樓308教室
+1173,3,3,邱煥釗,四機二乙, Engineering Mathematics（Ⅱ）,工程數學（二）,四05-06,"國秀樓405教室), 三04-0"
+1174,1,3,林清福,四機二乙(精密量測), Practice of Mechanical Engineering—Part （Ⅰ）,機械工程實驗（一）,二02-04,機械館精密量具實驗室
+1175,3,3,郝敏仁,四機二乙, Applied Electronics（Ⅰ）,應用電子學（一）,一05-06,"國秀樓406教室), 二05-0"
+1176,3,3,謝慶雄,四機二乙, Introduction to Mechanisms,機構學,三07-07,"國秀樓413教室), 二07-0"
+1177,3,3,陳正和,四機二乙, Thermodynamics （Ⅰ）,熱力學（一）,二06-06,"國秀樓507教室), 四07-0"
+1178,3,3,朱玟霖,四機二乙, Automatic Controls,自動控制,四02-02,"國秀樓103教室), 三05-0"
+1179,3,3,廖能通,四機二丙, Engineering Mathematics（Ⅱ）,工程數學（二）,一06-06,"國秀樓313教室), 三05-0"
+1180,1,3,陳雄章,四機二丙(氣液壓), Practice of Mechanical Engineering—Part （Ⅰ）,機械工程實驗（一）,二02-04,機械館氣液壓實驗室
+1181,3,3,郝敏仁,四機二丙, Applied Electronics（Ⅰ）,應用電子學（一）,四02-02,"國秀樓301教室), 一07-0"
+1182,3,3,陳雄章,四機二丙, Introduction to Mechanisms,機構學,二06-06,"國秀樓302教室), 三03-0"
+1183,3,3,盧鴻華,四機二丙, Thermodynamics （Ⅰ）,熱力學（一）,四07-08,"國秀樓405教室), 三02-0"
+1184,3,3,陳正和,四機二丙, Automatic Controls,自動控制,二05-05,"機械館電腦輔助產品設計電腦教室), 四05-0"
+1185,3,3,廖能通,四機二丁, Engineering Mathematics（Ⅱ）,工程數學（二）,三07-07,"國秀樓306教室), 一07-0"
+1186,1,3,沈銘原,四機二丁(工業設計), Practice of Mechanical Engineering—Part （Ⅰ）,機械工程實驗（一）,二02-04,機械館電腦繪圖室
+1187,3,3,楊善國,四機二丁, Applied Electronics（Ⅰ）,應用電子學（一）,三02-03,"國秀樓306教室), 四02-0"
+1188,3,3,謝慶雄,四機二丁, Introduction to Mechanisms,機構學,三05-06,"國秀樓306教室), 二06-0"
+1189,3,3,陳永銓,四機二丁, Thermodynamics （Ⅰ）,熱力學（一）,四05-05,"國秀樓308教室), 一05-0"
+1190,3,3,邱俊智,四機二丁, Automatic Controls,自動控制,四06-06,"國秀樓308教室), 二07-0"
+1191,2,6,機三甲專題,四機三甲, Project study （Ⅱ）,實務專題（二）,,
+1192,3,3,詹俊奕,四機三甲, Computer Aided Engineering Analysis（Ⅰ）,電腦輔助工程分析（一）,三05-07,機械館CAE電腦教室
+1193,1,3,黃智勇,四機三甲(機電整合), Practice of Mechanical Engineering—Part （Ⅲ）,機械工程實驗（三）,二02-04,機械館機電整合實驗室
+1194,2,6,機三乙專題,四機三乙, Project study （Ⅱ）,實務專題（二）,,
+1195,3,3,詹俊奕,四機三乙, Computer Aided Engineering Analysis（Ⅰ）,電腦輔助工程分析（一）,四05-07,機械館CAE電腦教室
+1196,1,3,邱煥釗,四機三乙(流固力), Practice of Mechanical Engineering—Part （Ⅲ）,機械工程實驗（三）,二02-04,機械館流體實驗室
+1197,2,6,機三丙專題,四機三丙, Project study （Ⅱ）,實務專題（二）,,
+1198,3,3,謝忠祐,四機三丙, Computer Aided Engineering Analysis（Ⅰ）,電腦輔助工程分析（一）,一06-08,機械館CAE電腦教室
+1199,1,3,林岳鋒,四機三丙(機電整合), Practice of Mechanical Engineering—Part （Ⅲ）,機械工程實驗（三）,三05-07,機械館機電整合實驗室
+11A0,2,6,機三丁專題,四機三丁, Project study （Ⅱ）,實務專題（二）,,
+11A1,3,3,林清福,四機三丁, Computer Aided Engineering Analysis（Ⅰ）,電腦輔助工程分析（一）,一05-07,機械館電腦繪圖室
+11A2,1,3,鄭文達,四機三丁(電機實驗), Practice of Mechanical Engineering—Part （Ⅲ）,機械工程實驗（三）,二02-04,機械館電機實驗室
+11A3,0,320,,四機四甲, Diversified Training,多元實習,,
+11A4,0,320,,四機四乙, Diversified Training,多元實習,,
+11A5,0,320,,四機四丙, Diversified Training,多元實習,,
+11A6,0,320,,四機四丁, Diversified Training,多元實習,,
+11C0,6,6,陳永銓,產學四機二甲, The Industry Practises （Ⅱ）,產業實務實習（二）,二04-06,"), 三01-0"
+11C1,3,3,邱俊智,產學四機二甲, Electronics And Practice,電子學與實習,五03-05,機械館自動控制實驗室
+11C2,3,3,江東源,產學四機二甲, Foundations of Mechanical Accuracy,電機學與實習,五06-08,國秀樓403教室
+11C3,6,6,陳聰嘉,產學四機三甲, The Industry Practises （Ⅳ）,產業實務實習（四）,一01-06,
+11C4,3,3,黃智勇,產學四機三甲, Programmable Logic Controller,可程式控制器,五02-04,機械館機電整合實驗室
+11C5,3,3,蔡明義,產學四機三甲, Computer aided manufacturing practice,電腦輔助製造與實務,五05-07,機械館綜合工廠
+11C6,3,3,,產學四機二甲,,班週會及導師時間,五09-10,國秀樓413教室
+11C7,3,3,,產學四機二甲,,班週會及導師時間,五08-09,國秀樓307教室
+1201,3,3,詹惠安,四電一選, Factory Management,工廠管理,二05-07,國秀樓407教室
+1202,3,3,林宗賢,四電一選, Introduction to Computer Network,電腦網路概論,二05-07,E243專題製作室
+1203,3,3,葉政育,四電二選2, Applications for Python,Python程式應用,四05-07,E320電能技術CAD實驗
+1204,3,4,陳鴻誠,四電二選1, SCADA Design and Practice,監控系統設計及實習,二01-04,E306電能監控管理實驗
+1205,3,4,郭英哲,四電二選1, Digital Image Processing and Laboratory,數位影像處理及實習,二01-04,E232嵌入式系統實驗室
+1206,3,4,郭英哲,四電二選2, Digital Image Processing and Laboratory,數位影像處理及實習,四05-08,E232嵌入式系統實驗室
+1207,3,3,巫建興,四電二選1, Instrumentation And Measurement,工程儀表與量測,二02-04,E228微處理機實驗教室
+1208,3,4,陳瑞和,四電三選1, Sensor Application/Experiments,感測器應用及實習,一01-04,E313工業電子及感測實
+1209,3,4,洪清寶,四電三選1, Microcontroller Application and Practice,微控制器應用及實習,一01-04,E241機電整合實驗教室
+1210,3,3,林正乾,四電三選1, Design and Fabrication of Electrical Vehicles,電動車設計與製作,一02-04,E304電工儀表實驗教室
+1211,3,4,洪清寶,四電三選2, Microcontroller Application and Practice,微控制器應用及實習,三01-04,E241機電整合實驗教室
+1212,3,4,趙貴祥,四電三選2, Design and Practice of Switching Power Supply,切換式電源轉換器設計及實習,三01-04,E317電力電子實驗教室
+1213,3,3,古峰昌,四電三選2, Generation Transfformation Engineering,發變電工程,三02-04,國秀樓407教室
+1214,3,4,黃國華,四電三選3, Optimal design of electrical machinery & practice,最佳化電機設計及實習,五01-04,E318電機設計實驗教室
+1215,3,4,賴香月,四電三選3, Introduction to Very Large Scale Integration （VLSI） Design and Experiment,超大型積體電路設計及實習,五01-04,E228微處理機實驗教室
+1216,3,3,葉明宗,四電三選3, Information Networks,資訊網路,五02-04,E320電能技術CAD實驗
+1217,3,4,巫建興,四電四選1, Biosensing Technology and Practice,生醫感測技術實習,一05-08,E320電能技術CAD實驗
+1218,3,4,陳瑞和,四電四選2, Sensor Application/Experiments,感測器應用及實習,二01-04,E313工業電子及感測實
+1219,3,4,呂學德,四電四選3, MATLAB Programming and Practice,MATLAB程式設計及實習,二05-08,E320電能技術CAD實驗
+1220,3,3,許紀文,四電四選3, Introduction on MRT Electro-Mechanical-System,捷運機電系統概論,二05-07,E331書報討論
+1221,3,4,李進賢,四電四選4, Mechatronic & Experiments,機電整合及實習,五05-08,E241機電整合實驗教室
+1222,9,9,電校外實習,四電四選4, Extracurricular Intern（2）,校外實習（二）,,
+1233,3,3,孟昭立,四電一甲, Physics （Ⅱ）,物理（二）,五02-04,文化休閒館CR308教室
+1234,3,3,蔡政道,四電一甲, Electric Circuit Analysis （Ⅱ）,電路學（二）,三05-07,E301電力品質實驗教室
+1235,3,3,賴香月,四電一甲, Computer Program,計算機程式,四05-07,E243專題製作室
+1236,1,3,賴香月,四電一甲, Computer Programming Practice,計算機程式實習,五05-07,E228微處理機實驗教室
+1237,3,3,古峰昌,四電一甲, Industrial Distribution Design,工業配電設計,二02-04,E304電工儀表實驗教室
+1238,3,3,張添丁,四電一乙, Electric Circuit Analysis （Ⅱ）,電路學（二）,五01-03,E301電力品質實驗教室
+1239,3,3,孟昭立,四電一乙, Physics （Ⅱ）,物理（二）,五05-07,國秀樓412教室
+1240,3,3,白能勝,四電一乙, Computer Program,計算機程式,三02-04,E228微處理機實驗教室
+1241,1,3,白能勝,四電一乙, Computer Programming Practice,計算機程式實習,四05-07,E228微處理機實驗教室
+1242,3,3,張隆益,四電一乙, Industrial Distribution Design,工業配電設計,二02-04,E320電能技術CAD實驗
+1243,3,3,簡伯霖,四電一丙, Physics （Ⅱ）,物理（二）,二02-04,E243專題製作室
+1244,3,3,張添丁,四電一丙, Electric Circuit Analysis （Ⅱ）,電路學（二）,五05-07,E301電力品質實驗教室
+1245,3,3,林俊成,四電一丙, Computer Program,計算機程式,三02-04,E320電能技術CAD實驗
+1246,1,3,林俊成,四電一丙, Computer Programming Practice,計算機程式實習,三05-07,E320電能技術CAD實驗
+1247,3,3,林家宏,四電一丙, Industrial Distribution Design,工業配電設計,四05-07,E304電工儀表實驗教室
+1248,3,3,王孟輝,四電二甲, Electric Machinery,電機機械,三02-04,E321電機機械實驗教室
+1249,3,3,陳碧雲,四電二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,一05-07,E304電工儀表實驗教室
+1250,3,3,郭應標,四電二甲, Electronics（Ⅱ）,電子學（二）,一02-04,E243專題製作室
+1251,1,3,謝錦聰,四電二甲, Electronics Lab II,電子實習（二）,三05-07,E223電子實驗教室
+1252,3,3,趙貴祥,四電二甲, Power Electronics,電力電子學,五02-04,E317電力電子實驗教室
+1253,3,3,卜文正,四電二乙, Electric Machinery,電機機械,二05-07,E226整合網路應用控制實驗室
+1254,3,3,陳碧雲,四電二乙, Engineering Mathematics（Ⅱ）,工程數學（二）,五02-04,E304電工儀表實驗教室
+1255,3,3,郭應標,四電二乙, Electronics（Ⅱ）,電子學（二）,一05-07,E243專題製作室
+1256,1,3,謝錦聰,四電二乙, Electronics Lab II,電子實習（二）,一02-04,E223電子實驗教室
+1257,3,3,蔡政道,四電二乙, Power Electronics,電力電子學,三02-04,E301電力品質實驗教室
+1258,3,3,卜文正,四電二丙, Electric Machinery,電機機械,五02-04,E226整合網路應用控制實驗室
+1259,3,3,陳碧雲,四電二丙, Engineering Mathematics（Ⅱ）,工程數學（二）,三05-07,E304電工儀表實驗教室
+1260,3,3,巫建興,四電二丙, Electronics（Ⅱ）,電子學（二）,三02-04,E232嵌入式系統實驗室
+1261,1,3,賴秋庚,四電二丙, Electronics Lab II,電子實習（二）,一05-07,E223電子實驗教室
+1262,3,3,張添丁,四電二丙, Power Electronics,電力電子學,一01-03,E301電力品質實驗教室
+1263,1,3,羅永昌,四電三甲, Motor Control Experiment,電機控制實習,二02-04,E224 PC-BASED實驗室
+1264,3,3,呂學德,四電三甲, Power System,電力系統,四05-07,E301電力品質實驗教室
+1266,2,6,電專題甲,四電三甲, Project study （Ⅱ）,實務專題（二）,,
+1267,1,3,羅永昌,四電三乙, Motor Control Experiment,電機控制實習,一05-07,E224 PC-BASED實驗室
+1268,3,3,林家宏,四電三乙, Power System,電力系統,二02-04,E301電力品質實驗教室
+1270,2,6,電專題乙,四電三乙, Project study （Ⅱ）,實務專題（二）,,
+1271,1,3,卜文正,四電三丙, Motor Control Experiment,電機控制實習,四05-07,E226整合網路應用控制實驗室
+1272,3,3,張添丁,四電三丙, Power System,電力系統,一05-07,E301電力品質實驗教室
+1274,2,6,電專題丙,四電三丙, Project study （Ⅱ）,實務專題（二）,,
+1275,0,320,,四電四甲, Diversified Training,多元實習,,
+1276,0,320,,四電四乙, Diversified Training,多元實習,,
+1277,0,320,,四電四丙, Diversified Training,多元實習,,
+1281,3,3,王孟輝,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1282,3,3,白能勝,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1283,3,3,巫建興,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1284,3,3,林正乾,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1285,3,3,林俊成,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1286,3,3,林家宏,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1287,3,3,洪清寶,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1288,3,3,陳碧雲,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1289,3,3,黃國華,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1290,3,3,葉政育,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1291,3,3,蔡政道,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1292,3,3,賴香月,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1293,3,3,羅永昌,電-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+12S1,3,3,林家宏,產學四電二甲, Electric Circuit Analysis（Ⅱ）,電路學（二）,五03-05,E243專題製作室
+12S2,3,3,謝錦聰,產學四電二甲, The Experiment of Electronics Circuit（Ⅰ）,電子電路及實習（一）,五06-08,E223電子實驗教室
+12S3,6,6,電產業實務,產學四電二甲, The Industry Practises（Ⅱ）,產業實務實習（二）,二05-07,"), 三05-0"
+1301,3,3,鄭清海,四子一丙選, Probability,機率學,二05-07,國秀樓313教室
+1302,3,3,陳英傑,四子二選, Microcontroller based Embedded System Practice,微控制器系統實務,二01-03,E710-工程館7F
+1303,3,3,吳承炎,四子二選, Green Devices Electrical Simulation,綠能元件電性模擬,二01-03,E525-工程館5F
+1304,3,3,許東成,四子二選, Computer Aided Machine Drawing,電腦機構繪圖,三02-04,E613-工程館6F
+1305,3,3,吳靜娜,四子二選, Probability And Statics,機率與統計,三02-04,E431-工程館4F
+1306,3,3,董秋溝,四子二選, Introduction to VLSI Systems,VLSI概論,五05-07,E525-工程館5F
+1307,3,3,顏孟華,四子三選, Programming in Python,Python程式設計,一02-04,E613-工程館6F
+1308,3,3,洪玉城,四子三選, Photovoltaics System in Applications and,太陽能光伏電子系統,一05-07,E544-工程館5F
+1309,3,3,陳英傑,四子三選, Embedded system overview and Lab,嵌入式系統概論與實習,一05-07,E710-工程館7F
+1310,3,3,陳宏光,四子三選, Object-Oriented Programming Language,物件導向程式設計,一05-07,E431-工程館4F
+1311,3,3,林翠娥,四子三選, Game Design,遊戲企劃,二02-04,E431-工程館4F
+1312,3,3,陳若貞,四子三選, High-speed printed circuit board design,高速ＰＣＢ設計,二05-07,E623-工程館6F
+1313,3,3,顏錦柱,四子三選, Fuzzy Control,模糊控制,二05-07,E617-工程館6F
+1314,3,3,陳星琳,四子三選, Computer Architecture and Organization,計算機組織與結構,二05-07,國秀樓508教室
+1315,2,2,李春振,四子三選, Introduction to Industrial Design,工業設計概論,二05-06,國秀樓005教室
+1316,3,3,彭成瑜,四子三選, Smart Sensor and Supervisory Control Laboratory,智慧感測與監控實務,三02-04,E617-工程館6F
+1317,3,3,謝韶徽,四子三選, Low Power VLSI Design,低功率積體電路設計,三02-04,E544-工程館5F
+1318,3,3,李肇廉,四子三選, Programmable Logic Controller Application,ＰＬＣ應用實作,三05-07,E614-工程館6F
+1319,3,3,吳承炎,四子三選, 3D Printing Introduction and Practice,3D列印原理與實務,三05-07,E525-工程館5F
+1320,3,3,謝韶徽,四子三選, Smart Technology and Creativity,智慧科技與創意,五05-07,E544-工程館5F
+1321,3,3,李介仁,四子三選, Lens elements and design,光學元件,五05-07,E626-工程館6F
+1323,3,3,鍾裕峰,四子四選, The trend and analysis of electrical product,電子產品現況與未來趨勢,一02-04,國秀樓313教室
+1324,3,3,顏孟華,四子四選, Artificial Intelligence,人工智慧,一05-07,E613-工程館6F
+1327,3,3,李肇廉,四子四選, Industrial Control Electronics,工業控制電子學,二05-07,E614-工程館6F
+1329,3,3,吳志峰,四子四選, Integration of Electronic Circuits Systems,電子系統專論,三05-07,E544-工程館5F
+1330,3,3,王三輔,四子四選, High frequency active circuit design,高頻主動電路設計,四05-07,E613-工程館6F
+1331,3,3,董秋溝,四子四選, Integrated Circuits Fabrication,積體電路製程,五02-04,E525-工程館5F
+1332,3,3,王三輔,四子四選, Industrial Wireless Communication Techniques,工業無線通訊技術,五02-04,E613-工程館6F
+1333,3,3,唐光輝,四子四選, Electromagnetic compatibility of standards and test,電磁相容之標準與測試,五05-07,E623-工程館6F
+1334,3,3,電子校外實習1,四子四選, Workplace Ethics Practice（Ⅱ）,職場倫理實習（二）,,
+1335,3,3,電子校外實習2,四子四選, Computer Application Practice（Ⅱ）,資訊技術實習（二）,,
+1336,3,3,電子校外實習3,四子四選, Electronic Skill Practice（Ⅱ）,電子技術實習（二）,,
+1337,3,3,電子校外實習4,四子四選, Industrial Skill Practice（Ⅱ）,產業實務實習（二）,,
+1341,3,3,蘇志超,四子一甲, Physics （Ⅱ）,物理（二）,二05-07,國秀樓401教室
+1342,2,4,蔡忠和,四子一甲, Computer Programming Practice,計算機程式實習,四05-08,E626-工程館6F
+1343,3,3,陳宏光,四子一乙, Physics （Ⅱ）,物理（二）,三05-07,E431-工程館4F
+1344,2,4,賴雲龍,四子一乙, Computer Programming Practice,計算機程式實習,五01-04,E626-工程館6F
+1345,3,3,彭成瑜,四子一丙, Physics （Ⅱ）,物理（二）,一05-07,國秀樓403教室
+1346,2,4,何岳璟,四子一丙, Computer Programming Practice,計算機程式實習,三01-04,E715-工程館7F
+1347,3,3,蘇志超,四子二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,一05-07,國秀樓508教室
+1348,3,3,陳英傑,四子二甲, Electronics（Ⅱ）,電子學（二）,二04-06,國秀樓306教室
+1349,3,3,洪玉城,四子二甲, Electric Circuit Analysis （Ⅱ）,電路學（二）,三02-04,國秀樓313教室
+1350,2,4,唐光輝,四子二甲, Electronics Circuits Lab.（Ⅱ）,電子實習（二）,四05-08,E715-工程館7F
+1351,3,3,陳若貞,四子二甲, Signals and Systems,信號與系統,一02-04,E623-工程館6F
+1352,3,3,曾振東,四子二乙, Engineering Mathematics（Ⅱ）,工程數學（二）,五02-04,E529-工程館5F
+1353,3,3,林水春,四子二乙, Electronics（Ⅱ）,電子學（二）,一05-07,E617-工程館6F
+1354,3,3,唐光輝,四子二乙, Electric Circuit Analysis （Ⅱ）,電路學（二）,三05-07,E623-工程館6F
+1355,2,4,何岳璟,四子二乙, Electronics Circuits Lab.（Ⅱ）,電子實習（二）,一01-04,E715-工程館7F
+1356,3,3,顏錦柱,四子二乙, Signals and Systems,信號與系統,四05-07,國秀樓401教室
+1357,3,3,陳星琳,四子二乙, Data Structures,資料結構,二02-04,國秀樓413教室
+1358,2,4,蔡忠和,四子二乙, Microcontroller practice and application,單晶片微電腦應用實務,三01-04,E626-工程館6F
+1359,3,3,林水春,四子二丙, Engineering Mathematics（Ⅱ）,工程數學（二）,三05-07,E617-工程館6F
+1360,3,3,黃國興,四子二丙, Electronics（Ⅱ）,電子學（二）,一05-07,E614-工程館6F
+1361,3,3,陳若貞,四子二丙, Electric Circuit Analysis （Ⅱ）,電路學（二）,四05-07,E623-工程館6F
+1362,2,4,陳啟鈞,四子二丙, Electronics Circuits Lab.（Ⅱ）,電子實習（二）,五01-04,E715-工程館7F
+1363,3,3,林熊徵,四子二丙, Signals and Systems,信號與系統,一02-04,國秀樓402教室
+1364,3,3,蘇志超,四子三甲, Design of power conversion circuits,電能轉換電路設計,一02-04,國秀樓403教室
+1365,3,3,王三輔,四子三丙, Electronic Circuit Design,電子電路設計,五05-07,國秀樓401教室
+1366,2,6,電子實務專題甲,四子三甲, Project study （Ⅱ）,實務專題（二）,五01-04,
+1367,2,6,電子實務專題乙,四子三乙, Project study （Ⅱ）,實務專題（二）,五01-04,
+1368,2,6,電子實務專題丙,四子三丙, Project study （Ⅱ）,實務專題（二）,五01-04,
+1369,0,320,,四子四甲, Diversified Training,多元實習,,
+1370,0,320,,四子四乙, Diversified Training,多元實習,,
+1371,0,320,,四子四丙, Diversified Training,多元實習,,
+1372,3,3,吳志峰,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1373,3,3,顏孟華,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1374,3,3,顏錦柱,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1375,3,3,彭成瑜,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1376,3,3,洪玉城,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1377,3,3,蘇志超,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1378,3,3,陳英傑,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1379,3,3,黃國興,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1380,3,3,曾振東,子-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+13A1,2,2,董秋溝,二子三選, Digital System Design,數位系統設計,二05-06,E525-工程館5F
+13A2,3,3,朱漢興,二子四選, Applied Cloud Computing,雲端科技應用,一02-04,E431-工程館4F
+13A3,3,3,李建鋒,二子四選, Power supplies for LED driving,LED驅動電路設計,一05-07,E623-工程館6F
+13A4,3,3,楊文昇,二子四選, Introduction to Internet of Things,物聯網概論,二02-04,國秀樓508教室
+13A5,3,3,王俊傑,二子四選, Deep Learning,深度學習,二05-07,E431-工程館4F
+13A6,3,3,李肇廉,二子四選, Programmable Logic Controller Application,PLC應用實作,五05-07,E614-工程館6F
+13B1,3,3,董秋溝,二子三甲, Electronic Circuit Design Implement（Ⅱ）,電子電路（二）,三04-04,"E525-工程館5F), 四01-0"
+13B2,3,3,蘇志超,二子三甲, Engineering Mathematics,工程數學,二02-04,國秀樓503教室
+13B3,3,3,陳啟鈞,二子三甲, Digital Signal Processing,D S P 實務,三05-07,E613-工程館6F
+13B4,2,6,二技電子專題,二子三甲, Project study （Ⅰ）,實務專題（一）,五01-04,
+1501,3,3,張嘉寶,四工二選, Computer Aided Drawing,電腦輔助繪圖,一02-04,工501製商整合實習室
+1502,3,3,王偉驎,四工二選, The Automatic Data collection system,自動化資料蒐集系統,一02-04,工503工作研究實習室
+1503,3,3,黃敬仁,四工二選, Design of Internet of Machines,機聯網設計,一02-04,工201微電腦實習室
+1505,3,3,廖士榮,四工二選, TOOL ENGINEERING,工具工程,五05-07,工303整合製造模擬室
+1506,3,3,王樹仁,四工二選, Logistics System Management,物流技術與管理,五05-07,工503工作研究實習室
+1507,3,3,曾建銘,四工二選, WEB Database Design,資料庫與網頁設計,五05-07,工302製造管理電子化
+1508,3,3,涂裕民,四工二選, Computer Aided Drawing,電腦輔助繪圖,五05-07,工203生產管理實習室
+1509,3,3,林文燦,四工三選, Manufacturing Strategy Management,製造策略管理,一02-04,管理館M115階梯教室
+1510,3,3,廖麗滿,四工三選, Enterprise Resource Planning,企業資源規劃系統,一02-04,工203生產管理實習室
+1511,3,3,黃美玲,四工三選, Quality Engineering,品質工程,一02-04,工302製造管理電子化
+1512,3,3,賴俊良,四工三選, Management Information Systems,管理資訊系統,一02-04,工403品質管理實驗室
+1513,3,3,黃喬次,四工三選, Graphical Programming Language,圖形化監控資訊系統,二05-07,工501製商整合實習室
+1514,3,3,廖士榮,四工三選, Manufactory Engineering,製造工程,二05-07,工303整合製造模擬室
+1515,3,3,翁美玲,四工三選, Service Management,服務業管理,二05-07,工201微電腦實習室
+1516,3,3,李淑芬,四工三選, Logistics and Supply Chain System Design,物流與供應鏈系統設計,二05-07,工302製造管理電子化
+1517,3,3,陳吉祥,四工三選, industrial hygiene,工業衛生,三02-04,工002製造程序改善室
+1518,3,3,王文派,四工三選, English for Science and Technology,科技英文,三02-04,工303整合製造模擬室
+1519,3,3,郭福豫,四工三選, Statistical Process Control,統計製程管制,三02-04,工201微電腦實習室
+1520,3,3,梁勝亮,四工三選, International Quality Assurance,國際品質保證,三02-04,工001工管科階梯教室
+1521,3,3,翁美玲,四工四選, Industrial Diagnosis and Improvement,產業診斷與改善,一05-07,工203生產管理實習室
+1522,3,3,梁勝亮,四工四選, Purchase computerization,採購電子化,二02-04,工302製造管理電子化
+1523,3,3,陳慶華,四工四選, Customer Relationship Management,顧客關係管理,三05-07,工501製商整合實習室
+1524,3,3,林芷薐,四工四選, Strategy Management,策略管理,三05-07,工001工管科階梯教室
+1525,12,12,工管實習,四工四選, Extracurricular Intern （Ⅱ）,校外實習（二）,,
+1541,3,3,陳永福,四工一甲, Computer Program,計算機程式,一02-04,管理館M514
+1542,3,3,李淑芬,四工一甲, Manufacturing Processes,製造程序,一05-06,"工002製造程序改善室), 五05-0"
+1543,1,2,蔡梨暖,四工一甲, Plant Practice,工廠實習,五07-08,工003製造程序改善室
+1544,3,3,張蘂銘,四工一乙, Computer Program,計算機程式,二05-07,工203生產管理實習室
+1545,3,3,廖士榮,四工一乙, Manufacturing Processes,製造程序,二03-04,"工303整合製造模擬室), 五08-0"
+1546,1,2,廖士榮,四工一乙, Plant Practice,工廠實習,二01-02,工003製造程序改善室
+1547,3,3,黃敬仁,四工一丙, Computer Program,計算機程式,二01-03,工201微電腦實習室
+1548,3,3,蔡梨暖,四工一丙, Manufacturing Processes,製造程序,一07-08,"工002製造程序改善室), 五06-0"
+1549,1,2,郭威伸,四工一丙, Plant Practice,工廠實習,一03-04,工003製造程序改善室
+1550,3,3,鄭建鑫,四工一丁, Computer Program,計算機程式,五06-08,工501製商整合實習室
+1551,3,3,王偉驎,四工一丁, Manufacturing Processes,製造程序,四05-06,"工103設施規劃實習室), 一05-0"
+1552,1,2,郭威伸,四工一丁, Plant Practice,工廠實習,五02-03,工003製造程序改善室
+1553,3,3,柯美珠,四工二甲, Cost Accounting,成本會計,二02-03,"工503工作研究實習室), 三04-0"
+1554,3,3,陳貴琳,四工二甲, Statistics （Ⅱ）,統計學（二）,三05-07,工403品質管理實驗室
+1555,3,3,吳章傑,四工二甲, Human Factor Engineering,人因工程,四01-02,"工001工管科階梯教室), 四05-0"
+1556,3,3,洪永祥,四工二甲, Material Management,物料管理,一07-07,"工201微電腦實習室), 三02-0"
+1557,3,3,楊旭豪,四工二乙, Cost Accounting,成本會計,三05-06,"國秀樓411教室), 四05-0"
+1558,3,3,蔣寬和,四工二乙, Statistics （Ⅱ）,統計學（二）,四06-08,工002製造程序改善室
+1559,3,3,夏太長,四工二乙, Human Factor Engineering,人因工程,三01-03,工103設施規劃實習室
+1560,3,3,于鴻福,四工二乙, Material Management,物料管理,二02-04,工002製造程序改善室
+1561,3,3,柯美珠,四工二丙, Cost Accounting,成本會計,二04-04,"工503工作研究實習室), 三02-0"
+1562,3,3,黃美玲,四工二丙, Statistics （Ⅱ）,統計學（二）,一05-07,工403品質管理實驗室
+1563,3,3,吳章傑,四工二丙, Human Factor Engineering,人因工程,四06-08,工001工管科階梯教室
+1564,3,3,曾懷恩,四工二丙, Material Management,物料管理,三05-07,管理館M115階梯教室
+1565,3,3,翁美玲,四工二丁, Cost Accounting,成本會計,二02-04,工403品質管理實驗室
+1566,3,3,黃存宏,四工二丁, Statistics （Ⅱ）,統計學（二）,三07-07,"工103設施規劃實習室), 四01-0"
+1567,3,3,夏太長,四工二丁, Human Factor Engineering,人因工程,三04-06,工103設施規劃實習室
+1568,3,3,張清波,四工二丁, Material Management,物料管理,一05-07,工001工管科階梯教室
+1569,3,3,陳貴琳,四工三甲, Engineering Economy,工程經濟,三01-01,"工403品質管理實驗室), 四05-0"
+1570,3,3,楊旭豪,四工三甲, Operations Research,作業研究,三07-07,"國秀樓411教室), 四01-0"
+1571,2,6,工管專題甲,四工三甲, Project study （Ⅱ）,實務專題（二）,,
+1572,3,4,洪永祥,四工三甲, Facilities Planning,設施規劃,一05-06,"工201微電腦實習室), 三05-0"
+1573,3,3,王文派,四工三乙, Engineering Economy,工程經濟,三05-06,"工503工作研究實習室), 四05-0"
+1574,3,3,廖麗滿,四工三乙, Operations Research,作業研究,一05-06,"工103設施規劃實習室), 二04-0"
+1575,2,6,工管專題乙,四工三乙, Project study （Ⅱ）,實務專題（二）,,
+1576,3,4,許淑女,四工三乙, Facilities Planning,設施規劃,五05-08,工201微電腦實習室
+1577,3,3,王文派,四工三丙, Engineering Economy,工程經濟,三07-07,"工503工作研究實習室), 四06-0"
+1578,3,3,陳彥匡,四工三丙, Operations Research,作業研究,一05-07,工303整合製造模擬室
+1579,2,6,工管專題丙,四工三丙, Project study （Ⅱ）,實務專題（二）,,
+1580,3,4,張清波,四工三丙, Facilities Planning,設施規劃,二01-04,工001工管科階梯教室
+1581,3,3,陳貴琳,四工三丁, Engineering Economy,工程經濟,四01-02,"工403品質管理實驗室), 四07-0"
+1582,3,3,廖麗滿,四工三丁, Operations Research,作業研究,一07-07,"工103設施規劃實習室), 二02-0"
+1583,2,6,工管專題丁,四工三丁, Project study （Ⅱ）,實務專題（二）,,
+1584,3,4,陳水閦,四工三丁, Facilities Planning,設施規劃,三05-07,"工303整合製造模擬室), 四08-0"
+1585,0,320,,四工四甲, Diversified Training,多元實習,,
+1586,0,320,,四工四乙, Diversified Training,多元實習,,
+1587,0,320,,四工四丙, Diversified Training,多元實習,,
+1588,0,320,,四工四丁, Diversified Training,多元實習,,
+1589,0,3,何境峰,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1590,0,3,廖士榮,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1591,0,3,李淑芬,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1592,0,3,曾懷恩,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1593,0,3,翁美玲,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1594,0,3,黃喬次,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1595,0,3,陳水閦,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1596,0,3,陳貴琳,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1597,0,3,康鶴耀,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1598,0,3,黃美玲,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1599,0,3,王文派,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+15A0,0,3,洪永祥,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+15A1,0,3,黃存宏,工管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1600,3,3,管衍德,四冷一選, Introduction to Clean Energy Applications,潔淨能源應用概論,五05-07,E109能源工程實驗室
+1601,3,3,謝聖平,四冷二選1, Power Electronics,電力電子學,一02-04,國秀樓305教室
+1602,3,3,柯文,四冷二選1, Linear Circuits,線性電路,一02-04,國秀樓405教室
+1603,3,4,變頻空調實務,四冷二選2, Inverter Air-Conditioning Practice Ⅱ- Air-Conditioning Installation Engineering,變頻空調實務（二）,一05-08,工具機學院大樓五樓VA506教室
+1604,3,4,陳緯中,四冷二選2, Fundamental Practical Application of HVAC & R,冷凍空調基礎裝修實務,一05-08,E104冷凍空調裝
+1605,3,4,黃譯興,四冷二選3, Power Electricity Equipment Inspection,用電設備檢驗,三01-04,E018冷凍空調自動控制實驗室
+1606,3,4,陳兆雄,四冷二選4, Computer software application and practice,電腦軟體應用及實習,四05-08,E103冷凍空調設計實驗室
+1607,3,4,陳金順,四冷三選1, Practice of inverter air conditioner （四）,變頻空調實務（四）,一01-04,工具機學院大樓五樓VA506教室
+1609,3,3,賴坊濱,四冷三選2, Introduction to Hydrogen Technology,氫能技術概論,一05-07,國秀樓413教室
+1610,3,3,李哲尹,四冷三選2, Distinctive Air-Conditioning System,特殊空調系統,一05-07,國秀樓307教室
+1611,3,3,張俊民,四冷三選3, Solar Photoelectricity Installation Practice,太陽光電安裝實務,二05-07,E109能源工程實驗室
+1612,3,3,楊愷祥,四冷三選3, Cryogenic Engineering,低溫工程,二06-08,E029冷凍工程實驗室
+1613,3,3,顏阿桃,四冷三選4, Energy and sustainable development,能源與永續發展,三05-07,E018冷凍空調自動控制實驗室
+1614,3,3,李哲尹,四冷四選1, Energy - saving technology of air conditioning,節能技術概論,一02-04,國秀樓409教室
+1615,3,3,錢穎濃,四冷四選2, Planning and Management of Refrigeration and Air-Conditioning Engineering,冷凍空調工程規劃與管理,一05-07,國秀樓511教室
+1616,3,3,風力發電工程與,四冷四選3, Monitoring and management of smart electrical,風力發電工程與應用,三02-04,E109能源工程實驗室
+1617,3,3,田大青,四冷四選4, Vibration and Noise Control,振動與噪音控制,三05-07,國秀樓503教室
+1618,3,3,顏阿桃,四冷四選5, Green Building Evaluation,綠建築評估,五02-04,E102電子實驗室
+1619,3,3,施文玫,四冷四選5, Green Building and Lighting Energy Saving,綠建築與照明節能,五05-07,國秀樓503教室
+1625,3,3,黃建民,四冷一甲, Thermodynamics,熱力學,三01-01,"E021空調工程實驗室), 五01-0"
+1626,3,3,張雅羚,四冷一甲, Computer Aided Drawing,電腦輔助繪圖,三05-07,E103冷凍空調設計實驗室
+1627,2,4,林國堅,四冷一甲, Electronics and Lab（Ⅱ）,電子學及實習（二）,四05-08,E102電子實驗室
+1628,1,1,顏阿桃,四冷一甲, Introduction to Energy,能源概論,一06-06,E102電子實驗室
+1629,3,3,吳友烈,四冷一乙, Thermodynamics,熱力學,三05-06,"E021空調工程實驗室), 五04-0"
+1630,3,3,張雅羚,四冷一乙, Computer Aided Drawing,電腦輔助繪圖,五01-03,E103冷凍空調設計實驗室
+1631,2,4,林國堅,四冷一乙, Electronics and Lab（Ⅱ）,電子學及實習（二）,五05-08,E102電子實驗室
+1632,1,1,顏阿桃,四冷一乙, Introduction to Environmental control,環境控制概論,一07-07,E102電子實驗室
+1633,3,3,林志宏,四冷一丙, Thermodynamics,熱力學,一08-08,"E021空調工程實驗室), 四07-0"
+1634,3,3,柯文,四冷一丙, Fundamentals of Electric Machinery,電機應用,一05-07,國秀樓410教室
+1635,3,3,楊愷祥,四冷一丙, Engineering Mechanics,工程力學,五01-02,"E018冷凍空調自動控制實驗室), 二05-0"
+1636,2,3,陳兆雄,四冷一丙, Computer Program,計算機程式,三02-04,E103冷凍空調設計實驗室
+1637,3,3,趙有光,四冷二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,二05-06,"國秀樓311教室), 五06-0"
+1638,3,3,余光正,四冷二甲, Automatic Control,自動控制,四01-02,"E110電機應用實驗室), 五04-0"
+1639,3,3,李哲尹,四冷二甲, Energy Application,能源應用,三07-07,"國秀樓311教室), 二07-0"
+1640,3,3,陸紀文,四冷二甲, Heat Transfer,熱傳學,二03-04,"國秀樓302教室), 三06-0"
+1641,3,3,趙有光,四冷二乙, Engineering Mathematics（Ⅱ）,工程數學（二）,三07-07,"國秀樓312教室), 五07-0"
+1642,3,3,余光正,四冷二乙, Automatic Control,自動控制,三05-06,"E110電機應用實驗室), 五03-0"
+1643,3,4,陳兆雄,四冷二乙, Advanced Single-Chip Application and Laboratory,單晶片應用及實習,二05-08,E103冷凍空調設計實驗室
+1644,3,3,陸紀文,四冷二乙, Heat Transfer,熱傳學,二02-02,"國秀樓302教室), 五05-0"
+1645,3,3,趙有光,四冷二丙, Engineering Mathematics（Ⅱ）,工程數學（二）,二07-07,"國秀樓311教室), 三05-0"
+1646,3,3,陸紀文,四冷二丙, Heat Transfer,熱傳學,二05-05,"國秀樓302教室), 五03-0"
+1647,3,3,許智能,四冷二丙, Engineering Mechanics,工程力學,二02-02,"E021空調工程實驗室), 五07-0"
+1648,3,3,余光正,四冷二丙, Automatic Control,自動控制,三07-07,"E110電機應用實驗室), 五05-0"
+1649,2,4,黃譯興,四冷三甲, Refrigeration and Air-Conditioning Energy-Saving Technique and Practices,冷凍空調節能技術及實習,五05-08,E018冷凍空調自動控制實驗室
+1650,3,4,能源工程原理,四冷三甲, Energy Engineering Principle and Practices,能源工程原理及實習,四05-08,E109能源工程實驗室
+1651,3,4,謝文健,四冷三甲, Refrigeration and Air-Conditioning Design and Practices,冷凍空調設計及實習,二01-04,E029冷凍工程實驗室
+1652,2,6,冷凍專題甲,四冷三甲, Project study （Ⅰ）,實務專題（一）,,
+1653,2,4,黃譯興,四冷三乙, Refrigeration and Air-Conditioning Energy-Saving Technique and Practices,冷凍空調節能技術及實習,四05-08,E018冷凍空調自動控制實驗室
+1654,3,4,能源工程原理,四冷三乙, Energy Engineering Principle and Practices,能源工程原理及實習,五01-04,E109能源工程實驗室
+1655,3,4,謝文健,四冷三乙, Refrigeration and Air-Conditioning Design and Practices,冷凍空調設計及實習,三01-04,E029冷凍工程實驗室
+1656,2,6,冷凍專題乙,四冷三乙, Project study （Ⅰ）,實務專題（一）,,
+1657,2,4,黃正杰,四冷三丙, Refrigeration and Air-Conditioning Practices,冷凍空調實習,四05-08,E029冷凍工程實驗室
+1658,3,4,王國宗,四冷三丙, Air-conditioning Engineering Design,冷凍空調設計,三01-04,國秀樓509教室
+1659,3,3,黃譯興,四冷三丙, Refrigeration and Air-Conditioning Energy-Saving Technique,冷凍空調節能技術,四09-09,"E018冷凍空調自動控制實驗室), 五03-0"
+1660,2,6,冷凍專題丙,四冷三丙, Project study （Ⅰ）,實務專題（一）,,
+1661,0,320,,四冷四甲, Diversified Training,多元實習,,
+1662,0,320,,四冷四乙, Diversified Training,多元實習,,
+1663,0,320,,四冷四丙, Diversified Training,多元實習,,
+1664,9,9,冷凍校外實習,冷校外實習, PRACTICAL TRAINING（一）,校外實習（一）,,
+1666,3,3,管衍德,冷凍-專題師徒, Mentor-Apprentice Internship Course for Project（II）,專題師徒實習（二）,,
+1667,3,3,許智能,冷凍-專題師徒, Mentor-Apprentice Internship Course for Project（II）,專題師徒實習（二）,,
+1668,3,3,林國堅,冷凍-專題師徒, Mentor-Apprentice Internship Course for Project（II）,專題師徒實習（二）,,
+1669,3,3,吳友烈,冷凍-專題師徒, Mentor-Apprentice Internship Course for Project（II）,專題師徒實習（二）,,
+1670,3,3,王輔仁,冷凍-專題師徒, Mentor-Apprentice Internship Course for Project（II）,專題師徒實習（二）,,
+1700,3,3,張蓺英,四訊二選1, Introduction for IOT,物聯網概論,一06-08,E547-工程館5F
+1701,3,3,郭秋田,四訊二選1, Theory of Microcontroller,單晶片原理,一06-08,E418-工程館4F
+1702,3,3,黃世演,四訊二選2, Introduction To Computer Vision,電腦視覺概論,五06-08,國秀樓303教室
+1703,3,3,施世昱,四訊二三選1, Originality Design by Computer Graphic,創意應用設計實務,四07-09,文化休閒館CR409
+1704,3,3,陳明德,四訊三選1, Scripting Language,Scripting程式語言,一05-07,E420-工程館4F
+1705,3,4,吳憲珠,四訊三選1, Database Management System and Laboratory,資料庫系統與實習,一05-08,國秀樓2F語言教室C
+1706,3,3,劉又齊,四訊三選2, An Introduction to Embedded system,嵌入式系統概論,二02-04,E418-工程館4F
+1707,3,3,林國祥,四訊三選3, Image Recognition,影像辨識,二05-07,E418-工程館4F
+1708,3,3,林國祥,四訊三選4, Introduction to machine learning,機器學習概論,三02-04,E418-工程館4F
+1709,3,3,楊勝智,四訊三選5, Robot Control & Sensing,機器人控制與感測,三05-07,E418-工程館4F
+1710,3,4,欉振坤,四訊三選6, Database Management System and Laboratory,資料庫系統與實習,五05-08,國秀樓003教室
+1711,3,4,李隆財,四訊三選6, Interface Technology and Lab.,介面技術與實習,五05-08,E547-工程館5F
+1712,3,3,陳嘉銘,四訊三四選1, Numerical analysis,數值分析,一06-08,國秀樓003教室
+1713,3,3,黃國賢,四訊四選1, Application and Design of Computer Software,電腦軟體應用與設計,二06-08,E420-工程館4F
+1714,3,3,劉又齊,四訊四選2, Mobile and Wireless Communication,行動與無線通訊,三02-04,國秀樓003教室
+1715,3,3,翁政雄,四訊四選3, Application of Big Data,巨量資料應用,四06-08,國秀樓003教室
+1716,3,3,朱中華,四訊四選4, Application Programming in iOS System,iOS應用程式設計,五02-04,E420-工程館4F
+1717,3,4,蔡正一,四訊四選5, Practical Applications of Cloud Computing,雲端應用實務,五05-08,E420-工程館4F
+1718,12,12,訊校外實習,訊-校外實習, Extracurricular Intern（2）,校外實習（二）,,
+1719,3,3,楊勝智,訊-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1720,3,3,林正堅,訊-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1721,3,3,王圳木,訊-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1722,3,3,黃世演,訊-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1723,3,3,林宗宏,訊-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1740,3,3,簡伯霖,四訊一甲, Linear Algebra,線性代數,三05-07,E243專題製作室
+1741,3,4,林宗宏,四訊一甲, Computer Programming and Experiment （Ⅱ）,程式設計與實習（二）,三01-04,E445-工程館4F
+1742,3,4,楊承志,四訊一甲, Digital Logic Laboratory （Ⅱ）,數位邏輯與實習（二）,一05-08,E445-工程館4F
+1743,3,4,蘇釗登,四訊一甲, The Experiment of Electronics Circuit,電子電路與實習,二01-04,E715-工程館7F
+1744,3,3,楊懿淑,四訊一乙, Linear Algebra,線性代數,三02-04,E531-工程館5F
+1745,3,4,林奕辰,四訊一乙, Computer Programming and Experiment （Ⅱ）,程式設計與實習（二）,一05-08,E531-工程館5F
+1746,3,4,林基源,四訊一乙, Digital Logic Laboratory （Ⅱ）,數位邏輯與實習（二）,二05-08,E445-工程館4F
+1747,3,4,古峰昌,四訊一乙, The Experiment of Electronics Circuit,電子電路與實習,五05-08,E715-工程館7F
+1748,3,3,林灶生,四訊一丙, Linear Algebra,線性代數,五06-08,E445-工程館4F
+1749,3,4,林宗宏,四訊一丙, Computer Programming and Experiment （Ⅱ）,程式設計與實習（二）,二05-08,E531-工程館5F
+1750,3,4,游正義,四訊一丙, Digital Logic Laboratory （Ⅱ）,數位邏輯與實習（二）,二01-04,E445-工程館4F
+1751,3,4,游正義,四訊一丙, The Experiment of Electronics Circuit,電子電路與實習,一05-08,E715-工程館7F
+1752,3,3,黃世演,四訊二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,一01-03,國秀樓303教室
+1753,3,3,黃宣詔,四訊二甲, Discrete Mathematics,離散數學,四05-07,E445-工程館4F
+1754,3,3,林學儀,四訊二甲, Computer Organization and Architecture,計算機組織與結構,二02-04,E531-工程館5F
+1755,3,3,陳瑞茂,四訊二乙, Engineering Mathematics（Ⅱ）,工程數學（二）,一01-03,E529-工程館5F
+1756,3,3,欉振坤,四訊二乙, Discrete Mathematics,離散數學,三02-04,E529-工程館5F
+1757,3,3,欉振坤,四訊二乙, Computer Organization and Architecture,計算機組織與結構,二02-04,E529-工程館5F
+1758,3,3,鍾炎東,四訊二丙, Engineering Mathematics（Ⅱ）,工程數學（二）,二02-04,國秀樓509教室
+1759,3,3,林基源,四訊二丙, Discrete Mathematics,離散數學,四06-08,E418-工程館4F
+1760,3,3,林學儀,四訊二丙, Computer Organization and Architecture,計算機組織與結構,二06-08,E529-工程館5F
+1761,2,6,訊三甲專題,四訊三甲, Project study （Ⅱ）,實務專題（二）,五02-04,
+1762,3,3,張蓺英,四訊三甲, Operating System,作業系統,一02-04,E418-工程館4F
+1763,2,6,訊三乙專題,四訊三乙, Project study （Ⅱ）,實務專題（二）,五02-04,
+1764,3,3,林學儀,四訊三乙, Operating System,作業系統,一06-08,E529-工程館5F
+1765,2,6,訊三丙專題,四訊三丙, Project study （Ⅱ）,實務專題（二）,五02-04,
+1766,3,3,林學儀,四訊三丙, Operating System,作業系統,四06-08,E531-工程館5F
+1767,0,320,,四訊四甲, Diversified Training,多元實習,,
+1768,0,320,,四訊四乙, Diversified Training,多元實習,,
+1769,0,320,,四訊四丙, Diversified Training,多元實習,,
+1781,3,3,黃宣詔,產學四訊三甲, Signals and Systems,信號與系統,五06-08,E418-工程館4F
+1782,2,6,訊國際-專題,產學四訊三甲, Project study （Ⅱ）,實務專題（二）,,
+1783,6,6,訊國際-產業實,產學四訊三甲, The Industry Practises Really and Practically（Ⅳ）,產業實務實習（四）,二07-08,"), 四01-0"
+1784,3,3,陳明德,產學四訊三甲," Linux Fundamentals, Applications and Administration",Linux系統實務,五02-04,E418-工程館4F
+1800,3,3,黃義欽,四化二選, Chemistry of Coating,塗料化學,四06-08,國秀樓409教室
+1801,3,3,王明鍵,四化二選, Introduction of Nanotechnology,奈米科技導論,四06-08,國秀樓309教室
+1802,3,3,胡伯瑜,四化二選, Environmental Engineering,環境工程,四06-08,國秀樓408教室
+1803,3,3,黃怡銘,四化三選1, Biochemistry,生物化學,二06-08,工程館E417電化教室二
+1804,3,3,莊永松,四化三選1, Treatment of Solid Waste,固體廢棄物處理,二06-08,國秀樓409教室
+1805,3,3,楊鎮遠,四化三選1, Introduction of Liquid Crystal Display,液晶顯示技術概論,二06-08,工程館E522電化教室一
+1806,3,3,張漢昌,四化三選2, Science of Toxic Materials in Chemical Engineering,化工毒物學,三05-07,國秀樓506教室
+1807,3,3,蘇慶昌,四化三選2, Fire Science,火災學,三05-07,國秀樓011教室
+1809,3,3,白方正,四化四選1, Composite Materials,複合材料,一02-04,國秀樓309教室
+1810,3,3,高肇郎,四化四選2, Wastewater Engineering,污水工程,二02-04,國秀樓012教室
+1811,3,3,胡淑文,四化四選3, Protein Chemistry,生物感測器,三02-04,國秀樓010教室
+1812,3,3,戴永銘,四化四選4, Materials Analysis,材料分析,五02-04,工程館E404階梯教室
+1813,12,12,化校外實習,校外實習-化, Extracurricular Intern（II）,校外實習（二）,,
+1820,2,6,化專題,四化三選, Project Study （Ⅱ）,實務專題（二）,,
+1822,1,3,蔡美慧,四化一甲, Experiment of General Chemistry,普通化學實驗,二06-08,化材基礎化學實驗室
+1823,1,3,張惠玲,四化一甲, Experiments of Organic Chemistry,有機化學實驗,一06-08,化材有機化學實驗室
+1824,3,3,嚴嘉蕙,四化一甲, Organic Chemistry （Ⅰ）,有機化學（一）,二03-04,"國秀樓307教室), 三02-0"
+1825,3,3,謝淑枝,四化一甲, Physical Chemistry （Ⅰ）,物理化學（一）,三03-04,"國秀樓307教室), 五07-0"
+1826,1,3,呂旭東,四化一乙, Experiment of General Chemistry,普通化學實驗,一06-08,化材基礎化學實驗室
+1827,1,3,張惠玲,四化一乙, Experiments of Organic Chemistry,有機化學實驗,二06-08,化材有機化學實驗室
+1828,3,3,陳秋菊,四化一乙, Organic Chemistry （Ⅰ）,有機化學（一）,三05-05,"國秀樓005教室), 二02-0"
+1829,3,3,邱維銘,四化一乙, Physical Chemistry （Ⅰ）,物理化學（一）,二04-04,"國秀樓308教室), 三03-0"
+1830,1,3,呂旭東,四化一丙, Experiment of General Chemistry,普通化學實驗,二02-04,化材基礎化學實驗室
+1831,1,3,陳秋菊,四化一丙, Experiments of Organic Chemistry,有機化學實驗,三02-04,化材有機化學實驗室
+1832,3,3,蔡明瞭,四化一丙, Organic Chemistry （Ⅰ）,有機化學（一）,二05-06,"國秀樓012教室), 三05-0"
+1833,3,3,黃怡銘,四化一丙, Physical Chemistry （Ⅰ）,物理化學（一）,四06-06,"國秀樓012教室), 一05-0"
+1836,3,3,孫殿元,四化二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,二04-04,"國秀樓409教室), 三02-0"
+1837,1,3,施文昌,四化二甲, Materials Engineering Experiment,材料工程實驗,二06-08,化材材料工程實驗室
+1838,3,3,孫殿元,四化二甲, Material and energy balance,質能均衡,二02-03,"國秀樓409教室), 三04-0"
+1839,3,3,黃怡銘,四化二甲, Instrumental Analysis,儀器分析,一07-07,"國秀樓409教室), 三05-0"
+1840,3,3,駱安亞,四化二甲, Fundamentals of Materials Science and Engineering（Ⅱ）,材料科學與工程概論（二）,一05-06,"國秀樓409教室), 二05-0"
+1841,1,3,嚴嘉蕙,四化二甲, Physical Chemistry Experiment（Ⅱ）,物理化學實驗（二）,一02-04,化材基礎化學實驗室
+1842,3,3,杜景順,四化二乙, Engineering Mathematics（Ⅱ）,工程數學（二）,一02-02,"國秀樓308教室), 二06-0"
+1843,1,3,施文昌,四化二乙, Materials Engineering Experiment,材料工程實驗,二02-04,化材材料工程實驗室
+1844,3,3,高肇郎,四化二乙, Material and energy balance,質能均衡,一05-06,"國秀樓308教室), 二08-0"
+1845,3,3,呂春美,四化二乙, Instrumental Analysis,儀器分析,三03-04,"國秀樓312教室), 二05-0"
+1846,3,3,歐珍方,四化二乙, Fundamentals of Materials Science and Engineering（Ⅱ）,材料科學與工程概論（二）,一03-04,"國秀樓308教室), 三02-0"
+1847,1,3,嚴嘉蕙,四化二乙, Physical Chemistry Experiment（Ⅱ）,物理化學實驗（二）,三05-07,化材基礎化學實驗室
+1848,3,3,杜景順,四化二丙, Engineering Mathematics（Ⅱ）,工程數學（二）,一03-04,"國秀樓407教室), 二08-0"
+1849,1,3,歐珍方,四化二丙, Materials Engineering Experiment,材料工程實驗,一06-08,化材材料工程實驗室
+1850,3,3,林信全,四化二丙, Material and energy balance,質能均衡,一02-02,"國秀樓407教室), 二03-0"
+1851,3,3,呂春美,四化二丙, Instrumental Analysis,儀器分析,四02-02,"國秀樓405教室), 二06-0"
+1852,3,3,歐珍方,四化二丙, Fundamentals of Materials Science and Engineering（Ⅱ）,材料科學與工程概論（二）,二02-02,"國秀樓407教室), 三06-0"
+1853,1,3,戴永銘,四化二丙, Physical Chemistry Experiment（Ⅱ）,物理化學實驗（二）,三02-04,化材基礎化學實驗室
+1855,3,3,張漢昌,四化三甲, Unit Operation（Ⅱ）,單元操作（二）,三04-04,"國秀樓309教室), 二02-0"
+1856,1,3,倪聖中,四化三甲, Experiment of Chemical engineering（Ⅱ）,化學工程實驗（二）,一02-04,化材化學工程實驗室
+1857,3,3,楊鎮遠,四化三甲, Process Engineering,程序工程,二04-04,"國秀樓010教室), 三02-0"
+1858,3,3,林信全,四化三甲, Chemical Reaction Engineering,化學反應工程,一05-06,"國秀樓309教室), 二05-0"
+1859,3,3,戴永銘,四化三乙, Unit Operation（Ⅱ）,單元操作（二）,二03-04,"國秀樓408教室), 四05-0"
+1860,1,3,倪聖中,四化三乙, Experiment of Chemical engineering（Ⅱ）,化學工程實驗（二）,三02-04,化材化學工程實驗室
+1861,3,3,錢玉樹,四化三乙, Process Engineering,程序工程,四06-07,"工程館E522電化教室一), 五02-0"
+1862,3,3,林信全,四化三乙, Chemical Reaction Engineering,化學反應工程,一03-04,"國秀樓408教室), 二02-0"
+1863,3,3,張漢昌,四化三丙, Unit Operation（Ⅱ）,單元操作（二）,一03-04,"國秀樓401教室), 二04-0"
+1864,1,3,楊鎮遠,四化三丙, Experiment of Chemical engineering（Ⅱ）,化學工程實驗（二）,四06-08,化材化學工程實驗室
+1865,3,3,錢玉樹,四化三丙, Process Engineering,程序工程,四05-05,"工程館E522電化教室一), 五07-0"
+1866,3,3,蔡明瞭,四化三丙, Chemical Reaction Engineering,化學反應工程,二02-03,"國秀樓011教室), 四02-0"
+1867,0,320,,四化四甲, Diversified Training,多元實習,,
+1868,0,320,,四化四乙, Diversified Training,多元實習,,
+1869,0,320,,四化四丙, Diversified Training,多元實習,,
+1871,1,3,高肇郎,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1872,1,3,施文昌,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1873,1,3,謝淑枝,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1874,1,3,蔡明瞭,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1875,1,3,杜景順,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1876,1,3,歐珍方,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1877,1,3,蔡美慧,化-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+1S60,3,3,林志宏,產學二冷三甲, Thermodynamics,熱力學,一02-04,E021空調工程實驗室
+1S61,2,4,駱文傑,產學二冷三甲, Fundamental Practical Application of HVAC & R,冷凍空調基礎裝修實務,二01-04,E104冷凍空調裝
+1S62,3,4,管衍德,產學二冷三甲, Energy Engineering Principle and Practices,能源工程與實習,二05-08,E110電機應用實驗室
+1S63,2,4,孔考儒,產學二冷三甲, Electromechanical Integration Practice,機電整合實務,三01-04,研發B1-多功能實習工廠
+1S64,3,4,吳友烈,產學二冷三甲, Air Conditioning Engineering and practices,空調工程與實習,五05-08,E021空調工程實驗室
+1S65,3,3,許智能,產學二冷四甲, Particular Air-conditioning System,特殊空調系統,五02-04,E029冷凍工程實驗室
+1S66,3,3,冷專案研究,產學二冷四甲, Project Study,專案研究,五05-07,
+1S67,9,9,冷產業實習,產學二冷四甲, Industry Internship,產業實習,二05-07,"), 三05-0"
+3100,3,3,吳淑鶯,四企二選, Consumer Behavior,消費者行為,二02-04,M218財務金融研討室
+3101,3,3,林裕淩,四企二選, The Theory and Practice of Business Presentation,商業簡報理論與實務,二02-04,M219策略管理研討室
+3102,3,3,楊宏昌,四企二選, Business Management,業務管理,二02-04,M423專業科目教
+3103,3,3,許文馨,四企二選, Public Exhibition Planning and Marketing,會展規劃與行銷,二05-07,M421專業科目教
+3104,3,3,施珮瑜,四企二選, Financial Markets,金融市場,二05-07,M218財務金融研討室
+3105,3,3,陳寶寶,四企二選, Managerial Accounting,管理會計,二05-07,M207企業管理通識教育研討室
+3110,3,3,林佩芬,四企三選, Labor Rights,勞工權益,二02-04,M207企業管理通識教育研討室
+3111,3,3,林麗嬌,四企三選, Securities Markets and Analysis,證券市場與分析,二02-04,企管系會議室
+3112,3,3,施珮瑜,四企三選, Brand Management,品牌管理,二02-04,M421專業科目教
+3113,3,3,楊宏昌,四企三選, Project Management,專案管理,二05-07,企管系會議室
+3114,3,3,葉振賢,四企三選, Electronic Commerce,電子商務,二05-07,M114資訊系統教室
+3115,3,3,許倩杰,四企三選, New Product Management,新產品管理,二05-07,M221研討室
+3116,3,3,吳淑鶯,四企三選, Marketing & Advertizing,行銷與廣告,五02-04,企管系會議室
+3117,3,3,高寒梅,四企三選, Team Learning,團隊學習,五02-04,M207企業管理通識教育研討室
+3118,3,3,陳寶寶,四企三選, Tax Accounting,稅務會計,五02-04,M421專業科目教
+3120,3,3,陳俊洪,四企四選, Investments,投資學,二02-04,M101專業科目教
+3121,3,3,蔡政豪,四企四選, Marketing Case Discussions,行銷個案研討,二05-07,M101專業科目教
+3122,3,3,陳俊洪,四企四選, Futures And Options Markets,期貨與選擇權,三02-04,M421專業科目教
+3123,3,3,黃瑞鈴,四企四選, Humanity and Business,企業與人文,三02-04,企管系會議室
+3124,3,3,葉振賢,四企四選, Marketing Information System,行銷資訊系統,四06-08,M114資訊系統教室
+3125,9,9,企校外實習,四企四選, off-campus internship （二）,校外實習（二）,,
+3126,12,12,企海外實習,四企四選, Overseas internship （II）,海外實習（二）,,
+3140,3,3,林麗嬌,四企一甲, Intermediate Accounting（Ⅱ）,中級會計學（二）,一03-04,M423專業科目教
+3141,3,3,林水順,四企一甲, Management,管理學,一02-02,M423專業科目教
+3142,3,3,黃瑞鈴,四企一甲, Economics（Ⅱ）,經濟學（二）,二04-06,M102專業科目教
+3143,3,3,林麗嬌,四企一乙, Intermediate Accounting（Ⅱ）,中級會計學（二）,一05-05,M423專業科目教
+3144,3,3,林水順,四企一乙, Management,管理學,二05-06,M423專業科目教
+3145,3,3,黃瑞鈴,四企一乙, Economics（Ⅱ）,經濟學（二）,二02-03,M102專業科目教
+3146,3,3,陳瑞龍,四企二甲, Statistics （Ⅱ）,統計學（二）,四01-02,M101專業科目教
+3147,3,3,黃兆鴻,四企二甲, Business English Writing,商用英文書信,一02-04,M102專業科目教
+3148,3,3,高寒梅,四企二甲, Humam Resource Management,人力資源管理,三03-05,M423專業科目教
+3149,3,3,陳瑞龍,四企二乙, Statistics （Ⅱ）,統計學（二）,四07-08,M101專業科目教
+3150,3,3,黃兆鴻,四企二乙, Business English Writing,商用英文書信,一06-08,M102專業科目教
+3151,3,3,林佩芬,四企二乙, Humam Resource Management,人力資源管理,一03-05,M421專業科目教
+3152,3,3,劉晉宏,四企三甲, Production and Operation Management,生產與作業管理,三04-04,M101專業科目教
+3153,3,3,林裕淩,四企三甲, Practical of Marketing Planning,企劃實務,三02-03,M101專業科目教
+3154,2,6,企管專題甲,四企三甲, Project Study （Ⅱ）,實務專題（二）,,
+3155,3,3,歐陽光,四企三乙, Production and Operation Management,生產與作業管理,四06-08,M421專業科目教
+3156,3,3,邱文志,四企三乙, Practical of Marketing Planning,企劃實務,三03-04,M102專業科目教
+3157,2,6,企管專題乙,四企三乙, Project Study （Ⅱ）,實務專題（二）,,
+3158,0,320,,四企四甲, Diversified Training,多元實習,,
+3159,0,320,,四企四乙, Diversified Training,多元實習,,
+3160,3,3,陳瑞龍,產學四企三甲, Human Resource Management,人力資源管理,五03-05,M218財務金融研討室
+3161,3,3,林水順,產學四企三甲, Practical of Marketing Planning,企劃實務,一03-04,"M220永續與創新管理研討室), 一05-0"
+3162,3,3,劉晉宏,產學四企三甲, Service Industry Management Practices,服務業經營實務,三02-03,"M221研討室), 三05-0"
+3163,2,3,鄧美貞,企管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+3164,2,3,陳俊洪,企管-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+3201,3,3,賴志豪,四資二選1, Consumer Behavior,消費者行為,二02-04,管理館M503
+3204,3,3,張裕幸,四資二選1, Multimedia Design,多媒體設計,二02-04,管理館M513
+3205,3,3,黃展鵬,四資二選1, Programming for mobile devices,行動裝置應用程式設計,二02-04,管理館M511
+3206,3,3,林進榮,四資二選1, Operations Research,作業研究,二02-04,管理館M501
+3208,3,3,黃淑賢,四資三選2, IoT Practiceal Applications,物聯網實務與應用,二02-04,管理館M419
+3209,3,3,陳仕昇,四資三選3, Internet Marketing,網路行銷,二05-07,管理館M510B
+3210,3,3,高元宏,四資三選3, Cloud Computing,雲端運算,二05-07,管理館M511
+3212,3,3,張裕幸,四資三選3, The Digital Game Design,數位遊戲設計,二05-07,管理館M513
+3214,3,3,曹文瑜,四資三選4, Production management system,生產管理資訊系統,三02-04,管理館M513
+3216,3,3,廖文忠,四資三選4, Deep Learning,深度學習,三02-04,管理館M511
+3217,3,3,范振銘,四資三選5, Financial Accounting Information System,財務會計資訊系統,五02-04,管理館M513
+3218,3,3,劉宜菁,四資三選5, Service Innovation and Management,服務創新與管理,五02-04,管理館M503
+3219,3,3,曹文瑜,四資三選5, Data analysis,資料分析,五02-04,管理館M511
+3220,3,3,張裕幸,四資四選6, Information Security,資訊安全,一05-07,管理館M511
+3222,3,3,張維平,四資四選7, Artificial Intelligence,人工智慧,三05-07,管理館M511
+3224,3,3,洪龍廷,四資四選8, Business Intelligent,商業智慧,四05-07,管理館M514
+3225,12,12,資校外實習,四資四選8, Extracurricular Intern（2）,校外實習（二）,,
+3241,2,2,范振銘,四資一甲, Accounting（Ⅱ）,會計學（二）,三01-02,管理館M502
+3242,3,3,楊惠貞,四資一甲, Business Management,企業管理,一02-02,"管理館M419), 三03-0"
+3243,3,4,林進榮,四資一甲, Programming in business,商用程式設計,一07-08,"管理館M501), 五05-0"
+3244,1,2,曹文瑜,四資一甲, Introduction to Database,資料庫入門,一03-04,管理館M513
+3245,3,3,廖文忠,四資一甲, Information Networks,資訊網路,二03-04,"管理館M502), 四08-0"
+3246,2,2,范振銘,四資一乙, Accounting（Ⅱ）,會計學（二）,三03-04,管理館M502
+3247,3,3,楊惠貞,四資一乙, Business Management,企業管理,一03-04,"管理館M419), 三02-0"
+3248,3,4,黃淑賢,四資一乙, Programming in business,商用程式設計,二07-08,"管理館M514), 三06-0"
+3249,1,2,曹文瑜,四資一乙, Introduction to Database,資料庫入門,一01-02,管理館M513
+3250,3,3,廖文忠,四資一乙, Information Networks,資訊網路,二02-02,"管理館M502), 四06-0"
+3251,3,3,王清林,四資二甲, Statistics （Ⅱ）,統計學（二）,二08-08,"管理館M419), 四07-0"
+3252,3,3,陳仕昇,四資二甲, Management Mathematics,管理數學,一05-06,"管理館M502), 五07-0"
+3253,3,3,董俊良,四資二甲, System Analysis and Design,系統分析與設計,三03-04,"管理館M514), 五02-0"
+3254,3,3,陳宏昌,四資二甲, Data Structures,資料結構,二06-07,"管理館M419), 一02-0"
+3255,3,3,張定原,四資二甲, Introduction to ERP,企業資源規劃導論,一03-04,"管理館M501), 四02-0"
+3256,3,3,廖文忠,四資二乙, Statistics （Ⅱ）,統計學（二）,二05-06,"管理館M502), 四05-0"
+3257,3,3,陳仕昇,四資二乙, Management Mathematics,管理數學,一07-08,"管理館M502), 五08-0"
+3258,3,3,董俊良,四資二乙, System Analysis and Design,系統分析與設計,三02-02,"管理館M514), 五03-0"
+3259,3,3,陳宏昌,四資二乙, Data Structures,資料結構,一06-06,"管理館M419), 一03-0"
+3260,3,3,劉宜菁,四資二乙, Introduction to ERP,企業資源規劃導論,三03-04,"管理館M503), 四02-0"
+3261,1,1,張賜賢,四資三甲, guidance for certificate of professional qualification,專業證照檢定輔導,,雙週開課)三06-0
+3263,3,3,黃淑賢,四資三甲, Management of Technological Innovation,科技創新與管理,四05-07,管理館M501
+3264,2,6,資專題甲,四資三甲, Project study （Ⅱ）,實務專題（二）,,
+3265,1,1,張賜賢,四資三乙, guidance for certificate of professional qualification,專業證照檢定輔導,,單週開課)三06-0
+3267,3,3,黃俊明,四資三乙, Management of Technological Innovation,科技創新與管理,四05-07,管理館M511
+3268,2,6,資專題乙,四資三乙, Project study （Ⅱ）,實務專題（二）,,
+3269,0,320,,四資四甲, Diversified Training,多元實習,,
+3270,0,320,,四資四乙, Diversified Training,多元實習,,
+3271,3,3,黃淑賢,外國四資一甲, Introduction to Computer Science,計算機概論,四01-02,"管理館M419), 二05-0"
+3272,3,3,黃展鵬,外國四資一甲, Management Information System,資訊管理導論,二06-06,"管理館M501), 三03-0"
+3273,3,3,王紀瑞,外國四資一甲, Selection and application of Materials,材料選擇與應用,五02-04,管理館M419
+3274,2,2,阮氏芳,外國四資一甲, Work Assignments ResearchⅡ （Career Ethics）,職場基本能力Ⅱ（職業倫理）,三05-06,管理館M502
+3300,3,3,陳秀華,四流一選1, Retailing Management,零售管理,二02-02,"管理館M325), 三03-0"
+3301,3,3,吳世光,四流一選2, Programming,程式設計,一05-07,管理館M301
+3302,3,3,邱素伶,四流一選3, Accounting,會計學,三05-07,管理館M328
+3303,3,3,陳秀華,四流二選1, Consumer Behavior,消費者行為,一05-07,管理館M325
+3304,3,3,邱素伶,四流二選2, Managerial Accounting,管理會計,二05-07,管理館M328
+3305,3,3,林宏澤,四流二選3, Customer Relationship Management,顧客關係管理,三05-07,管理館M327
+3306,3,3,陳彥廷,四流二選4, Purchasing and Inventory Management,採購與庫存管理,三02-04,管理館M327
+3307,3,3,賴建榮,四流三選1, Store Facility Planning and Management,賣場規劃與管理,四05-07,管理館M327
+3308,3,3,詹益慶,四流三選2, Investments,投資學,三05-07,管理館M303
+3309,3,3,創意行銷,四流三選3, Creative Marketing,創意行銷,三02-04,管理館M325
+3310,3,3,陳啟東,四流三選4, Information Management,資訊管理,五05-07,管理館M301
+3311,3,3,李逢嘉,四流三選5, Big Data Analysis,大數據分析,二05-07,管理館M302
+3313,3,3,林亮宗,四流四選2, Total Quality Management,全面品質管理,二05-08,管理館M403
+3314,3,3,郭權億,四流四選3, Internet Marketing,網路行銷,四05-07,管理館M325
+3315,3,3,蔣淑芬,四流四選4, Business laws and regulations,商用法規,三02-04,管理館M303
+3316,3,3,校外實習1,校外實習1, The practice of operation,物流作業實習,,
+3317,3,3,校外實習2,校外實習2, The Practice of marketing planning,行銷企劃實習,,
+3318,3,3,校外實習3,校外實習3, Franchise Practice of Chain store and Management,連鎖與加盟管理實習,,
+3331,3,3,王佩文,四技流一甲, Economics,經濟學,五05-07,管理館M325
+3332,3,3,賴建榮,四技流一甲, Management,管理學,二03-04,"管理館M327), 二08-0"
+3333,3,3,邱素伶,四技流一乙, Economics,經濟學,一01-02,"管理館M328), 二01-0"
+3334,3,3,陳秀華,四技流一乙, Management,管理學,二03-04,"管理館M325), 三02-0"
+3335,3,3,詹益慶,四技流二甲, Statistics （Ⅱ）,統計學（二）,二08-08,"管理館M328), 四01-0"
+3336,3,3,吳文明,四技流二甲, Mathematics for Management,管理數學,二01-02,"管理館M303), 四05-0"
+3337,3,3,Murphy,四技流二甲, Commercial English,商用英文,五02-04,管理館M327
+3338,3,3,楊忠民,四技流二甲, Database Management,資料庫管理,一02-04,管理館M302
+3339,3,3,邱素伶,四技流二乙, Statistics （Ⅱ）,統計學（二）,一03-04,"管理館M328), 五01-0"
+3340,3,3,吳文明,四技流二乙, Mathematics for Management,管理數學,二03-04,"管理館M303), 四02-0"
+3341,3,3,郭權億,四技流二乙, Commercial English,商用英文,五05-07,管理館M403
+3342,3,3,蔡正一,四技流二乙, Database Management,資料庫管理,五02-04,管理館M301
+3343,2,6,流管專題甲,四技流三甲, Project Study（Ⅱ）,實務專題（二）,,
+3344,2,6,流管專題乙,四技流三乙, Project Study（Ⅱ）,實務專題（二）,,
+3345,0,320,,四技流四甲, Diversified Training,多元實習,,
+3346,0,320,,四技流四乙, Diversified Training,多元實習,,
+3347,3,3,,校際選課, Service Marketing,服務行銷,,
+3348,3,3,,校際選課,,中國思想史,,
+3349,3,3,,校際選課,,中國文學史,,
+3400,3,3,韓可宗,四景一甲, Landscape History,景觀史,三03-05,管理館景觀專業教室
+3401,3,3,李美芬,四景二甲, Environmental behavior and observation,環境行為與觀察,二05-07,管理館景觀評圖教室
+3402,3,3,張淑貞,四景二甲, Community building and practical,社區營造與實習,五02-04,管理館景觀專業教室
+3403,2,3,韓可宗,四景二甲, Creative Design Methodology,創意與設計方法,五05-07,管理館景觀專業教室
+3404,2,2,謝翠玲,四景三甲, Soil Science,土壤與肥料,三03-04,管理館景觀評圖教室
+3405,2,2,陳廷育,四景三甲, Structural Design,結構設計,二05-06,管理館景觀專業教室
+3406,2,2,歐文生,四景四甲, Contract out and standard for engineering,工程發包契約與規範,三03-04,管理館景觀電腦教室一
+3407,2,2,王仁祿,四景四甲, Feng Shui of Landscape Environment,景觀環境風水,四05-06,管理館景觀專業教室
+3408,2,3,陳雲鵬,四景四甲, Plan and Design for Recreation Facilities,遊憩設施規劃與設計,三05-07,管理館景觀電腦教室一
+3420,1,3,景實務實習(一),四景一甲, Landscape practice practice（Ⅰ）,景觀實務實習（一）,,
+3421,3,7,景觀設計(二)A,四景一甲(A班-單號), Landscape Design （Ⅱ）,景觀設計（二）,二02-08,管理館景觀製圖教室二
+3422,3,7,景觀設計(二)B,四景一甲(B班-雙號), Landscape Design （Ⅱ）,景觀設計（二）,二02-08,管理館景觀製圖教室二
+3423,2,3,黃建勳,四景一甲, Computer Graphic （Ⅰ）,電腦繪圖（一）,五05-07,管理館6樓電腦教室二
+3424,2,2,方智芳,四景一甲, Landscape plant （Ⅱ）,景觀植物學（二）,三06-07,管理館景觀專業教室
+3425,2,2,謝宜庭,四景一甲, Drawing for Landscape and Architecture （Ⅱ）,景觀圖學（二）,四07-08,管理館景觀製圖教室二
+3426,3,7,景觀設計(四)A,四景二甲(A班-單號), Landscape Design 4,景觀設計四,三01-07,管理館景觀製圖教室四
+3427,3,7,景觀設計(四)B,四景二甲(B班-雙號), Landscape Design 4,景觀設計四,三01-07,管理館景觀製圖教室四
+3428,2,3,景觀構造系統,四景二甲, Frame Structure for Landscape Architecture,景觀構造系統,一07-09,管理館景觀評圖教室
+3429,2,2,李美芬,四景二甲, Computer Drafting 2,電腦繪圖二,二03-04,管理館6樓電腦教室二
+3430,2,3,陳廷育,四景二甲, Survey,測量學,四07-09,管理館景觀評圖教室
+3431,2,2,謝翠玲,四景二甲, Landscape Ecology,景觀生態學,四05-06,管理館景觀評圖教室
+3433,2,2,廖明誠,四景三甲, Landscape construction estimate,景觀施工與估價,三05-06,管理館景觀評圖教室
+3434,3,7,景觀設計(六)A,四景三甲(A班-單號), Landscape Design 6,景觀設計六,四01-02,"管理館景觀製圖教室一), 四05-0"
+3435,3,7,景觀設計(六)B,四景三甲(B班-雙號), Landscape Design 6,景觀設計六,四01-02,"管理館景觀製圖教室一), 四05-0"
+3436,2,2,謝翠玲,四景三甲, Landscape Planning II,景觀規劃（二）,二03-04,管理館景觀專業教室
+3438,3,9,景觀設計(八)A,四景四甲(A班-單號), Landscape Design （8）,景觀設計八,五01-09,管理館景觀製圖教室三
+3439,3,9,景觀設計(八)B,四景四甲(B班-雙號), Landscape Design （8）,景觀設計八,五01-09,管理館景觀製圖教室三
+3440,0,320,,四景四甲, Diversified Training,多元實習,,
+3500,1,2,陳家成,四休閒一甲, Application Of Community Service,社區服務實務,四07-08,文化休閒館B01教室
+3501,3,3,飲務管理與實務,四休閒一甲, Management and Operation for Dining,飲務管理與實務,三05-07,文化休閒館CR201教室
+3502,3,3,郭春敏,四休閒一甲, Hospitality Management,旅館管理,三05-07,文化休閒館CR203教室
+3503,3,3,林雲燦,四休閒二甲, Hospitality and Tourism Management and Operation（II）,餐旅經營實務（二）,一01-03,Coffee Corner
+3504,3,3,陳泰衡,四休閒二甲, Travel Ticketing System,旅行業票務系統,一05-07,文化休閒館CR203-1教室
+3505,3,3,羅友志,四休閒二甲, Fitness Club Management and Operation（Ⅱ）,健身俱樂部經營實務（二）,一02-04,文化休閒館CR204休閒健康促進專業教室
+3506,3,3,徐欽賢,四休閒二甲, Self Defense,休閒安全與防身學,三05-07,文化休閒館CR204休閒健康促進專業教室
+3507,3,3,蔡宜芝,四休閒二甲, Customer Relationship Management,顧客關係管理,四05-07,文化休閒館CR203教室
+3508,3,3,陳細鈿,四休閒二甲, Data Analysis and Application for Leisure Industry,休閒產業資料分析與應用,一05-07,管理館M611-1
+3509,3,3,陳泰衡,四休閒三甲, Travel Agency Practice And Management,旅行業經營與管理,四05-07,文化休閒館CR203-1教室
+3511,3,3,陳奕伸,四休閒三甲, Sports Industry and Tourism,運動產業與觀光,四08-09,"文化休閒館CR203教室), 五09-0"
+3512,3,3,陳奕伸,四休閒三甲, Design and Planning Adventure Sports,冒險運動設計與規劃,五06-08,文化休閒館CR201教室
+3513,3,3,休閒校外實習1,四休閒三甲, Services Operation Internships（Ⅱ）,服務作業實習（二）,,
+3514,3,3,休閒校外實習2,四休閒三甲, Service Quality Internships（Ⅱ）,服務品質實習（二）,,
+3515,3,3,休閒校外實習3,四休閒三甲, Customer Relationship Internships（Ⅱ）,顧客關係實習（二）,,
+3516,3,3,休閒校外實習4,四休閒三甲, Marketing Planning Internships（Ⅱ）,行銷企劃實習（二）,,
+3517,3,3,羅友志,四休閒四甲, Foreign Language Tour Guiding and Operating Communicative Skills,外語領隊導遊溝通技巧,三05-07,文化休閒館CR308教室
+3518,3,3,都會休閒與觀光,四休閒四甲, Urban Leisure and Tourism,都會休閒與觀光,四05-07,文化休閒館CR308教室
+3519,3,3,陳泰衡,四休閒四甲, Leisure Travel Planning,休閒活動行程規劃,二07-09,文化休閒館CR203教室
+3521,3,3,專案管理概論,四休閒四甲, Introduction to Project Management,專案管理概論,五05-07,文化休閒館CR203教室
+3522,3,3,張簡勢坤,四休閒一甲, Food & Beverage Service and Baking Practicum （Ⅱ）,餐飲服務與烘焙實務（二）,一03-05,勤益學舍烘焙教室
+3523,2,2,楊子孟,四休閒一甲, English for Catering,餐飲英文,四05-06,文化休閒館B01教室
+3524,2,2,張瑞元,四休閒一甲, Accounting,會計學,一07-08,文化休閒館B01教室
+3525,3,3,研究法,四休閒二甲, Research Method,研究法,二02-03,"文化休閒館B01教室), 二07-0"
+3526,3,3,林雲燦,四休閒二甲, Marketing,行銷學,二04-06,文化休閒館B01教室
+3527,2,2,陳泰衡,四休閒二甲, Career Planning Professional Ethic,生涯規劃與職場倫理,一08-09,文化休閒館CR308教室
+3528,2,2,羅友志,四休閒二甲, Sport and Leisure English,休閒運動英文,三03-04,文化休閒館B01教室
+3529,2,2,陳細鈿,四休閒四甲, Quality Management for Service Industry,休閒產業服務品質管理,二05-06,文化休閒館CR308教室
+3530,3,6,休閒專題,四休閒四甲, Project study （Ⅱ）,實務專題（二）,,
+3531,0,320,,四休閒四甲, Diversified Training,多元實習,,
+3532,3,3,陳細鈿,休-專題師徒, Mentor-Apprentice Internship Course for Project （I）,專題師徒實習（一）,,
+5100,2,2,丹尼爾,四英一甲, Commercial introduction,商業概論,二05-06,國秀樓5樓多媒體暨口譯教室
+5101,2,2,林依蓉,四英一甲, EFL Teaching Methods,英語教學法,五03-04,國秀樓5樓ESP視訊專業教室
+5102,2,2,張瑞芳,四英二甲, French （Ⅱ）,第二外語 法文（二）,一05-06,國秀樓501教室
+5103,2,2,許玉音,四英二甲, Cultural industry and tourism,文化產業與觀光,二03-04,國秀樓501教室
+5104,2,2,丹尼爾,四英二甲, Business Communication （2）,商務溝通（二）,二01-02,國秀樓1F語言教室B
+5105,2,2,邱幸珍,四英二甲, Selected Reading on stories,小說選讀,四05-06,國秀樓1F語言教室B
+5106,2,2,朱韻如,四英二甲, Japanese（Ⅱ）,第二外語 日文（二）,五03-04,國秀樓1樓多媒體視聽室 CoffeeCorner
+5107,2,2,羅琇君,四英二甲, Espanol （Ⅱ）,第二外語　西班牙文（二）,五05-06,國秀樓5樓ESP視訊專業教室
+5108,2,2,羅琇君,四英三甲, Espanol （Ⅳ）,第二外語 西班牙文（四）,一01-02,國秀樓5樓ESP視訊專業教室
+5109,2,2,張瑞芳,四英三甲, French （Ⅳ）,第二外語 法文（四）,一07-08,國秀樓501教室
+5110,3,3,王文彥,四英三甲, Project Management,專案管理,二02-04,國秀樓1樓多媒體視聽室 CoffeeCorner
+5111,2,2,丹尼爾,四英三甲, International Enterprise Management,國際企業管理,三01-02,國秀樓5樓多媒體暨口譯教室
+5112,2,2,蔡靜玲,四英三甲, English Secretarial Affairs,英文秘書實務,四07-08,國秀樓1樓多媒體視聽室 CoffeeCorner
+5113,2,2,朱韻如,四英三甲, Japanese（Ⅳ）,第二外語 日文（四）,五05-06,國秀樓1樓多媒體視聽室 CoffeeCorner
+5114,2,2,蔣蕙華,四英四甲, Curriculum Design in English Language Teaching,英語教學課程設計,二05-06,國秀樓1F語言教室B
+5131,3,3,林佳靜,四英一甲, Freshman English（Ⅱ）,大一英文（二）,一03-04,"國秀樓5樓多媒體暨口譯教室), 二02-0"
+5132,2,2,吳淑蓉,四英一甲(單號), English Conversation（Ⅱ）,英語會話（二）,五07-08,國秀樓5樓多媒體暨口譯教室
+5133,2,2,蘇紹雯,四英一甲(雙號), English Conversation（Ⅱ）,英語會話（二）,三05-06,國秀樓1F語言教室B
+5134,2,2,陳媛珊,四英一甲(單號), Basic Writing（Ⅱ）,初級寫作（二）,三03-04,國秀樓1F語言教室B
+5135,2,2,陳媛珊,四英一甲(雙號), Basic Writing（Ⅱ）,初級寫作（二）,二03-04,國秀樓1F語言教室B
+5136,2,2,蔣蕙華,四英一甲, Grammar and Rhetoric （Ⅱ）,文法與修辭（二）,一05-06,國秀樓5樓多媒體暨口譯教室
+5137,2,2,蕭佩宜,四英一甲, Applied linguistics （Ⅱ）,語言學概論（二）,一07-08,國秀樓1F語言教室B
+5138,2,2,蕭佩宜,四英二甲, English Listening Speaking （Ⅱ）,英語聽力訓練（二）,一03-04,國秀樓1F語言教室B
+5139,2,2,林佳靜,四英二甲(單號), Intermediate English Writing（Ⅱ）,中級寫作（二）,三03-04,國秀樓501教室
+5140,2,2,廖晨甯,四英二甲(雙號), Intermediate English Writing（Ⅱ）,中級寫作（二）,四07-08,國秀樓5樓ESP視訊專業教室
+5141,2,2,黃靜雲,四英二甲(單號), English Conversation （Ⅳ）,英語會話（四）,二05-06,國秀樓5樓ESP視訊專業教室
+5142,2,2,劉晉廷,四英二甲(雙號), English Conversation （Ⅳ）,英語會話（四）,五01-02,國秀樓1F語言教室B
+5143,2,2,黃靜雲,四英二甲, Selected Reading of Masterpieces （Ⅱ）,文學名著選讀（二）,一07-08,國秀樓5樓多媒體暨口譯教室
+5144,2,2,吳雅玲,四英三甲, English Presentations,英語簡報,一05-06,國秀樓1F語言教室B
+5145,2,2,林依蓉,四英三甲(單號), Chinese-English Translation（Ⅱ）,中英筆譯（二）,五01-02,國秀樓5樓ESP視訊專業教室
+5146,2,2,黃靜雲,四英三甲(雙號), Chinese-English Translation（Ⅱ）,中英筆譯（二）,三05-06,國秀樓5樓ESP視訊專業教室
+5147,2,2,蘇紹雯,四英三甲, Research Methods（Ⅱ）,研究方法（二）,四01-02,國秀樓1F語言教室B
+5148,2,2,蘇紹雯,四英三甲(單號), Advanced Writing（Ⅱ）,高級寫作（二）,三03-04,國秀樓5樓ESP視訊專業教室
+5149,2,2,黃慧如,四英三甲(雙號), Advanced Writing（Ⅱ）,高級寫作（二）,五03-04,國秀樓1F語言教室B
+5150,1,3,應英專題,四英三甲, Project study （Ⅰ）,實務專題（一）,,
+5151,2,2,黃靜雲,四英四甲(單號), Chinese-English Translation （Ⅳ）,中英筆譯（四）,一05-06,國秀樓5樓ESP視訊專業教室
+5152,2,2,陳樹信,四英四甲(雙號), Chinese-English Translation （Ⅳ）,中英筆譯（四）,一05-06,國秀樓1樓多媒體視聽室 CoffeeCorner
+5153,2,2,蔡靜玲,四英四甲(單號), Chinese-English Interpretation （Ⅱ）,中英口譯（二）,四05-06,國秀樓501教室
+5154,2,2,吳雅玲,四英四甲(雙號), Chinese-English Interpretation （Ⅱ）,中英口譯（二）,三05-06,國秀樓5樓多媒體暨口譯教室
+5155,2,2,陳樹信,四英四甲, Professional English reading （Ⅱ）,專業英文閱讀（二）,一03-04,國秀樓1樓多媒體視聽室 CoffeeCorner
+5156,0,2,張旭琪,四英四甲, English Remedial Training B （Ⅱ）,英檢輔導B（二）,四01-02,國秀樓5樓ESP視訊專業教室
+5157,0,320,,四英四甲, Diversified Training,多元實習,,
+5200,2,2,楊卿,四文一甲, Consumer Psychology,消費心理學,二03-04,文化休閒館CRB02
+5201,2,2,黃詩珮,四文一甲, layout design,圖文編排設計,三05-06,N103設計工
+5202,2,2,李泰山,四文一甲, Managements of Emotion,情緒管理,一03-04,文化休閒館CRB02
+5203,2,2,游惠遠,四文一甲, Literature and artistic commentary 、 writing and publishment,藝文評析與編輯實務,二01-02,文化休閒館CR409
+5204,2,2,顏加松,四文一甲, Introduction to Digital Montage,數位剪輯入門,二05-06,文化休閒館CR103
+5205,2,2,盛業信,四文一甲, Le francais du tourisme,觀光法語,五05-06,文化休閒館CR101
+5206,2,2,楊卿,四文二甲, Group Guidence & Practice,團體領導實務,一07-08,文化休閒館CRB02
+5207,2,2,詹介𦹂,四文二甲, Advertising design,廣告企劃設計,三03-04,文化休閒館CR103
+5208,2,2,游惠遠,四文二甲, Gender subject and Literature analysis,性別議題與文本分析,一03-04,文化休閒館CR409
+5209,2,2,顏加松,四文二甲, Advertising Planning and Marketing,廣告企劃與行銷,二07-08,文化休閒館CR103
+5210,2,2,盛業信,四文二甲, Practice of Tour Manager and Tour Guide,領隊導遊實務,五03-04,文化休閒館CRB02
+5211,2,2,丁嘉种,四文二甲, Music Making and Software Application（II）,數位音樂創作與軟體運用（二）,一03-04,文化休閒館CR103
+5212,2,2,施世昱,四文二甲, Classics rewriting and Picture-book writing,文本改編與繪本製作,四05-06,N105手作工
+5213,2,2,黃士嘉,四文二甲, Taiwan Currency Songs and MV Product,台灣閩南語流行歌曲與影音製作,二03-04,文化休閒館CR107
+5214,2,2,顏加松,四文二甲, AD Planning and Mass Media,廣告企劃與傳播媒體,四07-08,N102影像工
+5215,2,2,顏加松,四文三甲, Cross field Digital Film & Music Operation,跨領域影音操作,二01-02,文化休閒館CR103
+5216,2,2,錄音工程實務二,四文三甲, Recording Engineering Practice（II）,錄音工程實務（二）,二03-04,文化休閒館CR103
+5217,2,2,黃詩珮,四文三甲, Local characteristics of art and product design over the island.,地方特色與產品設計,二05-06,N103設計工
+5218,2,2,黃詩珮,四文三甲, Creative Design of Art Visiting,藝術巡禮創意設計,二07-08,N103設計工
+5219,2,2,盛業信,四文三甲, The Pragmatic way of the Creative Tour,文創旅遊實務,三05-06,文化休閒館CR409
+5220,2,2,蘇智偉,四文三甲, Seal Cutting,篆刻藝術,四05-06,N101陶藝板畫工
+5221,2,2,陳志昌,四文三甲, Folk Beliefs in Taiwan,臺灣民間信仰,四07-08,文化休閒館CR107
+5222,12,12,文化校外實習,四文四甲, Extracurricular Intern,校外實習（一）,,
+5230,2,2,盛業信,四文一甲, Introduction of Creative Tourism,文創旅遊概論,四05-06,文化休閒館CR101
+5231,2,2,文化藝術概論,四文一甲, Introduction to Art,藝術概論,三01-02,文化休閒館CR101
+5232,2,2,陳湘湘,四文一甲, Pop Aesthetics and Creativity,流行音樂與創意美學,一01-02,文化休閒館CR101
+5233,2,2,陳志昌,四文一甲, Cultural and Creative Industry Marketing,文創行銷概論,一05-06,文化休閒館CR101
+5234,2,2,文化史專題,四文二甲, Chinese cultural history,中國文化史專題實務,三05-06,文化休閒館CRB02
+5235,2,2,楊卿,四文二甲, Market survey and Data analysis,市場調查與分析,一01-02,文化休閒館CRB02
+5236,2,2,文化設計方法,四文二甲, Methods of Cultural Industries Design,文創設計方法,四01-02,文化休閒館CR101
+5237,2,2,黃士嘉,四文二甲, Cultural Policy and Public Sector Resources,文創政策與公部門資源,二01-02,文化休閒館CRB02
+5238,2,2,盛業信,四文三甲, The Subject Practice of World's History,世界文明史專題實務,四01-02,文化休閒館CRB02
+5239,2,2,李泰山,四文三甲, Business Ethics,職場倫理,一01-02,文化休閒館CR107
+5240,2,6,文化專題,四文三甲, Project study （Ⅰ）,實務專題（一）,,
+5241,0,320,,四文四甲, Diversified Training,多元實習,,
+5242,2,2,黃詩珮,四文二甲, An Introduction to Exhibition,展演概論,三01-02,文化休閒館CRB02
+5243,6,6,數位音樂操作,深碗課程, Digital Music Manipulation&Programming Basics-In-depth course,數位音樂操作&基礎程式設計—深碗課程,二10-12,"文化休閒館CR103), 五07-0"
+8501,3,3,張燦明,四技四；二技二共選1, International Quality Assurance,國際品質保證,二12-14,工303整合製造模擬室
+8502,3,3,林瑛祥,四技四；二技二共選3, Marketing Management,行銷管理,四12-14,工002製造程序改善室
+8531,3,3,廖麗滿,職二工二甲, Production Management,生產管理,二10-11,"工202教室),"
+8532,0,0,,職二工二甲,,全校共同時間,一12-13,工303整合製造模擬室
+9001,3,3,鄭中川,職四訊二選1, C# Programming Language,Ｃ＃程式語言,五10-12,E418-工程館4F
+9002,3,3,楊惠君,職四訊三四選1, Information security,資訊安全,一10-11,"E420-工程館4F), 二10-1"
+9003,3,3,陳瑞茂,職四訊三四選2," Linux Fundamentals, Applications and Administration",Ｌｉｎｕｘ系統實務,三10-12,E420-工程館4F
+9004,3,3,郝延昇,職四訊三四選2, Information and Multimedia Engineering,資訊與多媒體工程實務,三10-12,E418-工程館4F
+9005,3,3,黃宣詔,職四訊三選1, Advanced Embedded System Design and Lab.,進階嵌入式系統設計及實習,四10-12,E547-工程館5F
+9006,3,3,黃清涼,職四訊三選1, The practice of programming .NET,.net程式設計實務,四10-12,國秀樓003教室
+9007,3,3,劉又齊,職四訊三選2, An Introduction to Embedded system,嵌入式系統概論,五10-12,E547-工程館5F
+9008,3,3,郭崇韋,職四訊三選2, Fundamental of Innovative Electronic Design,智慧電子設計應用概論,五10-12,E531-工程館5F
+9009,3,3,黃國賢,職四訊四選1, Application and Design of Computer Software,電腦軟體應用與設計,二11-13,E420-工程館4F
+9010,3,3,楊金山,職四訊四選2, 3D Computer Animation Practice,3D電腦動畫實務,四10-12,E418-工程館4F
+9011,3,3,林宗宏,職四訊四選3, Programming Examination Counseling,程式檢定輔導,五10-12,E445-工程館4F
+9012,3,3,蕭世雄,職四訊四選3, Professional Ethics （and Career Management）,職場倫理,五10-12,E529-工程館5F
+9013,3,3,溫源漢,職四訊四選1, Scripting Language,Scripting 程式語言,二11-13,E445-工程館4F
+9031,3,3,林基源,職四訊一甲, Digital Logic Practice,數位邏輯實務,四10-12,E445-工程館4F
+9032,3,3,黃宣詔,職四訊一甲, Electronic Circuit Design and Practice,電子電路,五10-12,E715-工程館7F
+9033,3,4,鄭中川,職四訊一甲, Programming Language and Laboratory （Ⅰ）,程式設計與實習（一）,二10-13,E418-工程館4F
+9034,0,0,,職四訊一甲,,全校共同時間,一12-13,E531-工程館5F
+9035,3,3,溫源漢,職四訊二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,一10-11,"E529-工程館5F), 二10-1"
+9036,3,3,王俊傑,職四訊二甲, Discrete Mathematics,離散數學,二11-13,E529-工程館5F
+9037,3,3,朱孝國,職四訊二甲, Web Programming,Web程式設計,三10-12,E531-工程館5F
+9038,3,3,林學儀,職四訊二甲, Computer Organization and Architecture,計算機組織與結構,四10-12,E531-工程館5F
+9039,0,0,,職四訊二甲,,全校共同時間,一12-13,E529-工程館5F
+9040,3,3,張蓺英,職四訊三甲, Operating System,作業系統,二11-13,國秀樓313教室
+9041,2,4,職四訊專題,職四訊三甲, Project study （Ⅱ）,實務專題（二）,,
+9042,0,0,,職四訊三甲,,全校共同時間,一12-13,E420-工程館4F
+9043,0,0,,職四訊四甲,,全校共同時間,一12-13,E418-工程館4F
+9097,3,3,,跨校選修, Data Structures,資料結構,,
+9098,3,3,,跨校選修, Linear Algebra,線性代數,,
+9099,3,3,,跨校選修, Digital Logic Practice,數位邏輯實務,,
+9101,3,3,謝明珠,職四機三選 1, Computer Aided Design,電腦輔助設計,三10-12,機械館電腦繪圖室
+9103,3,3,林明志,職四機三選 2, Jig and Fixture Design,夾治具設計,五10-12,國秀樓401教室
+9104,3,3,張浮明,職四機三選 2, Manufacturing Process Planning,製程規劃,五10-12,國秀樓409教室
+9105,3,3,洪崇舜,職四機四選 1, Digital Control,數位控制,,單週開課)三13-1
+9107,3,3,林金雄,職四機四選 2, Industrial Safety and Health,工業安全與衛生,三10-12,國秀樓403教室
+9110,3,3,邱俊智,職四機四選 3, LabVIEW Programming Language,LabVIEW程式設計與應用,四10-12,機械館自動控制實驗室
+9111,3,3,林孟泓,職四機四選 4, Introduction to Aeronautical Engineering,航空工程概論,五10-12,國秀樓403教室
+9131,3,3,謝慶雄,職四機一甲, Statics,靜力學,三10-12,國秀樓401教室
+9132,3,3,鄭文達,職四機一甲, The Science and Engineering of Materials（Ⅰ）,材料科學與工程（一）,四10-12,機械館微控制器實驗室
+9133,1,3,張子欽,職四機一甲, Precision manufacture practicum,精密製造實習,二10-12,"機械館綜合工廠), 二10-1"
+9134,0,0,,職四機一甲,,全校共同時間,一12-13,國秀樓401教室
+9135,3,3,邱煥釗,職四機二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,四10-12,國秀樓402教室
+9136,3,3,朱玟霖,職四機二甲, Applied Electronics（Ⅰ）,應用電子學（一）,二10-12,國秀樓402教室
+9137,3,3,洪崇舜,職四機二甲, Pneumatic Control,氣壓學,五10-12,國秀樓402教室
+9138,3,3,林清福,職四機二甲, Mechanics of Materials（Ⅰ）,材料力學（一）,一10-11,"國秀樓408教室), 二14-1"
+9139,3,3,陳凱榮,職四機二甲, Machinery,機構學,三10-12,國秀樓402教室
+9140,0,0,,職四機二甲,,全校共同時間,一12-13,國秀樓402教室
+9141,1,3,沈銘原,職四機三甲, Practice of Mechanical Engineering—Part （Ⅰ）,機械工程實驗（一）,二10-12,機械館微控制器實驗室
+9142,3,3,廖能通,職四機三甲, Fluid Mechanics（Ⅰ）,流體力學（一）,一10-11,"國秀樓403教室),"
+9143,3,3,詹俊奕,職四機三甲, Computer Aided Engineering Analysis（Ⅰ）,電腦輔助工程分析（一）,四10-12,機械館CAE電腦教室
+9144,0,0,,職四機三甲,,全校共同時間,一12-13,國秀樓403教室
+9145,1,3,謝有源,職四機四甲, Practice of Mechanical Engineering—Part （Ⅲ）,機械工程實驗（三）,二10-12,機械館機電整合實驗室
+9146,0,0,,職四機四甲,,全校共同時間,一12-13,國秀樓405教室
+9201,3,3,林家宏,職四電一選, PLC Applications,ＰＬＣ應用,三10-12,E226整合網路應用控制實驗室
+9202,3,3,呂學德,職四電一選, MATLAB Programming,MATLAB程式設計,三10-12,E320電能技術CAD實驗
+9203,3,3,陳時佳,職四電二選, Energy Application,能源應用,三13-14,"國秀樓405教室), 五14-1"
+9204,3,3,呂學德,職四電三選1, Electric Power Engineering,電力工程,一10-11,"E304電工儀表實驗教室),"
+9205,3,3,葉政育,職四電三選2, Applications for Python,Python程式應用,五10-12,E320電能技術CAD實驗
+9206,3,3,余文隆,職四電四選1, Electric Power Engineering,電力工程,一10-11,"國秀樓309教室),"
+9207,3,3,張一楠,職四電四選2, Microelectromechanical Systems （MEMS）,微機電系統,二10-12,國秀樓308教室
+9208,3,4,洪清寶,職四電四選3, Microcontroller Application and Practice,微控制器應用及實習,三10-13,E241機電整合實驗教室
+9209,3,3,葉明宗,職四電四選4, Digital Image Processing,數位影像處理,四10-12,E320電能技術CAD實驗
+9210,3,3,姚宇桐,職四電四選5, Energy Storage Technologies,電能儲存技術,,雙週開課)四13-1
+9211,3,3,吳水旺,職四電四選6, Design of Digital System,數位系統設計,五12-14,國秀樓308教室
+9231,3,3,簡伯霖,職四電一甲, Physics （Ⅱ）,物理（二）,五10-12,E304電工儀表實驗教室
+9232,3,3,葉政育,職四電一甲, Computer Program,計算機程式,二10-12,E228微處理機實驗教室
+9233,0,0,,職四電一甲,,全校共同時間,一12-13,國秀樓305教室
+9234,3,3,張添丁,職四電二甲, Electric Circuit Analysis （Ⅱ）,電路學（二）,一10-11,"E301電力品質實驗教室), 五10-1"
+9235,3,3,蔡政道,職四電二甲, Electronics（Ⅱ）,電子學（二）,二10-12,E301電力品質實驗教室
+9236,1,3,謝錦聰,職四電二甲, Electronics Lab II,電子實習（二）,五11-13,E223電子實驗教室
+9237,3,3,姚賀騰,職四電二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,四10-12,E301電力品質實驗教室
+9238,1,3,王孟輝,職四電二甲, Electric Machinery Practice,電機機械實習,三10-12,E321電機機械實驗教室
+9239,0,0,,職四電二甲,,全校共同時間,一12-13,國秀樓301教室
+9240,3,3,卜文正,職四電三甲, Electric Machine Control,電機控制,四10-12,E226整合網路應用控制實驗室
+9241,3,3,蔡政道,職四電三甲, Power Electronics,電力電子學,三10-12,E301電力品質實驗教室
+9242,1,3,張隆益,職四電三甲, Industrial Distribution Design Practice,工業配電設計實習,二10-12,E320電能技術CAD實驗
+9243,0,0,,職四電三甲,,全校共同時間,一12-13,國秀樓302教室
+9244,0,0,,職四電四甲,,全校共同時間,一12-13,國秀樓306教室
+9301,3,3,楊文昇,職四子三選, Application of Cloud Computing,雲端科技應用,一10-11,"E431-工程館4F),"
+9302,3,3,陳英傑,職四子三選, Design of power conversion circuits,電能轉換電路設計,二10-12,E710-工程館7F
+9303,3,3,顏錦柱,職四子三選,,控制系統,二10-12,E617-工程館6F
+9304,3,3,李肇廉,職四子三選, Programmable Logic Controller Application,PLC應用實作,三10-12,E614-工程館6F
+9305,3,3,吳靜娜,職四子三選, Introduction to Game Physics,遊戲物理導論,三10-12,E431-工程館4F
+9306,3,3,陳文俊,職四子三選, Digital Circuits and Systems,數位電路與系統,五10-12,國秀樓310教室
+9307,3,3,蔡竹青,職四子三選, Industrial Introduction,產業概論,五10-12,E613-工程館6F
+9308,3,3,蔡沅南,職四子四選, Introduction to Semiconductor Devices,半導體元件導論,一10-11,"E525-工程館5F),"
+9309,3,3,李肇廉,職四子四選, Industrial Control Electronics,工業控制電子學,二10-12,E614-工程館6F
+9310,3,3,何岳璟,職四子四選, Introduction to Network,網路概論,三10-12,E715-工程館7F
+9311,3,3,陳啟鈞,職四子四選, Implementation of Digital Image Processing,數位影像處理實作,四10-12,E613-工程館6F
+9312,3,3,吳虾融,職四子四選, Computer Game Programming,遊戲製作,四10-12,E431-工程館4F
+9313,3,3,吳虾融,職四子四選, Virtual Reality,虛擬實境,五10-12,E431-工程館4F
+9331,3,3,蘇志超,職四子一甲, Physics （Ⅱ）,物理（二）,三10-12,國秀樓406教室
+9332,3,3,蔡忠和,職四子一甲, Computer Program,計算機程式,四10-12,E626-工程館6F
+9333,0,0,,職四子一甲,,全校共同時間,一12-13,國秀樓406教室
+9334,3,3,游信強,職四子二甲, Electronics（Ⅱ）,電子學（二）,四10-12,E525-工程館5F
+9335,3,3,陳若貞,職四子二甲, Signals and Systems,信號與系統,一10-11,"E623-工程館6F), 三14-1"
+9336,2,3,何岳璟,職四子二甲, Electronics Circuits Lab.（Ⅱ）,電子實習（二）,二10-12,E715-工程館7F
+9337,3,3,顏錦柱,職四子二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,五12-14,國秀樓413教室
+9338,3,3,唐光輝,職四子二甲, Electric Circuit Analysis （Ⅱ）,電路學（二）,三10-12,E623-工程館6F
+9339,0,0,,職四子二甲,,全校共同時間,一12-13,E623-工程館6F
+9340,3,3,王三輔,職四子三甲, Electronic Circuit Design Practice（1）,電子電路設計實務（一）,四10-12,E617-工程館6F
+9341,0,0,,職四子三甲,,全校共同時間,一12-13,E710-工程館7F
+9342,0,0,,職四子四甲,,全校共同時間,一12-13,E617-工程館6F
+9401,3,3,潘佳甫,職四化三選1, Protein Chemistry,蛋白質化學,三12-14,國秀樓411教室
+9402,3,3,郭德文,職四化三選2, Materials analysis,材料分析,五10-12,國秀樓412教室
+9403,3,3,郭德文,職四化四選1, Composite Materials,複合材料,二10-12,國秀樓412教室
+9404,3,3,林建良,職四化四選2, Fundamentals of Hazardous Substances Management,危害物質管理概論,三10-12,國秀樓412教室
+9405,3,3,胡伯瑜,職四化四選3, Environmental Engineering,環境工程,四10-12,國秀樓412教室
+9406,3,3,揭由志,職四化四選4, Flat Panel Display,顯示器概論,五10-12,國秀樓411教室
+9431,3,3,楊鎮遠,職四化一甲, Introduction to Chemical Engineering and Materials Industry,化工與材料產業概論,四10-12,國秀樓409教室
+9432,3,3,張惠玲,職四化一甲, Common Chemistry,普通化學,二10-12,工程館E016電化教室五
+9433,0,0,,職四化一甲,,全校共同時間,一12-13,國秀樓409教室
+9434,3,3,孫殿元,職四化二甲, Engineering Mathematics（Ⅱ）,工程數學（二）,三12-14,工程館E408專題研討一
+9435,3,3,呂旭東,職四化二甲, Fundamentals of Materials Science and Engineering（Ⅰ）,材料科學與工程概論（一）,二10-11,"工程館E417電化教室二),"
+9436,3,3,謝淑枝,職四化二甲, Physical Chemistry （Ⅱ）,物理化學（二）,五10-12,國秀樓410教室
+9437,3,3,呂春美,職四化二甲, Instrumental Analysis,儀器分析,四10-12,國秀樓410教室
+9438,3,3,黃怡銘,職四化二甲, Organic Chemistry （Ⅱ）,有機化學（二）,二12-14,工程館E417電化教室二
+9439,0,0,,職四化二甲,,全校共同時間,一12-13,國秀樓410教室
+9440,3,3,張漢昌,職四化三甲, Unit Operation （Ⅰ）,單元操作（一）,,單週開課)二10-1
+9441,3,3,林信全,職四化三甲, Chemical Reaction Engineering,化學反應工程,二12-14,工程館E522電化教室一
+9442,3,3,邱維銘,職四化三甲, Polymeric Materials,高分子材料,四10-12,工程館E417電化教室二
+9443,0,0,,職四化三甲,,全校共同時間,一12-13,國秀樓411教室
+9444,0,0,,職四化四甲,,全校共同時間,一12-13,國秀樓412教室
+9501,3,3,黃喬次,職四工二選, Logistics System Management,物流技術與管理,二12-14,工501製商整合實習室
+9502,3,3,陳杰煌,職四工二選, System Analysis and Design,系統分析與設計,二12-14,工503工作研究實習室
+9503,3,3,李淑芬,職四工三選1, Logistics and Supply Chain System Design,物流與供應鏈系統設計,二12-14,工103設施規劃實習室
+9504,3,3,陳彥廷,職四工三選1, Service Management,服務業管理,二12-14,管理館M327
+9505,3,3,李宗乙,四技三；二技一共選2, Computer Aided Drawing,電腦輔助繪圖,三12-14,工201微電腦實習室
+9506,3,3,陳義吉,職四工三選2, Enterprise Resource Planning,企業資源規劃系統,三12-14,工203生產管理實習室
+9507,3,3,賴坊濱,職四工三選3, Industrial Psychology,工業心理學,五12-14,工503工作研究實習室
+9508,3,3,江嘉惠,職四工三選3, Enterprise Resource Planning,企業資源規劃系統,五12-14,工303整合製造模擬室
+9509,3,3,翁美玲,四技四；二技二共選1, Management Consultant improvement,產業診斷與改善,二12-14,工403品質管理實驗室
+9510,3,3,陳秀華,四技三；二技一共選2, Customer Relationship Management,顧客關係管理,三12-14,管理館M325
+9511,3,3,賴明志,四技四；二技二共選3, Managerial Economics,管理經濟,四12-14,工001工管科階梯教室
+9531,3,3,宋鴻明,職四工一甲, Manufacturing Processes,製造程序,五10-12,工201微電腦實習室
+9532,3,3,蔡承峻,職四工一甲, Computer Program,計算機程式,四10-12,工203生產管理實習室
+9533,1,2,郭威伸,職四工一甲, Plant Practice,工廠實習,二12-13,工003製造程序改善室
+9534,0,0,,職四工一甲,,全校共同時間,一12-13,工403品質管理實驗室
+9535,3,3,蔡梨暖,職四工一乙, Manufacturing Processes,製造程序,三10-12,工001工管科階梯教室
+9536,3,3,李淑芬,職四工一乙, Computer Program,計算機程式,,單週開課)一10-1
+9537,1,2,郭威伸,職四工一乙, Plant Practice,工廠實習,四10-11,工003製造程序改善室
+9538,0,0,,職四工一乙,,全校共同時間,一12-13,工103設施規劃實習室
+9539,3,3,林麗娟,職四工二甲, Cost Accounting,成本會計,,雙週開課)一10-1
+9540,3,3,李鴻濤,職四工二甲, Statistics （Ⅱ）,統計學（二）,,單週開課)一10-1
+9541,3,3,邱敏綺,職四工二甲, Human Factor Engineering,人因工程,三10-12,工103設施規劃實習室
+9542,3,3,楊健炘,職四工二甲, Material Management,物料管理,五10-12,工403品質管理實驗室
+9543,0,0,,職四工二甲,,全校共同時間,一12-13,工302製造管理電子化
+9544,3,3,吳佾澄,職四工二乙, Cost Accounting,成本會計,四10-12,國秀樓307教室
+9545,3,3,陳貴琳,職四工二乙, Statistics （Ⅱ）,統計學（二）,三12-14,工303整合製造模擬室
+9546,3,3,呂柏輝,職四工二乙, Human Factor Engineering,人因工程,五10-12,工103設施規劃實習室
+9547,3,3,鄭朝仁,職四工二乙, Material Management,物料管理,,單週開課)一10-1
+9548,0,0,,職四工二乙,,全校共同時間,一12-13,工503工作研究實習室
+9549,3,3,王文派,職四工三甲, Engineering Economy,工程經濟,三10-11,"工503工作研究實習室),"
+9550,3,3,劉時玟,職四工三甲, Operations Research,作業研究,四12-14,工503工作研究實習室
+9551,3,3,翁美玲,職四工三甲, Project Study （Ⅰ）,實務專題（一）,,雙週開課)一10-1
+9552,0,0,,職四工三甲,,全校共同時間,一12-13,工201微電腦實習室
+9553,3,3,鄭盛樹,職四工三乙, Engineering Economy,工程經濟,,單週開課)一10-1
+9554,3,3,林其春,職四工三乙, Operations Research,作業研究,四12-14,工103設施規劃實習室
+9555,3,3,王偉驎,職四工三乙, Project Study （Ⅰ）,實務專題（一）,,單週開課)三10-1
+9556,0,0,,職四工三乙,,全校共同時間,一12-13,工203生產管理實習室
+9557,0,0,,職四工四甲,,全校共同時間,一12-13,國秀樓308教室
+9558,0,0,,職四工四乙,,全校共同時間,一12-13,國秀樓309教室
+9601,3,3,郭春敏,職四休閒一甲, Hospitality Management,旅館管理,四10-12,文化休閒館CR201教室
+9602,3,3,劉欣怡,職四休閒二甲, Hospitality and Tourism Management and Operation（II）,餐旅經營實務（二）,五12-14,文化休閒館CR308教室
+9603,3,3,陳家成,職四休閒二甲, Fitness Club Management and Operation（II）,健身俱樂部經營實務（二）,五12-14,文化休閒館CR202教室
+9604,3,3,休閒安全與防身,職四休閒二甲, Leisure Safety and Self-defense course,休閒安全與防身學,四10-12,文化休閒館CR204休閒健康促進專業教室
+9605,3,3,蔡宜芝,職四休閒二甲, Customer Relationship Management,顧客關係管理,四10-12,文化休閒館CR203教室
+9607,3,3,曾冠傑,職四休閒三甲, Travel Agency Practice And Management,旅行業經營與管理,二10-12,國秀樓403教室
+9608,3,3,李芃曄,職四休閒三甲, The skill and practice of catering,餐旅服務技能與實務,五10-12,文化休閒館CR201教室
+9609,3,3,陳奕伸,職四休閒三甲, Sports Industry and Tourism,運動產業與觀光,三10-12,文化休閒館CR308教室
+9610,3,3,陳奕伸,職四休閒三甲, Design and Planning of Endurance Sports,冒險運動設計與規劃,四10-12,文化休閒館CR308教室
+9611,3,3,休管實習1,職四休閒三甲, Services Operation Internship（II）,服務作業實習（二）,,
+9612,3,3,休管實習2,職四休閒三甲, Services Quality Internship（II）,服務品質實習（二）,,
+9613,3,3,休管實習3,職四休閒三甲, Customer Relationship Internship（II）,顧客關係實習（二）,,
+9614,3,3,休管實習4,職四休閒三甲, Marketing Planning Internship（II）,行銷企劃實習（二）,,
+9615,3,3,林蔡淑芬,職四休閒四甲, Foreign Language Tour Guiding and Operating Communicative Skills,外語領隊導遊溝通技巧,二12-14,文化休閒館CR308教室
+9616,3,3,陳奕伸,職四休閒四甲, Urban Leisure and Tourism,都會休閒與觀光,五10-12,文化休閒館CR203教室
+9617,2,2,陳卉芬,職四休閒四甲, Financial Management,財務管理,三13-14,文化休閒館CR201教室
+9618,3,3,洪群翔,職四休閒四甲, Fundamentals of Project Management,專案管理概論,三10-12,文化休閒館CR203教室
+9631,3,3,陳泰衡,職四休閒一甲, Tourism,觀光學,二10-12,文化休閒館B01教室
+9632,2,2,張瑞元,職四休閒一甲, Accounting,會計學,一10-11,文化休閒館B01教室
+9633,2,2,楊子孟,職四休閒一甲, English for Catering,餐飲英文,五10-11,文化休閒館B01教室
+9634,0,0,,職四休閒一甲,,全校共同時間,一12-13,文化休閒館CR308教室
+9635,3,3,林雲燦,職四休閒二甲, Marketing,行銷學,二10-12,文化休閒館CR203教室
+9636,3,3,程一雄,職四休閒二甲, Research Method,研究法,三10-12,文化休閒館B01教室
+9637,2,2,羅友志,職四休閒二甲, Sport and Leisure English,休閒運動英文,二13-14,文化休閒館CR201教室
+9638,2,2,生涯規劃與職場,職四休閒二甲, Career Planning Professional Ethic,生涯規劃與職場倫理,五10-11,國秀樓502教室
+9639,0,0,,職四休閒二甲,,全校共同時間,一12-13,文化休閒館B01教室
+9640,0,0,,職四休閒三甲,,全校共同時間,一12-13,文化休閒館CR201教室
+9641,3,3,休閒活動行程,職四休閒四甲, Leisure Activity of Itinerary Program,休閒活動行程規劃,四10-12,文化休閒館B01教室
+9642,2,2,陳細鈿,職四休閒四甲, Quality Management for Service Industry,休閒產業服務品質管理,二10-11,文化休閒館CR308教室
+9643,0,0,,職四休閒四甲,,全校共同時間,一12-13,文化休閒館CR203教室
+9703,3,3,黃明政,職四資二選1, Financial Management,財務管理,四12-14,管理館M419
+9705,3,3,吳政峰,職四資三選2, Project Management,專案管理,三12-14,管理館M502
+9710,3,3,陳世銘,職四資三選3, Internet Marketing,網路行銷,五12-14,管理館M514
+9713,3,3,范振銘,職四資三選4, Production management system,生產管理資訊系統,四10-12,管理館M513
+9714,3,3,徐欣怡,職四資四選5, Business Intelligent,商業智慧,二12-14,管理館M514
+9719,3,3,賴俊良,職四資四選6, Artificial Intelligence,人工智慧,四10-12,管理館M511
+9722,3,3,洪龍廷,職四資四選7, Information Security,資訊安全,五12-14,管理館M511
+9731,3,3,陳仕昇,職四資一甲, Information Networks,資訊網路,五10-12,管理館M502
+9732,3,3,陳仕昇,職四資一甲, Management,管理學,一10-11,"管理館M502),"
+9733,2,2,黃明政,職四資一甲, Accounting（Ⅱ）,會計學（二）,三12-13,管理館M419
+9734,2,2,張裕幸,職四資一甲, Introduction to Database,資料庫入門,四13-14,管理館M513
+9735,3,3,黃展鵬,職四資一甲, Programming Design,程式設計,二12-14,管理館M513
+9736,0,0,,職四資一甲,,全校共同時間,一12-13,管理館M502
+9737,3,3,徐欣怡,職四資二甲, Production and Operation Management,生產與作業管理,五11-13,管理館M503
+9738,3,3,陳宏昌,職四資二甲, Data Structures,資料結構,二10-12,管理館M419
+9739,3,3,曹祥彬,職四資二甲, Programming in business,商用程式設計,三10-12,管理館M513
+9740,0,0,,職四資二甲,,全校共同時間,一12-13,管理館M513
+9742,3,3,吳政峰,職四資三甲, Statistics （Ⅱ）,統計學（二）,,雙週開課)五10-1
+9743,3,3,王清林,職四資三甲, Operating System,作業系統,二10-12,管理館M502
+9744,0,0,,職四資三甲,,全校共同時間,一12-13,管理館M501
+9745,0,0,,職四資四甲,,全校共同時間,一12-13,管理館M419
+9799,3,3,,跨校選修, Database Theory and Management,資料庫管理系統,,
+9801,3,3,蔡淨英,職四冷二甲, Practical application of Hvac & R,冷凍空調裝修實務,二10-12,冷凍空調裝
+9802,3,3,宋旻峰,職四冷二甲, Energy and Environment Introduction,能源與環境概論,三12-14,國秀樓308教室
+9803,3,3,賴進昌,職四冷三甲, Refrigeration System Design,冷凍系統設計,一10-11,"國秀樓305教室),"
+9804,3,3,顏阿桃,職四冷三甲, Energy Management Technology,能源管理技術,三10-12,E018冷凍空調自動控制實驗室
+9805,3,3,賴坊濱,職四冷四甲, Industrial Management,工業管理,二10-12,國秀樓305教室
+9806,3,3,王憲榮,職四冷四甲, Cleanroom Technology,無塵室技術,三10-12,國秀樓306教室
+9807,3,3,蔡貴義,職四冷四甲, Electrical Power Distribution Design,配電設計,四10-12,E018冷凍空調自動控制實驗室
+9808,3,3,黃文傑,職四冷四甲, Planning and Management of Refrigeration and Air Conditioning Engineering,冷凍空調工程規劃及管理,五11-13,國秀樓311教室
+9831,3,3,張雅羚,職四冷一甲, Computer Aided Drawing,電腦輔助繪圖,五10-12,E103冷凍空調設計實驗室
+9832,3,4,林國堅,職四冷一甲, Electronics and Lab（Ⅱ）,電子學及實習（二）,三10-13,E102電子實驗室
+9833,0,0,,職四冷一甲,,全校共同時間,一12-13,國秀樓310教室
+9834,3,3,陳緯中,職四冷二甲, Principle of Refrigeration and air-Conditioning,冷凍空調原理,三10-11,"國秀樓309教室),"
+9835,3,3,林志宏,職四冷二甲, Fluid Mechanics and Fluid Machinery,流體力學與流體機械,一10-11,"E021空調工程實驗室), 四12-1"
+9836,3,3,余光正,職四冷二甲, Electric Circuit Analysis,電路學,五10-12,E110電機應用實驗室
+9837,0,0,,職四冷二甲,,全校共同時間,一12-13,國秀樓312教室
+9838,3,4,黃譯興,職四冷三甲, Refrigeration and Air-Conditioning Energy-Saving Technique and Practices,冷凍空調節能技術及實習,,單週開課)五10-1
+9839,3,4,陳清光,職四冷三甲, Refrigeration and Air-Conditioning Design and Practices,冷凍空調設計及實習,,雙週開課)二10-1
+9840,3,4,職四冷三甲,職四冷三甲, Energy Engineering Principle and Practices,能源工程原理及實習,四10-13,E109能源工程實驗室
+9841,0,0,,職四冷三甲,,全校共同時間,一12-13,國秀樓303教室
+9842,0,0,,職四冷四甲,,全校共同時間,一12-13,國秀樓313教室
+9901,2,2,郭鐘元,職四英一甲, Commercial introduction,商業概論,三13-14,國秀樓1F語言教室B
+9902,2,2,林雅芬,職四英一甲, EFL Teaching Methods,英語教學法,四10-11,國秀樓501教室
+9903,2,2,邱惠玲,職四英二甲, Japanese II,第二外語 日文（二）,五10-11,國秀樓5樓ESP視訊專業教室
+9904,2,2,鄭雲英,職四英二甲, Espanol II,第二外語 西班牙文（二）,五10-11,國秀樓1樓多媒體視聽室 CoffeeCorner
+9905,2,2,林慧洙,職四英三甲, English Letters,英文書信,三10-11,國秀樓1F語言教室B
+9906,2,2,丹尼爾,職四英三甲, International Enterprise Management,國際企業管理,四10-11,國秀樓1樓多媒體視聽室 CoffeeCorner
+9907,2,2,陳榮旗,職四英三甲, English Speech,英語演說,四12-13,國秀樓1F語言教室B
+9908,2,2,柯文山,職四英三甲, Newsletter English,時事英文,五10-11,國秀樓313教室
+9909,2,2,鄭雲英,職四英三甲, Espanol Ⅳ,第二外語 西班牙文（四）,五12-13,國秀樓1樓多媒體視聽室 CoffeeCorner
+9910,2,2,丹尼爾,職四英四甲, Tourism English,觀光英文,一10-11,國秀樓5樓多媒體暨口譯教室
+9911,2,2,郭鐘元,職四英四甲, Electronic Commerce,電子商務,三10-11,國秀樓5樓ESP視訊專業教室
+9912,2,2,林慧洙,職四英四甲, Public Exhibition Planning and Marketing,會展規劃與行銷,三12-13,國秀樓5樓多媒體暨口譯教室
+9914,2,2,丹尼爾,職四英四甲, Business Communication （2）,商務溝通（二）,四12-13,國秀樓1樓多媒體視聽室 CoffeeCorner
+9915,2,2,謝孟成,職四英四甲, Office English,辦公室英文,五10-11,國秀樓5樓多媒體暨口譯教室
+9931,3,3,張旭琪,職四英一甲, Freshman English（Ⅱ）,大一英文（二）,三10-12,國秀樓1樓多媒體視聽室 CoffeeCorner
+9932,2,2,廖晨甯,職四英一甲, English Conversation （Ⅱ）,英語會話（二）,四12-13,國秀樓5樓ESP視訊專業教室
+9933,2,2,林雅芬,職四英一甲, English Conversation （Ⅱ）,英語會話（二）,四12-13,國秀樓501教室
+9934,3,3,柯文山,職四英一甲, Basic Writing（Ⅱ）,初級寫作（二）,五12-14,國秀樓012教室
+9935,3,3,謝孟成,職四英一甲, Basic Writing（Ⅱ）,初級寫作（二）,五12-14,國秀樓5樓多媒體暨口譯教室
+9936,2,2,孫翎,職四英一甲, Grammar and Rhetoric （Ⅱ）,文法與修辭（二）,二10-11,國秀樓413教室
+9937,2,2,黃慧如,職四英一甲, Applied linguistics（Ⅱ）,語言學概論（二）,五10-11,國秀樓1F語言教室B
+9938,0,0,,職四英一甲,,全校共同時間,一12-13,國秀樓509教室
+9939,2,2,吳雅玲,職四英二甲, English Listening & Speaking（Ⅱ）,英語聽力訓練（二）,二10-11,國秀樓5樓多媒體暨口譯教室
+9940,2,2,黃靜雲,職四英二甲, Selected Reading of Masterpieces （Ⅱ）,文學名著選讀（二）,三10-11,國秀樓5樓多媒體暨口譯教室
+9941,3,3,陳榮旗,職四英二甲, Intermediate English Writing（Ⅱ）,中級寫作（二）,二12-14,國秀樓413教室
+9942,3,3,雷竣詠,職四英二甲, Intermediate English Writing（Ⅱ）,中級寫作（二）,二12-14,國秀樓5樓多媒體暨口譯教室
+9943,2,2,廖晨甯,職四英二甲, English Conversation （Ⅳ）,英語會話（四）,四10-11,國秀樓5樓ESP視訊專業教室
+9944,2,2,蘇紹雯,職四英二甲, English Conversation （Ⅳ）,英語會話（四）,四10-11,國秀樓1F語言教室B
+9945,0,0,,職四英二甲,,全校共同時間,一12-13,國秀樓511教室
+9946,2,2,余孝恒,職四英三甲, Chinese-English Translation （Ⅱ）,中英筆譯（二）,二12-13,國秀樓1樓多媒體視聽室 CoffeeCorner
+9947,2,2,陳媛珊,職四英三甲, Professional English reading （Ⅱ）,專業英文閱讀（二）,二10-11,國秀樓1F語言教室B
+9948,3,3,王鴻民,職四英三甲, Advanced Writing（Ⅱ）,高級寫作（二）,三12-14,國秀樓5樓ESP視訊專業教室
+9949,0,0,,職四英三甲,,全校共同時間,一12-13,國秀樓508教室
+9950,2,2,余孝恒,職四英四甲, Chinese-English Translation （Ⅳ）,中英筆譯（四）,二10-11,國秀樓1樓多媒體視聽室 CoffeeCorner
+9951,2,2,黃慧如,職四英四甲, Chinese-English Interpretation（II）,中英口譯（二）,五12-13,國秀樓1F語言教室B
+9952,2,2,吳雅玲,職四英四甲, Chinese-English Interpretation（II）,中英口譯（二）,二12-13,國秀樓1F語言教室B
+9953,0,0,,職四英四甲,,全校共同時間,一12-13,國秀樓311教室
+9A01,3,3,許文馨,職四企二甲, The Theory and Practice of Business Presentation,商業簡報理論與實務,三10-12,M114資訊系統教室
+9A02,3,3,柯俊宏,職四企二甲, Logistics Management,物流管理,四10-12,M423專業科目教
+9A03,3,3,高寒梅,職四企三甲, Team Learning,團隊學習,三10-12,M102專業科目教
+9A04,3,3,張永杰,職四企三甲, Marketing & Advertizing,行銷與廣告,四12-14,M102專業科目教
+9A05,3,3,林惠美,職四企三甲, Tax Accounting,稅務會計,五10-12,M102專業科目教
+9A06,3,3,蔡政豪,職四企四甲, Marketing Case Discussions,行銷個案研討,二10-12,M101專業科目教
+9A07,3,3,高芝蘭,職四企四甲, Humanity and Business,企業與人文,三10-12,M423專業科目教
+9A08,3,3,歐陽光,職四企四甲, Quality Management,品質管理,四10-12,M421專業科目教
+9A31,3,3,洪振義,職四企一甲, Economics（Ⅱ）,經濟學（二）,三10-12,M101專業科目教
+9A32,3,3,林惠美,職四企一甲, Accounting（Ⅱ）,會計學（二）,四10-12,M101專業科目教
+9A33,3,3,楊明宗,職四企一甲, Management,管理學,二12-14,M421專業科目教
+9A34,0,0,,職四企一甲,,全校共同時間,一12-13,國秀樓407教室
+9A35,3,3,張永杰,職四企二甲, Statistics （Ⅱ）,統計學（二）,二12-14,M423專業科目教
+9A36,3,3,林昆鋒,職四企二甲, Business English Writing,商用英文書信,五12-14,M423專業科目教
+9A37,3,3,楊明宗,職四企二甲, Human Resource Management,人力資源管理,二10-11,M423專業科目教
+9A38,0,0,,職四企二甲,,全校共同時間,一12-13,國秀樓413教室
+9A39,3,3,劉晉宏,職四企三甲, Strategy Management,策略管理,二10-12,M102專業科目教
+9A40,0,0,,職四企三甲,,全校共同時間,一12-13,國秀樓408教室
+9A41,0,0,,職四企四甲,,全校共同時間,一12-13,國秀樓507教室
+B101,3,3,江明宗,專二機一選 1, Precision Measuring Instrument,精密量具,日05-07,國秀樓301教室
+B102,3,3,王天政,專二機一選 1, Introduction to Aeronautical Engineering,航空工程概論,日05-07,機械館氣液壓實驗室
+B103,2,2,王天政,專二機一選 2, Industry safety and hygiene,工業安全與衛生,日08-09,國秀樓301教室
+B111,2,2,朱玟霖,專二機二選 1, Industrial Phychology,工業心理學,六01-02,機械館電腦輔助產品設計電腦教室
+B112,2,2,朱玟霖,專二機二選 2, Information and Network Resources Utilization,資訊與網路資源利用,六03-04,機械館電腦輔助產品設計電腦教室
+B113,3,3,賴興正,專二機二選 3, Tools Design,工具設計,六06-08,國秀樓302教室
+B114,3,3,蔡文卿,專二機二選 4, Nontraditional Machining,非傳統加工,日05-07,國秀樓302教室
+B115,2,2,江明宗,專二機二選 5, Heat Treatment,熱處理,日08-09,國秀樓302教室
+B116,3,3,陳聰嘉,專二機二甲(產學), Special Topics on Industry （2）,產業專題（二）,二01-03,
+B150,0,0,江東源,專二機一甲,,班週會時間,六12-12,國秀樓301教室
+B151,2,2,李鴻玟,專二機一甲, Chinese（Ⅱ）,國文（二）,日10-11,國秀樓301教室
+B152,2,2,林添榮,專二機一甲, Calculus（Ⅱ）,微積分（二）,六10-11,國秀樓301教室
+B153,3,3,謝慶雄,專二機一甲, Statics,應用力學,六01-03,國秀樓301教室
+B154,3,3,江東源,專二機一甲, Mechanical Materials,機械材料,六05-07,國秀樓301教室
+B155,2,2,江東源,專二機一甲, Factory Management,工廠管理,六08-09,國秀樓301教室
+B156,3,3,王丁,專二機一甲, Pneumatic And Hydraulic Control,氣液壓學,日01-03,機械館氣液壓實驗室
+B160,0,0,謝忠祐,專二機二甲(產學),,班週會時間,六12-12,國秀樓302教室
+B161,2,2,賴姿蓉,專二機二甲(產學), English（Ⅱ）,英文（二）,日10-11,國秀樓302教室
+B162,3,3,張浮明,專二機二甲(產學), Mechanical Materials,機械材料,六09-11,國秀樓302教室
+B163,3,3,詹俊奕,專二機二甲(產學), Design of Machine Elements,機械設計,日01-03,國秀樓302教室
+B201,3,3,陳鴻誠,專二電一選1, SCADA Design,監控系統設計,六01-03,E306電能監控管理實驗
+B202,3,3,宋文財,專二電一選2, Network SOC Embeded Software,連網型系統晶片嵌入式軟體,日05-07,E313工業電子及感測實
+B250,0,0,黃國華,專二電一甲,,班週會時間,日04-04,E318電機設計實驗教室
+B251,2,2,李鴻玟,專二電一甲, Chinese（Ⅱ）,國文（二）,日08-09,國秀樓311教室
+B252,2,2,賴姿蓉,專二電一甲, English（Ⅱ）,英文（二）,六09-10,國秀樓311教室
+B253,2,2,劉哲明,專二電一甲, Calculus（Ⅱ）,微積分（二）,日11-12,國秀樓311教室
+B254,2,2,趙貴祥,專二電一甲, Electric Circuit Analysis,電路學,六11-12,E317電力電子實驗教室
+B255,3,3,郭應標,專二電一甲, Electronics,電子學,日01-03,E243專題製作室
+B256,3,3,張隆益,專二電一甲, Electrical Power Distribution Design,配電設計,六05-07,E243專題製作室
+B260,0,0,張添丁,專二電二甲,,班週會時間,六05-05,E301電力品質實驗教室
+B261,2,2,蔣淑芬,專二電二甲, Introduction to the Study of Law.,法學概論,六08-09,國秀樓312教室
+B262,2,2,謝錦聰,專二電二甲, Electronics Experiment,電子學實習,日10-11,E223電子實驗教室
+B263,2,2,黃國華,專二電二甲, Electric Machinery,電機機械,日08-09,E304電工儀表實驗教室
+B264,2,2,王孟輝,專二電二甲, Electric Machinery Practice,電機機械實習,六10-11,E321電機機械實驗教室
+B265,3,3,卜文正,專二電二甲, Automatic Controls,自動控制,日01-03,E226整合網路應用控制實驗室
+B266,3,3,張添丁,專二電二甲, Power System,電力系統,六04-04,"E301電力品質實驗教室), 六06-0"
+B267,3,3,古峰昌,專二電二甲, Industrial Electronics,工業電子學,六01-03,E304電工儀表實驗教室
+B268,3,3,卜文正,專二電二甲, Electrical Drive,電動機控制,日04-04,"E226整合網路應用控制實驗室), 日06-0"
+B301,3,3,何岳璟,專二子一選, Engineering Software Practice,工程軟體應用實作,六02-04,E715-工程館7F
+B302,3,3,積電設計與應用,電子進專選修, Designs and Applications of Linear IC,積體電路設計與應用,日06-08,國秀樓308教室
+B303,3,3,陳英傑,專二子一選, Microcontroller based Embedded System Practice,微控制器系統實務,日09-11,E710-工程館7F
+B304,3,3,顏孟華,專二子二選, Artificial Intelligence,人工智慧,日09-11,E613-工程館6F
+B305,3,3,董秋溝,專二子二選, Special Topics on Industry （2）,產業專題（二）,五13-15,E525-工程館5F
+B350,0,0,吳志峰,專二子一甲,,班週會時間,六11-11,國秀樓308教室
+B351,2,2,楊克隆,專二子一甲, Chinese（Ⅱ）,國文（二）,日01-02,國秀樓308教室
+B352,2,2,林添榮,專二子一甲, Calculus（Ⅱ）,微積分（二）,六13-14,國秀樓308教室
+B353,2,2,吳志峰,專二子一甲, Electronics（Ⅱ）,電子學（二）,日03-04,國秀樓308教室
+B354,2,2,唐光輝,專二子一甲, Electric Circuit Analysis （Ⅱ）,電路學（二）,六09-10,E623-工程館6F
+B355,3,3,林水春,專二子一甲, Analog Circuits Lab.,類比電路實習,六06-08,E617-工程館6F
+B360,0,0,顏孟華,專二子二甲(產學),,班週會時間,六06-06,E613-工程館6F
+B361,2,2,蔣淑芬,專二子二甲(產學), Introduction to the Study of Law.,法學概論,日03-04,國秀樓309教室
+B362,2,2,吳采玲,專二子二甲(產學), English（Ⅱ）,英文（二）,六12-13,國秀樓309教室
+B363,2,2,謝韶徽,專二子二甲(產學), Computer Program,計算機程式,六07-08,E544-工程館5F
+B364,2,2,洪玉城,專二子二甲(產學), Electronics （Ⅳ）,電子學（四）,日01-02,國秀樓309教室
+B365,3,3,林水春,專二子二甲(產學), Engineering Mathematics（Ⅱ）,工程數學（二）,六02-04,E617-工程館6F
+B366,3,3,謝韶徽,專二子二甲(產學), Digital Logic Circuit Labs（Ⅱ）,數位電路實習（二）,六09-11,E544-工程館5F
+B501,3,3,翁美玲,專二工二甲, Marketing Management,行銷管理,六03-05,工302製造管理電子化
+B503,3,3,黃敬仁,專二工二甲, Management Information Systems,管理資訊系統,六07-09,工201微電腦實習室
+B504,3,3,羅友志,專二工二甲, Commercial English,商用英文,日03-05,工002製造程序改善室
+B505,3,3,林水順,專二工二甲, Commercial Automation,商業自動化,日07-09,工103設施規劃實習室
+B506,3,3,王靖欣,專二工二乙(產學),,品質計畫與經營,日03-05,工302製造管理電子化
+B550,0,0,黃存宏,專二工一甲,,班週會時間,六13-13,工001工管科階梯教室
+B551,2,2,陳福智,專二工一甲, Chinese（Ⅱ）,國文（二）,日07-08,國秀樓401教室
+B552,2,2,吳采玲,專二工一甲, English（Ⅱ）,英文（二）,日12-13,國秀樓401教室
+B553,2,2,劉哲明,專二工一甲, Calculus（Ⅱ）,微積分（二）,日09-10,國秀樓401教室
+B554,3,3,黃喬次,專二工一甲, Quality Management,品質管理,六07-09,工503工作研究實習室
+B555,2,2,黃喬次,專二工一甲, Quality Management Practice,品質管理實務,六10-11,工503工作研究實習室
+B556,4,4,王贊旭,專二工一甲, Motion and Time Study,工作研究,日02-05,工303整合製造模擬室
+B557,3,3,洪永祥,專二工一甲, Production Management,生產管理,六01-03,工403品質管理實驗室
+B558,2,2,洪永祥,專二工一甲, Production Management Practice,生產管理實務,六04-05,工403品質管理實驗室
+B560,0,0,陳貴琳,專二工一乙,,班週會時間,六13-13,工503工作研究實習室
+B561,2,2,楊克隆,專二工一乙, Chinese（Ⅱ）,國文（二）,日03-04,國秀樓402教室
+B562,2,2,張端容,專二工一乙, English（Ⅱ）,英文（二）,六10-11,國秀樓1F自學教室
+B563,2,2,劉哲明,專二工一乙, Calculus（Ⅱ）,微積分（二）,日07-08,國秀樓402教室
+B564,3,3,陳貴琳,專二工一乙, Quality Management,品質管理,六01-03,工303整合製造模擬室
+B565,2,2,陳貴琳,專二工一乙, Quality Management Practice,品質管理實務,六04-05,工303整合製造模擬室
+B566,4,4,林俊宇,專二工一乙, Motion and Time Study,工作研究,日09-12,工002製造程序改善室
+B567,3,3,劉時玟,專二工一乙, Production Management,生產管理,六07-09,工303整合製造模擬室
+B568,2,2,王靖欣,專二工一乙, Production Management Practice,生產管理實務,日01-02,工002製造程序改善室
+B570,0,0,王偉驎,專二工二甲,,班週會時間,六13-13,工501製商整合實習室
+B571,3,3,林曼𢓭,專二工二甲," Facilities Planning,",設施規劃,日10-12,工001工管科階梯教室
+B572,2,2,廖麗滿,專二工二甲, Material Management,物料管理,六01-02,工203生產管理實習室
+B573,3,3,林瑛祥,專二工二甲, Project study,專題製作,日02-02,"工001工管科階梯教室), 六10-1"
+B580,0,0,王文派,專二工二乙(產學),,班週會時間,六09-09,工403品質管理實驗室
+B581,3,3,何境峰,專二工二乙(產學)," Facilities Planning,",設施規劃,日07-07,"工302製造管理電子化), 日01-0"
+B582,3,3,王文派,專二工二乙(產學), Engineering Economy,工程經濟,六06-08,工403品質管理實驗室
+B583,2,2,林曼𢓭,專二工二乙(產學), Material Management,物料管理,日08-09,工302製造管理電子化
+B584,3,3,王偉驎,專二工二乙(產學), Project study,專題製作,六01-03,工501製商整合實習室
+B585,3,3,何境峰,專二工二乙(產學), pecial Topics on Industry （1）,產業專題（二）,五07-09,
+B801,2,2,陳煥昌,專二流二甲選, Consumer Behavior,消費者行為,一02-03,管理館M327
+B802,2,2,吳世光,專二流二甲選, Electronic Enterprises,電子化企業,二05-06,管理館M301
+B803,2,2,林秀蘭,專二流二乙選, Store Planning and Management,賣場規劃與管理,三09-10,管理館M326
+B804,2,2,陳煥昌,專二流二乙選, Consumer Behavior,消費者行為,二08-09,管理館M324
+B850,0,0,李逢嘉,專二流一甲,,班週會時間,一11-11,管理館M326
+B851,2,2,鄭明政,專二流一甲, Introduction to the Study of Law.,法學概論,一07-08,管理館M324
+B852,2,2,賴郁君,專二流一甲, Modern Chinese History,中國現代史,一09-10,國秀樓306教室
+B853,1,1,倪玉珊,專二流一甲, An Introduction to Fine Arts,美術鑑賞,一05-05,國秀樓4F美術鑑賞教室
+B854,2,2,李逢嘉,專二流一甲, Services Management（Ⅱ）,服務業作業管理（二）,二04-05,管理館M326
+B855,3,3,周聰佑,專二流一甲, Marketing,行銷管理,二01-03,管理館M326
+B856,3,3,吳世光,專二流一甲, Commercial Automation,商業自動化,一02-04,管理館M301
+B857,2,2,李逢嘉,專二流一甲, Practice of financial management,財務實習,日01-02,
+B858,3,3,李逢嘉,專二流一甲, Practice of Merchandise Management,商品實習,日03-05,
+B859,3,3,李逢嘉,專二流一甲, In-term for Store Service Operation,門市服務作業實習,日06-08,
+B860,0,0,陳秀華,專二流一乙,,班週會時間,二06-06,管理館M303
+B861,2,2,周宗憲,專二流一乙, Introduction to the Study of Law.,法學概論,三04-05,國秀樓306教室
+B862,2,2,唐屹軒,專二流一乙, Modern Chinese History,中國現代史,三01-02,國秀樓308教室
+B863,1,1,倪玉珊,專二流一乙, An Introduction to Fine Arts,美術鑑賞,三03-03,國秀樓4F美術鑑賞教室
+B864,2,2,吳文明,專二流一乙, Services Management（Ⅱ）,服務業作業管理（二）,二07-08,管理館M303
+B865,3,3,陳秀華,專二流一乙, Marketing,行銷管理,三07-09,管理館M325
+B866,3,3,李逢嘉,專二流一乙, Commercial Automation,商業自動化,二10-12,管理館M324
+B867,2,2,陳秀華,專二流一乙, Practice of financial management,財務實習,日01-02,
+B868,3,3,陳秀華,專二流一乙, Practice of Merchandise Management,商品實習,日03-05,
+B869,3,3,陳秀華,專二流一乙, In-term for Store Service Operation,門市服務作業實習,日06-08,
+B870,0,0,陳彥廷,專二流二甲,,班週會時間,二01-01,管理館M301
+B871,2,2,謝肇禎,專二流二甲, Chinese（Ⅱ）,國文（二）,一07-08,國秀樓502教室
+B872,2,2,陳樹信,專二流二甲, English（Ⅱ）,英文（二）,一12-13,國秀樓405教室
+B873,2,2,林家民,專二流二甲, Mathematics,數學,一04-05,國秀樓412教室
+B874,2,2,蔡舜山,專二流二甲, Statistics （Ⅱ）,統計學（二）,一09-10,管理館M324
+B875,3,3,陳彥廷,專二流二甲, Humam Resource Management,人力資源管理,二02-04,管理館M301
+B876,2,2,陳彥廷,專二流二甲, Practical Training for Shopkeeper,店長職務實習,日01-02,
+B877,3,3,陳彥廷,專二流二甲, Point of sale Operation and Information analysis,POS作業與情報分析實習,日03-05,
+B880,0,0,詹益慶,專二流二乙,,班週會時間,三11-11,管理館M326
+B881,2,2,謝肇禎,專二流二乙, Chinese（Ⅱ）,國文（二）,三01-02,國秀樓503教室
+B882,2,2,蘇紹雯,專二流二乙, English（Ⅱ）,英文（二）,二10-11,國秀樓503教室
+B883,2,2,賴馨華,專二流二乙, Mathematics,數學,三07-08,管理館M326
+B884,2,2,林東興,專二流二乙, Statistics （Ⅱ）,統計學（二）,二06-07,管理館M324
+B885,3,3,詹益慶,專二流二乙, Humam Resource Management,人力資源管理,三03-05,管理館M328
+B886,2,2,詹益慶,專二流二乙, Practical Training for Shopkeeper,店長職務實習,日01-02,
+B887,3,3,詹益慶,專二流二乙, Point of sale Operation and Information analysis,POS作業與情報分析實習,日03-05,
+B901,3,3,廖明誠,專二景一甲, Model Construction,模型製作,六04-05,"管理館景觀評圖教室), 六07-0"
+B902,3,3,陳廷育,專二景一甲, Urban Insight and Photography,城市觀察與攝影,六01-03,管理館景觀評圖教室
+B903,2,2,王仁祿,專二景二甲, Landscape and Geomancy,景觀與風水,六07-08,管理館景觀專業教室
+B904,3,3,李碧峰,專二景二甲, Garden maintenance and management,庭園維護與管理,六10-11,"管理館景觀專業教室), 六13-1"
+B905,2,2,林敏勝,專二景二甲,,台灣開發史,六06-06,"管理館景觀專業教室), 日06-0"
+B950,0,0,陳廷育,專二景一甲,,班週會時間,六10-10,管理館景觀評圖教室
+B951,2,2,吳采玲,專二景一甲, English（Ⅱ）,英文（二）,六11-12,國秀樓407教室
+B952,2,2,黃建勳,專二景一甲, Computer Aided Drawing,電腦輔助繪圖,日03-04,管理館6樓電腦教室二
+B953,2,2,李碧峰,專二景一甲, Plant Materials（Ⅱ）,植栽材料（二）,六08-09,管理館景觀評圖教室
+B954,6,6,張榮杰,專二景一甲-A, Practice Making Landscape Gardening Design （Ⅱ）,造園設計實務（二）,日06-10,"管理館景觀評圖教室), 日12-1"
+B955,6,6,陳世明,專二景一甲-B, Practice Making Landscape Gardening Design （Ⅱ）,造園設計實務（二）,日06-10,"管理館景觀評圖教室), 日12-1"
+B956,2,2,林希娟,專二景一甲, Landscape Graphics,景觀圖學,日01-02,管理館景觀評圖教室
+B960,0,0,廖明誠,專二景二甲,,班週會時間,六09-09,管理館景觀專業教室
+B961,2,2,陳福智,專二景二甲, Chinese（Ⅱ）,國文（二）,日10-11,國秀樓409教室
+B962,2,2,陳憲榮,專二景二甲, Gardening Construction and Cost Estimation,造園施工估價,日01-02,管理館景觀專業教室
+B963,4,4,謝燕芬,專二景二甲-A, Practice Making Landscape Gardening Design（Ⅳ）,造園設計實務（四）,六01-04,管理館景觀專業教室
+B964,4,4,蔡建泓,專二景二甲-B, Practice Making Landscape Gardening Design（Ⅳ）,造園設計實務（四）,六01-04,管理館景觀專業教室
+B965,3,3,楊建生,專二景二甲, Management Practice in Landscape Gardening Project,造園工程管理實務,日07-09,管理館景觀專業教室
+B966,2,2,張凱菱,專二景二甲, Displace Technique,表現法,日03-04,管理館景觀專業教室
+C101,3,3,楊善國,院二機三選1, Applied electronics （Ⅰ）,應用電子學（一）,六06-08,國秀樓303教室
+C102,3,3,楊立杰,院二機三選 1, Linear Algebra,線性代數,六06-08,國秀樓306教室
+C103,3,3,謝忠祐,院二機三選 2, Construction Materials,工程材料,六09-11,國秀樓303教室
+C105,3,3,洪裕豐,院二機三選 3, Introduction to Automation,自動化概論,日05-07,國秀樓303教室
+C106,3,3,林志成,院二機三選 3, Reverse engineering,逆向工程,日05-07,機械館自動控制實驗室
+C111,3,3,邱煥釗,院二機四選 1, Fluid-solid force measurement practices,流固力量測實務,六01-03,機械館流體實驗室
+C112,3,3,張子欽,院二機四選 1, CNC Processes,CNC加工,六01-03,機械館綜合工廠
+C113,3,3,楊善國,院二機四選 2, Applied electronics （II）,應用電子學（二）,六09-11,國秀樓305教室
+C115,3,3,郭威伸,院二機四選 3, Semiconductor Fabrication Techniques,半導體製程,日01-03,國秀樓305教室
+C116,3,3,林志成,院二機四選 3, Programming Language,視覺化C++語言,日01-03,機械館自動控制實驗室
+C117,3,3,張原銘,院二機四選 4, Non-Destructive Testing,非破壞檢驗,日05-07,國秀樓305教室
+C118,3,3,王中行,院二機四選 5, Computer Aided Design,電腦輔助設計,日08-10,機械館電腦繪圖室
+C150,0,0,邱俊智,院二機三甲,,班週會時間,六01-01,國秀樓303教室
+C151,2,2,陳昌遠,院二機三甲, Chinese Literature,中國文學,日08-09,國秀樓303教室
+C152,2,2,胡志佳,院二機三甲, History and Culture,歷史與文化,日10-11,國秀樓303教室
+C153,3,3,邱俊智,院二機三甲, Engineering Mathematics（Ⅱ）,工程數學（二）,六02-04,國秀樓303教室
+C154,3,3,陳再萬,院二機三甲, Dynamics,動力學,日01-03,國秀樓303教室
+C160,0,0,邱煥釗,院二機四甲,,班週會時間,六04-04,機械館流體實驗室
+C161,3,3,邱俊智,院二機四甲, Automatic Controls,自動控制,六06-08,機械館自動控制實驗室
+C201,3,3,趙貴祥,院二電三選2, Experiments of Power Electronics,電力電子學及實習,六08-10,E317電力電子實驗教室
+C202,3,3,郭應標,院二電三選1, Generation Transfformation Engineering,發變電工程,日04-04,"E243專題製作室), 日06-0"
+C203,3,3,王孟輝,院二電四選1, Design of fire fighting system,消防工程設計,六07-09,E321電機機械實驗教室
+C204,3,3,張隆益,院二電四選1, Electrical Power Distribution Design,電機設備保護及實習,六08-10,E246電機設備保護實驗
+C205,2,2,羅永昌,院二電四選1, High voltage engineering,變頻器原理及應用,六10-11,E224 PC-BASED實驗室
+C206,3,3,謝錦聰,院二電四選2, Mechatronics,機電整合,日07-09,E223電子實驗教室
+C207,3,3,黃國華,院二電四選3, Computer aided design（CAD） of electrical machinery & practice,電腦輔助電機設計及實習,日10-12,E318電機設計實驗教室
+C250,0,0,卜文正,院二電三甲,,班週會時間,日05-05,E226整合網路應用控制實驗室
+C251,2,2,王正良,院二電三甲, Chinese Literature,中國文學,日11-12,國秀樓312教室
+C252,2,2,藍夏萍,院二電三甲, Practical English,實用英文,日02-03,國秀樓312教室
+C253,3,3,宋文財,院二電三甲, Control system,控制系統,日08-10,E313工業電子及感測實
+C254,3,3,張添丁,院二電三甲, Power System,電力系統,六01-03,E301電力品質實驗教室
+C255,3,3,白能勝,院二電三甲, Microprocessor Peripheral Control and Experiments,微處理機介面控制及實習,六04-05,"E228微處理機實驗教室), 六07-0"
+C260,0,0,郭應標,院二電四甲,,班週會時間,日05-05,E243專題製作室
+C261,2,2,周宗憲,院二電四甲, Constitution and Democracy,憲法與民主,日03-04,國秀樓311教室
+C262,2,2,蘇智偉,院二電四甲, Art and Philosophy,藝術與哲學,日01-02,國秀樓B2美術教室
+C263,3,3,羅永昌,院二電四甲, Electric Machinery Control and Experiment,電機控制及實習,六03-05,E224 PC-BASED實驗室
+C264,1,2,白能勝,院二電四甲, Seminar（Ⅱ）,書報討論（二）,六01-02,E228微處理機實驗教室
+C301,3,3,何岳璟,院二子三選, Engineering Software Practice,工程軟體應用實作,六06-08,E715-工程館7F
+C302,2,2,洪玉城,電子進院選修, Designs and Applications of Linear IC,積體電路設計與應用,日03-04,國秀樓310教室
+C303,3,3,彭成瑜,院二子四選, Smart Mechatronics Practice,智慧機電實務,六02-04,E614-工程館6F
+C304,3,3,唐光輝,院二子四選, Electromagnetic compatibility of standards and test,電磁相容之標準與測試,六06-08,E623-工程館6F
+C305,3,3,王三輔,院二子四選, Portable Power Supply Design,可攜式電源設計,六09-11,E613-工程館6F
+C306,3,3,顏孟華,院二子四選, Programming in Python,Python程式設計,日06-08,E613-工程館6F
+C350,0,0,曾振東,院二子三甲,,班週會時間,六13-13,E629-工程館6F
+C351,2,2,李長生,院二子三甲, Chinese Literature,中國文學,日01-02,國秀樓310教室
+C352,3,3,吳志峰,院二子三甲, Electronic Circuit Design Implement（Ⅱ）,電子電路（二）,日06-08,國秀樓310教室
+C353,3,3,曾振東,院二子三甲, Engineering Mathematics,工程數學,六09-11,E629-工程館6F
+C354,3,3,陳啟鈞,院二子三甲, Digital Signal Processing,DSP實務,六02-04,E613-工程館6F
+C355,2,3,曾振東,院二子三甲, Project study （Ⅰ）,實務專題（一）,日09-11,E629-工程館6F
+C360,0,0,彭成瑜,院二子四甲,,班週會時間,六01-01,E614-工程館6F
+C361,2,2,周宗憲,院二子四甲, Constitution and Democracy,憲法與民主,日01-02,國秀樓307教室
+C362,2,2,李盈盈,院二子四甲, Art and Philosophy,藝術與哲學,日09-10,國秀樓B2美術教室
+C501,3,3,黃敬仁,院二工三甲, Internet and Electronic Commerce,網際網路與電子商務,六03-05,工201微電腦實習室
+C502,3,3,陳坤盛,院二工三甲, Statistical Applied & Data Analysis,統計方法與應用,六03-05,管理館M115階梯教室
+C503,3,3,劉晉宏,院二工三甲, Manufacturing Strategy Management,製造策略管理,六07-09,國秀樓403教室
+C504,3,3,劉凱豪,院二工三甲, Organizational Behavior Managenment,組織行為與管理,日03-05,工001工管科階梯教室
+C505,3,3,黃存宏,院二工三甲, Work Physiology,工作生理學,日03-05,工403品質管理實驗室
+C506,3,3,廖麗滿,院二工四甲, Enterprise Resource Planning,企業資源規劃系統,六03-05,工203生產管理實習室
+C507,3,3,王文派,院二工四甲, Application English（Ⅱ）,應用英文（二）,六03-05,工506教室
+C508,3,3,翁美玲,院二工四甲, Management Consultant improvement,產業診斷與改善,六07-09,工302製造管理電子化
+C509,3,3,陳坤盛,院二工四甲, Total Quality Management,全面品質管理,六07-09,管理館M115階梯教室
+C510,3,3,林水順,院二工四甲, Supply Chain Management,供應鏈管理,日03-05,工503工作研究實習室
+C511,3,3,黃存宏,院二工四甲, basic table tennis,休閒運動,日07-09,工403品質管理實驗室
+C550,0,0,陳水閦,院二工三甲,,班週會時間,六13-13,工303整合製造模擬室
+C551,2,2,賴郁婷,院二工三甲, Practical English,實用英文,日10-11,工303整合製造模擬室
+C552,3,3,陳水閦,院二工三甲, Engineering Economy,工程經濟,六10-12,工303整合製造模擬室
+C553,3,3,王風帆,院二工三甲, Operations Research（Ⅰ）,作業研究（一）,日07-09,工303整合製造模擬室
+C570,0,0,張嘉寶,院二工四甲,,班週會時間,六13-13,工302製造管理電子化
+C571,2,2,周曉楓,院二工四甲, History and Culture,歷史與文化,日10-11,工403品質管理實驗室
+C572,3,3,劉時玟,院二工四甲, Production Management,生產管理,六02-02,"工302製造管理電子化), 日01-0"
+C573,3,3,王偉驎,院二工四甲, Project study （Ⅱ）,實務專題（二）,六10-12,工403品質管理實驗室
+C601,3,3,趙有光,院二冷三甲, Introduction to Intellectual Property Rights,智慧財產權簡介,六02-04,國秀樓406教室
+C602,3,3,余光正,院二冷三甲, Modern Control,現代控制,六06-08,E110電機應用實驗室
+C603,3,3,駱文傑,院二冷三甲, Refrigeration and Freezing of Foods,食品冷凍冷藏,六09-11,E110電機應用實驗室
+C604,3,3,管衍德,院二冷三甲, Air Conditioning and Envirommental Control,空調與環境控制,六12-12,"E109能源工程實驗室), 日11-1"
+C605,3,3,蔡貴義,院二冷三甲, High Building Power Distribution Design,高層大樓配電設計,日02-04,E018冷凍空調自動控制實驗室
+C606,3,3,余光正,院二冷四甲, Network Analysis,網路分析,六02-04,E110電機應用實驗室
+C607,3,3,許智能,院二冷四甲, Energy Saving of Green Building and Lighting,綠建築與照明節能,六06-08,E018冷凍空調自動控制實驗室
+C650,0,0,余光正,院二冷三甲,,班週會時間,六01-01,國秀樓406教室
+C651,2,2,賴姿蓉,院二冷三甲, Practical English,實用英文,日06-07,國秀樓406教室
+C652,3,3,黃譯興,院二冷三甲, Computer Programming Design,程式語言設計,日08-10,E018冷凍空調自動控制實驗室
+C660,0,0,趙有光,院二冷四甲,,班週會時間,日01-01,國秀樓407教室
+C661,2,2,胡志佳,院二冷四甲, History and Culture,歷史與文化,日05-06,國秀樓407教室
+C662,2,2,蘇智偉,院二冷四甲, Art and Philosophy,藝術與哲學,日03-04,國秀樓B2美術教室
+C663,3,3,王輔仁,院二冷四甲, Refrjgeration and Air-Conditioning Engineering Design,冷凍空調工程與設計,六09-11,E102電子實驗室
+C701,3,3,王清林,院二資三甲, Information Management Practice,資訊管理實務,二07-09,管理館M410
+C702,3,3,梁仍奇,院二資三甲, Production and Operation Management,生產與作業管理,二10-12,管理館M410
+C703,3,3,張競業,院二資三甲, Financial Management,財務管理,二14-16,管理館M410
+C704,3,3,黃展鵬,院二資四甲, Commercial English,商用英文,四07-09,管理館M410
+C705,3,3,王清德,院二資四甲, E-commerce Practice,電子商務實務,四10-12,管理館M410
+C706,3,3,張定原,院二資四甲, Material Management Practice,物料管理實務,四14-16,管理館M410
+C707,3,3,陳建良,院二資四甲, Strategy Management,策略管理,五03-05,管理館M410
+C708,3,3,王清林,院二資四甲, Accounting Information System Practice,會計資訊系統實務,五07-09,管理館M410
+C709,3,3,董俊良,院二資四甲, Distribution Systems Practice,進銷存資訊系統實務,五10-12,管理館M410
+C750,0,0,陳仕昇,院二資三甲,,班週會時間,三10-10,管理館M410
+C751,2,2,蘇紹雯,院二資三甲, Practical English,實用英文,三01-02,管理館M410
+C752,3,3,陳仕昇,院二資三甲, Introduction to Enterprise Resources Planning,企業資源規劃導論,三03-05,管理館M410
+C753,3,3,陳仕昇,院二資三甲, Customer Relationship Management,顧客關係管理導論,三07-09,管理館M410
+C760,0,0,王清林,院二資四甲,,班週會時間,四05-05,管理館M410
+C801,3,3,賴建榮,院二流三甲選1, Consumer Behavior,消費者行為,二06-08,管理館M325
+C802,3,3,鄭明政,院二流三甲選2, Taxation Principle,稅務法規,一03-05,管理館M325
+C803,3,3,楊忠民,院二流四甲選1, Enterprise Resource Planning,企業資源規劃,四07-09,管理館M324
+C804,3,3,邱素伶,院二流四甲選2, Supply Chain Management,供應鏈管理,五02-04,管理館M328
+C805,3,3,王佩文,院二流四甲選3, Marketing Research,行銷研究,四01-03,管理館M324
+C850,0,0,賴建榮,院二流三甲,,班週會時間,二01-01,管理館M325
+C851,2,2,翁俊桔,院二流三甲, Constitution and Democracy,憲法與民主,一01-02,國秀樓511教室
+C852,3,3,周聰佑,院二流三甲, StatisticsI,統計學一,一07-09,管理館M327
+C853,3,3,邱素伶,院二流三甲, Accounting,會計學,二02-04,管理館M328
+C854,3,3,吳文明,院二流三甲, Service Operations Management,服務作業管理,二09-11,管理館M303
+C860,0,0,林宏澤,院二流四甲,,班週會時間,四12-12,管理館M324
+C861,2,2,郭苑平,院二流四甲, Chinese Literature,中國文學,四04-05,國秀樓502教室
+C862,3,3,賴建榮,院二流四甲, Humam Resource Management,人力資源管理,四10-11,"管理館M324), 五12-1"
+C863,3,3,林宏澤,院二流四甲, Production operations management,生產作業管理,五06-08,管理館M324
+C864,3,3,林宏澤,院二流四甲, Franchise Business Management,連鎖與加盟管理,五09-11,管理館M324
+G001,3,3,張嘉寶,工管碩一, Computer Graph Theory and Application,電腦圖學理論與應用,一05-07,工501製商整合實習室
+G002,3,3,康鶴耀,工管碩一, Fuzzy Analytic Hierarchy Process,模糊決策分析,一05-07,工506教室
+G003,3,3,李鴻濤,工管碩一, Knowledge Management,知識管理,二02-04,管理館M420B-生
+G004,3,3,黃喬次,工管碩一, Advance Statistics Process Control,高等統計製程管制,二02-04,工501製商整合實習室
+G005,3,3,楊旭豪,工管碩一, Data Mining Techniques,資料探勘技術,三02-04,管理館M116教室
+G006,3,3,李國義,工管碩一, Patent and Invention Innovation,專利與創新發明,三05-07,工202教室
+G008,3,3,陳水閦,工管碩一, Total Quality Management,全面品質管理,四05-07,工202教室
+G009,3,3,翁美玲,工管碩一, Independent Study,獨立研究,五02-04,工506教室
+G010,3,3,李淑芬,工管碩一, Evolutionary algorithms,進化式演算法,五02-04,工202教室
+G015,1,2,陳坤盛,工管碩一甲, Seminar,書報討論,四01-02,管理館M420B-生
+G016,1,2,劉培熙,工管碩一乙, Seminar,書報討論,四01-02,管理館M420A-生
+G017,3,3,工管論文甲,工管碩二甲, Papers,論文,,
+G018,3,3,工管論文乙,工管碩二乙, Papers,論文,,
+G101,3,3,洪玉城,電子日碩選, Analog IC,類比IC設計,二05-07,E544-工程館5F
+G102,3,3,蔡忠和,電子日碩選, Sensor Networks System Practice,感測聯網系統實務,二05-07,E626-工程館6F
+G103,3,3,黃國興,電子日碩選, Intelligent Robotic Positioning and Navigation,智慧機器人定位導航,三02-04,E614-工程館6F
+G104,3,3,吳志峰,電子日碩選, Digital Communication Transceiver Design,數位通信傳收機設計,三10-12,E544-工程館5F
+G105,3,3,謝韶徽,電子日碩選, Digital IC Design,數位IC設計,四05-07,E544-工程館5F
+G106,3,3,陳宏光,電子日碩選, Shading Language,著色語言專論,四05-07,E431-工程館4F
+G107,3,3,顏錦柱,電子日碩選, Machine Vision,機器視覺,五02-04,E431-工程館4F
+G108,3,3,游信強,電子日碩選, Quantum mechanics,量子力學,五05-07,E433-工程館4F
+G110,3,3,曾振東,電子日碩選, Practical antenna techniques,實用天線技術,六03-05,E629-工程館6F
+G195,1,2,謝韶徽,電子碩一甲, Seminar （Ⅱ）,專題討論（二）,三06-07,E711-工程館7F
+G196,1,2,曾振東,電子碩一乙, Seminar （Ⅱ）,專題討論（二）,三06-07,E629-工程館6F
+G197,1,2,林熊徵,電子碩二甲, Seminar（Ⅳ）,專題討論（四）,三06-07,工程館E440教室
+G198,1,2,黃國興,電子碩二乙, Seminar（Ⅳ）,專題討論（四）,三06-07,工程館E440教室
+G199,3,3,電子論文,電子碩二, Papers,論文,,
+G201,3,3,張惠玲,化材碩一, Special Topics of Nano Sciences,奈米科技特論,一02-04,工程館E408專題研討一
+G203,3,3,駱安亞,化材碩一, Advanced Structure and Properties of Materials,材料結構與性質,二02-04,工程館E408專題研討一
+G204,3,3,孫殿元,化材碩一, Design and Analysis of Experiments,實驗設計與分析,二06-08,工程館E408專題研討一
+G205,3,3,錢玉樹,化材碩一, Advanced Chemical Kinetics,高等化工動力學,三02-04,工程館E408專題研討一
+G206,3,3,蔡明瞭,化材碩一, Advanced Organic Chemistry,高等有機化學,四06-08,工程館E408專題研討一
+G297,1,2,化專題二,化材碩一, Seminar （Ⅱ）,專題討論（二）,三06-07,工程館E404階梯教室
+G298,1,2,化專題四,化材碩二, Seminar（Ⅳ）,專題討論（四）,三06-07,工程館E404階梯教室
+G299,3,3,化論文,化材碩二, Thesis（Ⅱ）,論文（二）,,
+G301,3,3,陳啟東,研究方法選, Multivariate Analysis,多變量分析,二02-04,管理館M302
+G302,3,3,周聰佑,核心選修1, Advanced Customer Relationship Management,顧客關係管理研討,一02-04,管理館M326
+G303,3,3,林宏澤,核心選修2, Inventory Management,存貨管理,三02-04,管理館M323
+G304,3,3,吳世光,共同選修1, Multimedia Technology Applications,多媒體科技與應用,三05-07,管理館M301
+G305,3,3,李逢嘉,共同選修2, Internet of Things,物聯網,一05-07,管理館M326
+G306,3,3,彭國芳,共同選修3, Non-store marketing,無店鋪行銷,五02-04,管理館M302
+G307,3,3,吳文明,共同選修4, Management of China style,中國式管理,四06-08,管理館M303
+G398,3,3,詹益慶,流管碩一, Business Research Method,企業研究方法,二05-07,管理館M326
+G399,3,3,流管論文,流管碩二, Thesis（Ⅱ）,論文（二）,,
+G402,3,3,孔考儒,冷凍碩一, Virtual Instrumentation Design for HVAC Instrumentation System,應用於HVAC儀器系統之虛擬儀器設計,一05-07,E117研究所研討
+G404,3,3,陸紀文,碩一選3, Refrigeration and air conditioning system engineering,冷凍空調系統工程,三02-04,E117研究所研討
+G406,3,3,黃建民,碩一二選2, Advanced Fluid Mechanics,高等流體力學,四05-07,E117研究所研討
+G407,3,3,謝文健,碩一選4, Heat Exchanger Design and Analysis,熱交換器設計與分析,五02-04,E117研究所研討
+G408,3,3,林志宏,碩一二選3, Applications for Low-carbon and waste energies,低碳與廢能應用,五05-07,E117研究所研討
+G497,1,2,林志宏,冷凍碩一, Seminar（Ⅱ）,專題研討（二）,三06-07,E102電子實驗室
+G498,1,2,楊愷祥,冷凍碩二, Seminar（Ⅳ）,專題研討（四）,三06-07,E102電子實驗室
+G499,3,3,冷凍論文,冷凍碩二, Papers,論文,,
+G501,3,3,沈銘原,機械碩選, Polymer Processing,高分子加工,一02-04,國秀樓4A
+G502,3,3,陳志明,機械碩選, The fundamental of fastener boundaries,緊固邊界特論,一06-08,機械館材料實驗室
+G503,3,3,謝瑞青,機械碩選, Advanced engineering thermodynamics,高等工程熱力學,五02-04,國秀樓3A
+G504,3,3,潘吉祥,機械碩選, Fabrication Technologies of Micro-systems,微系統製造技術,二02-04,國秀樓303教室
+G505,3,3,陳正和,機械碩選, Automated Optical Inspection,自動化光學檢測,二07-09,機械館電腦輔助產品設計電腦教室
+G506,3,3,廖能通,機械碩選, Deep Learning,深度學習,三02-04,國秀樓3A
+G507,3,3,謝忠祐,機械碩選, Computer Aided Engineering Analysis,電腦輔助工程分析,四05-07,機械館機械系統設計實驗室
+G595,1,2,邱煥釗,機械碩一甲, Seminar（Ⅱ）,書報討論（二）,三06-07,機械館會議室
+G596,1,2,機書報一乙,機械碩一乙, Seminar（Ⅱ）,書報討論（二）,三06-07,機械館會議室
+G597,1,2,陳聰嘉,機械碩二甲, Seminar（Ⅳ）,書報討論（四）,三06-07,機械館會議室
+G598,1,2,盧鴻華,機械碩二乙, Seminar（Ⅳ）,書報討論（四）,三06-07,機械館會議室
+G599,3,3,機械碩論文,機械碩論文, Papers,論文,,
+G601,3,3,彭國芳,企管碩一, International Marketing,國際行銷,一02-04,M114資訊系統教室
+G602,3,3,郭元慶,企管碩一, Organizational Leadership,組織與領導,一02-04,M221研討室
+G603,3,3,郭元慶,企管碩一, Commercial Technology & Trend,商管科技趨勢研究,二02-04,M221研討室
+G604,3,3,林水順,企管碩一, Electronic Commerce,電子商務,二02-04,M114資訊系統教室
+G605,3,3,劉晉宏,企管碩一, Production and Operations Management,生產與作業管理,二05-07,M214服務與作業管理研討室
+G606,3,3,林麗嬌,企管碩一, Accounting Information and Capital Market,會計資訊與資本市場,二05-07,M217會計暨租稅申報實務研討室
+G607,3,3,吳世光,企管碩一, Commercial Technology & Case Study,商管科技個案研討,三02-04,管理館M301
+G608,3,3,曹文琴,企管碩一, Brand Management,品牌管理,三05-07,M215行銷管理研討室
+G609,3,3,陳瑞龍,企管碩一, Marketing Management,行銷管理,三05-07,M206A多媒體階梯研討室
+G620,3,3,吳淑鶯,企管碩一, Research Methods,研究方法,一05-07,企管系會議室
+G621,2,2,陳俊洪,企管碩一, Seminar,書報討論,一06-07,M218財務金融研討室
+G622,3,3,陳瑞龍,企管碩二, Strategy Management,策略管理,五02-04,M206A多媒體階梯研討室
+G623,3,3,企管論文,企管碩二, Papers,論文,,
+G701,3,3,白能勝,碩選1, Fuzzy Control,模糊控制,一02-04,E228微處理機實驗教室
+G702,3,3,林正乾,碩選2, Simultaneous Location and Mapping,SLAM同步定位與製圖,一05-07,E331書報討論
+G703,3,3,王孟輝,碩選3, Application of Extension Theory to Power Systems,可拓理論,二02-04,E321電機機械實驗教室
+G704,3,3,許紀文,碩選3, Digital Control,數位控制,二02-04,E331書報討論
+G706,3,3,呂學德,碩選5, Advanced Dynamic System Simulation,高等系統動態模擬,三02-04,E313工業電子及感測實
+G707,3,3,簡伯霖,碩選6, Advanced Digital Image Processing,高等數位影像處理,四05-07,E313工業電子及感測實
+G708,3,3,曹世昌,碩選7, Hydrogen and Fuel Cell Technology,氫能與燃料電池技術,五02-04,E331書報討論
+G793,1,2,電專題一甲,電機碩一甲, Seminar（Ⅱ）,專題研討（二）,三06-07,E226整合網路應用控制實驗室
+G794,1,2,郭英哲,電機碩一乙, Seminar（Ⅱ）,專題研討（二）,三06-07,E232嵌入式系統實驗室
+G795,1,2,王孟輝,電機碩二甲, Seminar（Ⅳ）,專題研討（四）,三06-07,E321電機機械實驗教室
+G796,3,3,電論文甲,電機碩二甲, Papers,論文,,
+G797,1,2,古峰昌,電機碩二乙, Seminar（Ⅳ）,專題研討（四）,三06-07,E331書報討論
+G798,3,3,電論文乙,電機碩二乙, Papers,論文,,
+G801,3,3,李金玲,訊碩一選1, Technology English Writing（Ⅱ）,科技英文寫作（二）,一01-03,E547-工程館5F
+G803,3,3,王圳木,訊碩一選3, Digital Image Processing,數位影像處理,三02-04,E547-工程館5F
+G804,3,3,蔡垂雄,訊碩一選3, Advanced big data analytics,進階巨量資料分析,三02-04,E547-工程館5F
+G805,3,3,林國祥,訊碩一選4, Advanced image recognition,進階影像辨識,四05-07,E420-工程館4F
+G806,3,3,林灶生,訊碩一二選1, Programming in Deep Learning,深度學習實務,四06-08,工程館E437教室
+G807,3,3,黃宣詔,訊碩一二選2, Monograph of Embedded System,嵌入式系統專論,二05-07,E547-工程館5F
+G808,3,3,林宗宏,訊碩一二選2, Programming Methodology,編程方法論,五02-04,工程館E437教室
+G897,1,2,黃宣詔,資工碩一, Seminar （Ⅱ）,專題討論（二）,三06-07,E529-工程館5F
+G898,1,2,林國祥,資工碩二, Seminar（Ⅳ）,專題討論（四）,三06-07,E529-工程館5F
+G899,3,3,資工碩二論文,資工碩二, Papers,論文,,
+G8A0,3,3,資工碩一論文,資工碩一, Papers,論文,,
+GA01,3,3,楊惠貞,資管碩一選1, Structral Equation Model,結構化方程式,二02-04,管理館M510B
+GA02,3,3,劉宜菁,資管碩一選2, Service Innovation and Management,服務創新與管理,四05-07,管理館M503
+GA03,3,3,黃俊明,資管碩一選3, Management of Technology,科技管理,五02-04,管理館M402A
+GA97,1,2,資書報,資管碩一, Seminar（II）,書報討論（二）,三05-06,管理館M503
+GA98,3,3,張定原,資管碩一, Management Information Systems,管理資訊系統,一06-08,管理館M402A
+GA99,3,3,資論文,資管碩二, Papers,論文,,
+GB01,3,3,廖明誠,景觀碩一, Creativity and design theory of landscape,景觀創意與設計理論,二02-04,管理館M706景觀效益實驗室
+GB02,3,3,張淑貞,景觀碩一, Safe perception and spatial analysis,安全知覺與空間分析,五05-07,管理館M706景觀效益實驗室
+GB10,1,2,方智芳,景觀碩一, Seminar （Ⅱ）,專題討論（二）,二05-06,管理館景觀電腦教室一
+GB11,2,4,環規劃設計(二),景觀碩一, Environmental Planning and Design（Ⅱ）,環境規劃與設計（二）,四05-08,管理館M706景觀效益實驗室
+GB12,3,3,研究方法,景觀碩一, Research Method,研究方法,三02-04,管理館M706景觀效益實驗室
+GB13,1,2,韓可宗,景觀碩二, Seminar（Ⅳ）,專題討論（四）,二05-06,管理館景觀電腦教室一
+GB14,3,3,景觀論文,景觀碩二, Papers,論文,,
+GC02,3,3,黃詩珮,文創碩一, Design trend,設計思潮研究,一07-09,N103設計工
+GC03,3,3,陳志昌,文創碩一, Folk belief and Cultural Creative Industies,民間信仰與文創產業,一01-03,文化休閒館CR106
+GC04,3,3,顏加松,文創碩一, E-Commerce Studies of Creative and Cultural Industry,文創事業電子商務研究,一04-06,文化休閒館CR106
+GC05,3,3,陳向濂,文創碩一, The Reasearch of Creative Industries Product Innovate Practice,文創產品開發實務研究,二01-03,文化休閒館CR106
+GC99,3,3,文化論文,文創碩二, Papers,論文,,
+GD01,3,3,陳細鈿,專案碩一, Quantitative Research,量化研究,三05-07,管理館M611-1
+GD02,3,3,羅友志,專案碩一, Communication Skills for Cross Culture,跨國文化溝通技巧,二05-07,文化休閒館CR201教室
+GD03,3,3,休閒運動健康管,專案碩一, Sports and Health Management Research,休閒運動健康管理研究,五02-04,文化休閒館CR202教室
+GD04,3,3,林雲燦,專案碩一, Case Studies in Marketing Management,行銷管理個案研討,三02-04,文化休閒館CR202教室
+GD97,3,3,專案管理資訊,專案碩一, Information System of Project Management,專案管理資訊系統,四07-09,管理館M611-1
+GD98,1,2,王靖欣,專案碩一, Thesis Seminar（Ⅱ）,專題討論（二）,四01-02,管理館M614A-生
+GD99,3,3,休閒專案論文,專案碩二, Paper（Ⅱ）,論文（二）,,
+H001,3,3,洪永祥,工管產碩一選1, Management of Technology,科技管理,四10-12,工506教室
+H002,3,3,陳坤盛,工管產碩一選2, Total Quality Management,全面品質管理,六12-14,管理館M116教室
+H003,3,3,廖麗滿,工管產碩一選3, Enterprise Resource Planning,企業資源規劃,六10-11,"工203生產管理實習室), 六09-0"
+H004,3,3,王偉驎,工管產碩一選4, Intelligent Manufacture,智慧製造特論,六04-06,管理館M116教室
+H005,3,3,江瑞坤,工管產碩一選1, Lean Production Practice and Research,精實生產實務研究,四11-13,
+H006,3,3,黃存宏,工管產碩一選2, Ergonomic test and evaluation,人因測試與評估,五11-13,工202教室
+H007,3,3,張嘉寶,工管產碩一選5, Patents and R & D,專利與研發,六01-03,管理館M116教室
+H008,3,3,王肇樹,工管產碩一選3, Innovation and Entrepreneurial management,創新及創業管理,六09-11,管理館M116教室
+H010,1,2,何境峰,109春工管1(產碩), Seminar （Ⅰ）,書報討論（一）,六07-08,工506教室
+H011,1,2,張嘉寶,108秋工管1(產碩), Seminar（Ⅱ）,書報討論（二）,六07-08,管理館M107教室
+H012,1,2,王偉驎,107秋工管2(產碩), Seminar（Ⅳ）,書報討論（四）,六07-08,管理館M420B-生
+H013,3,3,,107秋工管2(產碩), Papers,論文,,
+H200,3,3,訊產碩多媒體,108秋資工1(產碩), The Theory and Applications of Multimedia,多媒體理論與應用,六06-08,E420-工程館4F
+H201,3,3,陳瑞茂,108秋資工1(產碩), Communication Technologies of the Internet of Things,物聯網通訊技術,六02-04,E547-工程館5F
+H202,3,3,邱文志,108秋資工1(產碩), Strategic Management,策略管理,六09-11,E531-工程館5F
+H203,3,3,曹世昌,108春資工2(產碩), Special Topics In Information Application System,資訊應用專論,六02-04,E418-工程館4F
+H204,3,3,羅見順,108春資工2(產碩), The theory and applications of virtual reality,虛擬實境理論與應用,六02-04,E420-工程館4F
+H205,3,3,邱文志,108春資工2(產碩), Topics of Small & Medium Enterprise Management,中小企業管理專論,六06-08,E531-工程館5F
+H206,3,3,林國祥,107秋資工2(產碩), Deep and machine learning,深度與機器學習,六02-04,E529-工程館5F
+H216,2,2,游信強,108秋資工1(產碩), Seminar（Ⅱ）,專題研究（二）,五10-11,E420-工程館4F
+H217,2,2,王圳木,108春資工2(產碩), Seminar（Ⅲ）,專題研究（三）,五12-13,E420-工程館4F
+H218,2,2,王圳木,107秋資工2(產碩), Seminar（Ⅳ）,專題研究（四）,六09-10,E420-工程館4F
+H219,3,3,訊碩秋論文,108秋資工1(產碩), Papers,論文,,
+H220,3,3,訊碩春論文,108春資工2(產碩), Papers,論文,,
+H518,1,2,蔡明義,107秋精機2, Project Study and Practice （Ⅳ）,專題研討與實習（四）,,單週開課)五11-1
+H519,3,3,產碩機論文,107秋精機2, Papers,論文,,
+HA03,3,3,黃嘉彥,108秋秋資管產碩1, Marketing of High-Technology,科技行銷,四10-12,管理館M108
+HA05,3,3,王肇樹,108秋資管1(產碩), Organizational leadership and management,組織領導與管理,五10-12,管理館M109
+HA06,3,3,王清德,108秋資管1(產碩), Data hierarchical analysis,資料層級分析,六09-11,管理館M402A
+HA07,3,3,王靖欣,108秋資管1(產碩), High Technical Quality Management,高科技品質管理,六12-14,管理館M108
+HA08,3,3,江資航,108秋資管1(產碩), Cloud services and enterprise management,雲端服務與企業經營管理,六12-14,管理館M109
+HA21,3,3,黃俊明,108秋資管1(產碩), Management of Technology,科技管理,六02-04,管理館M503
+HA22,1,2,黃俊明,108秋資管1(產碩), Seminar（Ⅱ）,書報討論（二）,六07-08,管理館M503
+HA23,3,3,,108春資管2(產碩), Papers,論文,,
+HA24,1,2,張定原,108春資管2(產碩), Seminar（Ⅲ）,書報討論（三）,六07-08,管理館M402A
+HA25,1,2,董俊良,107秋資管2(產碩), Seminar（Ⅳ）,書報討論（四）,六07-08,管理館M419
+HA26,3,3,,107秋資管2(產碩), Papers,論文,,
+J001,3,3,彭國芳,碩士在職專班選1, Non-store marketing,無店鋪行銷,一11-13,管理館M302
+J002,3,3,吳世光,碩士在職專班選2, Advanced Distribution Technology Management,流通科技管理研討,日02-04,管理館M301
+J003,3,3,周聰佑,碩士在職專班選3, Advanced Customer Relationship Management,顧客關係管理研討,三11-13,管理館M327
+J004,3,3,賴建榮,碩士在職專班選4, Advanced Consumer Behavior,消費者行為研討,二11-13,管理館M326
+J005,3,3,吳文明,碩士在職專班選5, Decision Analysis,決策分析,六03-05,管理館M303
+J006,3,3,陳啟東,碩士在職專班選6, Knowledge Management,知識管理,四11-13,管理館M301
+J007,3,3,林宏澤,碩士在職專班選7, Advanced Operations Management,高等作業管理,五11-13,管理館M324
+J031,1,1,周聰佑,流管碩職一, Seminar（Ⅱ）,書報討論（二）,三14-14,管理館M327
+J032,0,0,,流管碩職一,,班週會時間,六02-02,管理館M326
+J033,0,0,,流管碩職二,,班週會時間,六02-02,管理館M326
+J099,3,3,流管碩論文,流管碩職二, Thesis（Ⅱ）,論文（二）,,
+J101,3,3,洪永祥,工管碩職一選1, Quality Engineering,品質工程,三11-13,工403品質管理實驗室
+J102,3,3,李國義,工管碩職一選1, Patent and Invention Innovation,專利與創新發明,三11-13,工002製造程序改善室
+J103,3,3,陳坤盛,工管碩職一選2, Performance Evaluation Method,績效評估方法,四11-13,管理館M420B-生
+J105,3,3,黃喬次,工管碩職一選3, Advance Statistics Process Control,高等統計製程管制,五11-13,工501製商整合實習室
+J106,3,3,黃存宏,工管碩職一選4, Ergonomic Testing and Evaluation,人因測試與評估,六01-03,工202教室
+J107,3,3,陳水閦,工管碩職一選5, Total Quality Management,全面品質管理,六06-08,工202教室
+J108,3,3,張嘉寶,工管碩職一選6, Entrepreneurship and Innovation,創業與創新,六09-11,工501製商整合實習室
+J109,3,3,何境峰,工管碩職一選6, Bussiness Diagnosis,經營診斷與管理,六09-11,管理館M112會議室
+J131,1,1,康鶴耀,工管碩職一, Seminar,書報討論,六04-04,管理館M112會議室
+J132,0,0,,工管碩職一,,班週會時間,一10-11,管理館M116教室
+J133,0,0,,工管碩職二,,班週會時間,五10-10,"工501製商整合實習室), 五14-1"
+J199,3,3,工管碩論文,工管碩職二, Papers,論文,,
+J201,3,3,王輔仁,碩專一二選1,,室內空氣品質,六06-08,E227研究所電化教室
+J202,3,3,管衍德,碩專一二選2,,能源應用與原動力廠,六09-11,E109能源工程實驗室
+J203,3,3,陳財富,碩專一二選3, Energy Engineering Practices,能源工程實務,六13-15,E109能源工程實驗室
+J231,2,2,駱文傑,冷凍碩職一, Seminar （Ⅰ）,書報討論（一）,六03-04,E227研究所電化教室
+J232,0,0,,冷凍碩職一,,班週會時間,六01-02,E227研究所電化教室
+J233,0,0,,冷凍碩職二,,班週會時間,六01-01,"國秀樓511教室), 六05-0"
+J299,3,3,冷凍碩論文,冷凍碩職二, Thesis or Technical Reports,論文或技術報告,,
+J301,3,3,王清德,資管研碩職一選1,,資料層級分析,四11-13,管理館M402A
+J302,3,3,黃俊明,資管研碩職一選2, New products development and management,新產品開發管理,五11-13,管理館M108
+J303,3,3,翁國亮,資管研碩職一選2, Introduction to Building Information Modeling,建築資訊模型建置概論,五11-13,管理館M402A
+J304,3,3,黃嘉彥,資管研碩職一選3, Marketing of High-Technology,科技行銷管理,六09-11,管理館M410
+J305,3,3,曹文瑜,資管研碩職一選3, Multivariate Analysis,多變量分析,六09-11,管理館M510B
+J306,3,3,黃世文,資管研碩職一選4, Human Resource Management,人力資源管理,六12-14,管理館M410
+J331,3,3,翁國亮,資管研碩職一, Patents and R&D,專利與研發,六02-04,管理館M109
+J332,3,3,劉宜菁,資管研碩職一, Information Management Research,資訊管理研究,六02-04,管理館M510B
+J333,1,2,黃嘉彥,資管研碩職一, Seminar（II）,書報討論（二）,六07-08,管理館M410
+J334,1,2,翁國亮,資管研碩職二, Research Seminar （Ⅱ）,專題研究（二）,六07-08,管理館M109
+J335,0,0,,資管研碩職一,,班週會時間,六05-06,管理館M410
+J336,0,0,,資管研碩職二,,班週會時間,六05-06,管理館M109
+J399,3,3,資管碩論文,資管研碩職二, Papers,論文,,
+J401,3,3,柯俊宏,企管碩職一二選1, Knowledge Management,知識管理,二10-12,企管系會議室
+J402,3,3,曹文琴,企管碩職一二選2, Research Method,研究方法,六02-04,企管系會議室
+J403,3,3,呂金龍,企管碩職一二選3, Humanity and Business,企業與人文,六10-12,企管系會議室
+J404,3,3,陳俊洪,企管碩職一二選4, Financial Analysis and Investment Evaluation,財務分析與投資評量,六14-16,企管系會議室
+J431,1,1,曹文琴,企管碩職一, Seminar（Ⅱ）,書報討論（二）,,單週開課)六07-0
+J432,0,0,,企管碩職一,,班週會時間,六06-06,企管系會議室
+J433,0,0,,企管碩職二,,班週會時間,六05-05,企管系會議室
+J499,3,3,企管碩論文,企管碩職二, Master Thesis,論文,,
+J501,3,3,紀人豪,化材碩職一, Special Topics in Safety Control Regulations of Hazardous Materials,危險物品管理特論,五11-13,工程館E408專題研討一
+J502,3,3,黃奕豪,化材碩職一,,防火防爆工程特論,二11-13,工程館E408專題研討一
+J503,3,3,蔡明瞭,化材碩職一, Advanced Organic Chemistry,高等有機化學,四11-13,工程館E408專題研討一
+J531,1,2,駱安亞,化材碩職一, Seminar （Ⅱ）,專題討論（二）,三11-12,工程館E404階梯教室
+J532,1,2,錢玉樹,化材碩職二, Seminar（Ⅳ）,專題討論（四）,三11-12,工程館E404階梯教室
+J533,0,0,,化材碩職一,,班週會時間,二09-10,工程館E408專題研討一
+J534,0,0,,化材碩職二,,班週會時間,一09-10,工程館E408專題研討一
+J599,3,3,化材碩論文,化材碩職二, Paper（Ⅱ）,論文（二）,,
+J601,3,3,陳志明,機械碩職一選1, The fundamental of fastener boundaries,緊固邊界特論,一10-12,機械館材料實驗室
+J602,3,3,潘吉祥,機械碩職一選2, Fabrication Technologies of Micro-systems,微系統製造技術,二10-12,國秀樓3A
+J603,3,3,楊善國,機械碩職一選3, An Introuction Reliability Engineering,可靠度工程理論與應用,三10-12,國秀樓4A
+J604,3,3,陳正和,機械碩職一選4, Automated Optical Inspection,自動化光學檢測,四10-12,機械館電腦輔助產品設計電腦教室
+J605,3,3,楊善國,機械碩職一選4, Electronic elements and applied circuits,電子元件與應用電路,四10-12,國秀樓4A
+J631,2,2,陳聰嘉,機械碩職一, Seminar （Ⅰ）,書報討論（一）,,單週開課)五11-1
+J632,0,0,,機械碩職一,,班週會時間,一13-14,機械館材料實驗室
+J633,0,0,,機械碩職二,,班週會時間,一13-14,機械館會議室
+J699,3,3,機械碩論文,機械碩職二, Papers,論文,,
+J701,3,3,洪玉城,電子夜職碩選1, IC Design in Practice,積體電路實現專論,二10-12,E544-工程館5F
+J702,3,3,謝韶徽,電子夜職碩選2, SoC Design Overview,SoC概論,四10-12,E544-工程館5F
+J703,3,3,曾振東,電子夜職碩選3, Topics of practical antenna technique and design,實用天線技術專題,六06-08,E629-工程館6F
+J731,1,2,陳宏光,電子碩職一, Seminar （Ⅱ）,專題討論（二）,一10-11,E711-工程館7F
+J732,1,2,黃國興,電子碩職二, Seminar（Ⅳ）,專題討論（四）,一10-11,E614-工程館6F
+J733,0,0,,電子碩職一,,班週會時間,一12-13,E711-工程館7F
+J734,0,0,,電子碩職二,,班週會時間,二13-14,E617-工程館6F
+J799,3,3,電子碩論文,電子碩職二, Papers,論文,,
+J801,3,3,楊金山,碩職一二選1, 3D animation practice creation,3D動畫實務創作,六01-03,E531-工程館5F
+J802,3,3,王圳木,碩職一二選2, Digital Image Processing,數位影像處理,六06-08,E418-工程館4F
+J803,3,3,連俊瑋,碩職一二選3, Advanced big data analytics,進階巨量資料分析,六09-11,工程館E437教室
+J804,3,3,林正堅,碩職二選1, Fuzzy Theory and Applications,模糊理論與應用,六06-08,工程館E437教室
+J831,1,2,楊勝智,資工碩職一, Seminar （Ⅱ）,專題討論（二）,六04-05,工程館E437教室
+J832,1,2,林正堅,資工碩職二, Seminar（Ⅳ）,專題討論（四）,六04-05,工程館E437教室
+J833,0,0,,資工碩職一,,班週會時間,六12-13,工程館E437教室
+J834,0,0,,資工碩職二,,班週會時間,六12-13,工程館E437教室
+J899,3,3,資工碩論文,資工碩職二, Papers,論文,,
+J901,3,3,賴秋庚,碩專選1, Digital Control,數位控制,四10-12,E223電子實驗教室
+J902,3,3,吳行立,碩專選2, Analysis and Design of Switching Power Supply,切換式電源供應器設計,六01-03,E331書報討論
+J903,3,3,姚宇桐,碩專選3, Advanced Power Electronics,高等電力電子學,六05-07,E331書報討論
+J904,3,3,黃國華,碩專選4, Advanced Design of Experiments,高等實驗設計,日01-03,E318電機設計實驗教室
+J931,2,2,白能勝,電機碩職一, Seminar （2）,專題研討（二）,六08-09,E228微處理機實驗教室
+J932,0,0,,電機碩職一,,班週會時間,六04-04,"E321電機機械實驗教室), 六12-1"
+J933,0,0,,電機碩職二,,班週會時間,六04-04,"E306電能監控管理實驗), 六08-0"
+J999,3,3,電機碩論文,電機碩職二, thesis （2）,論文（二）,,
+L001,3,3,駱文傑,精密博一選, Energy Saving Control Technology,空調節能技術,一02-04,E117研究所研討
+L002,3,3,陳紹賢,精密博一選, Design for Precision Machinery,精密機械設計,二02-04,國秀樓3A
+L003,3,3,顏木田,精密博一選, Precision Machinery Dynamics and Control,精密機械控制,二05-07,國秀樓3A
+L004,3,3,邱維銘,精密博一選, Precision Thin Film Technology,精密薄膜科技,四05-07,工程館E509 研究室
+L005,3,3,王輔仁,精密博一選, Indoor Environmental Quality,室內環境品質,四06-08,E227研究所電化教室
+L006,3,3,管衍德,精密博一選, Computer-aided Mechanism Design and Analysis,電腦輔助機構設計,二02-04,E103冷凍空調設計實驗室
+L097,1,2,邱維銘,精密博一, Seminar,書報討論,三06-07,研發二樓精密所會議室
+L098,1,2,顏木田,精密博二, Seminar,書報討論,三06-07,研發二樓精密所會議室
+L099,3,3,博班論文二三,精密博二, Paper（Ⅱ）,論文（二）,,
+LT01,3,3,有限元素法特論,精密產博1, Advanced Finite Element Method,有限元素法特論,一05-07,機械館2F教師研究室
+LT02,3,3,蔡美慧,精密產博1, Polymer Characterization and Analysis,高分子定性與分析,五05-07,工程館E515研究室
+LT10,1,2,蔡明義,精密產博1, Seminar（Ⅱ）,實務專題研究（二）,三06-07,研發二樓精密所會議室
+LT30,3,3,曹世昌,電資產博選1, Big Data Analytics,巨量資料分析,五05-07,E431-工程館4F
+LT31,3,3,葉政育,電資產博1, Applications for Deep Learning,深度學習實務應用,五05-07,E320電能技術CAD實驗
+LT32,3,3,姚宇桐,電資產博1, Advanced Power Electronics,高等電力電子學,五02-04,工具機大樓VV203會議室
+LT33,3,3,羅永昌,電資產博1, Design and Implementation of Electric Drive,電動機驅動設計實務,二05-07,E224 PC-BASED實驗室
+LT34,3,3,林正堅,電資產博1, Artificial Intelligence,人工智慧,一02-04,工程館 E429
+LT35,1,2,陳鴻誠,電資產博1, Seminar （Ⅱ）,實務專題研究（二）,三06-07,工具機大樓VV203會議室
+S101,3,3,葉彥良,機電大職攜一選1, Dynamics of Machine,機械動力學,四02-04,E304電工儀表實驗教室
+S102,3,4,洪清寶,機電大職攜一選2, Advanced Single-Chip Application and Laboratory,單晶片應用及實習,一05-08,E241機電整合實驗教室
+S103,3,4,姚賀騰,機電大職攜一選3,,數控機械應用及實習,三05-08,E313工業電子及感測實
+S104,3,4,卜文正,機電大職攜一選4, MATLAB Programming and Practice,MATLAB程式設計及實習,五05-08,E226整合網路應用控制實驗室
+S105,3,4,白能勝,機電大職攜二選1, Arduino Programming and Practice,Arduino應用及實習,一05-08,E228微處理機實驗教室
+S106,3,4,賴香月,機電大職攜二選2, Graphical computer program and experiment,圖控程式設計及實習,二05-08,E228微處理機實驗教室
+S107,3,4,簡伯霖,機電大職攜二選3, Expert Program Design And Application,專業軟體應用及實習,五05-08,E313工業電子及感測實
+S121,2,2,游東道,機電大職攜一, Practical English （Ⅱ）,實用英文（二）,二03-04,國秀樓311教室
+S122,0,2,林誯鎮,機電大職攜一, PhysicalEducation（Ⅱ）,體育（二）,四05-06,撞球
+S123,3,3,蔡政道,機電大職攜一, Electric Circuit Analysis,電路學,二05-07,E301電力品質實驗教室
+S124,3,3,黃國華,機電大職攜一, Engineering Mathematics,工程數學,三02-04,E304電工儀表實驗教室
+S125,3,3,古峰昌,機電大職攜一, Introduction of Automation,自動工程概論,五02-04,E306電能監控管理實驗
+S126,2,2,林晏宇,機電大職攜二, Practical English （Ⅱ）,實用英文（二）,三05-06,國秀樓406教室
+S127,3,3,江亞玉,機電大職攜二, Applied chinese （Ⅱ）,應用國文（二）,二02-04,國秀樓410教室
+S128,1,3,謝錦聰,機電大職攜二, Electronics Circuits Lab.,電子實習,五02-04,E223電子實驗教室
+S129,3,3,郭應標,機電大職攜二, Electronics,電子學,三02-04,E243專題製作室
+S130,3,3,呂學德,機電大職攜二, Engineering Mathematics,工程數學,一02-04,國秀樓503教室
+S131,0,0,,機電大職攜一,,班週會時間,二08-09,E301電力品質實驗教室
+S132,0,0,,機電大職攜二,,班週會時間,三08-08,"E223電子實驗教室), 五01-0"
+S201,3,4,黃國華,機電大職二選1, Optimal Design of Electrical Machinery and Practice,最佳化電機設計及實習,三10-13,E318電機設計實驗教室
+S202,3,4,賴香月,機電大職二選1, Graphical computer program and experiment,圖控程式設計及實習,三10-13,E232嵌入式系統實驗室
+S203,3,3,陳時佳,機電大職二選2, Energy Application,能源應用,五11-13,E243專題製作室
+S204,3,3,楊承志,機電大職三選, Computer Network Technology,電腦網路技術,一10-12,國秀樓503教室
+S205,3,3,張木生,機電大職四選1, Personal Marketing and Image Management,個人行銷與形象管理,二10-12,國秀樓409教室
+S206,3,3,趙貴祥,機電大職四選2, Switching Power Supply Design,切換式電源轉換器設計,三10-12,E317電力電子實驗教室
+S207,3,4,林俊成,機電大職四選4, Digital Signal Processing and Practice,數位信號處理及實習,四10-13,E228微處理機實驗教室
+S208,1,2,陳建文,機電大職三選2, All-out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二10-11,國秀樓509教室
+S209,1,2,林志洪,機電大職四選4, All-out Defense Education Military Training（Ⅳ）,全民國防教育軍事訓練（四）,一10-11,國秀樓308教室
+S210,3,6,產業實務實習六,機電大職四選5, The industry practises really and practically（Ⅵ）,產業實務實習（六）,,
+S214,2,3,職訓中心,機電大職一, PLC Application and Practice,ＰＬＣ應用設計與實習,,
+S215,2,2,職訓中心,機電大職一, Introduction to Electric,電機概論,,
+S216,3,3,職訓中心,機電大職一, The Application of Fluid Power System and Pneumatics,油氣壓應用,,
+S217,3,4,職訓中心,機電大職一, Linear IC Applications & Experiments,線性ＩＣ應用及實習,,
+S218,3,3,職訓中心,機電大職一, Logic Circuit Design,邏輯設計,,
+S219,3,3,職訓中心,機電大職一, Electronics（Ⅱ）,電子學（二）,,
+S220,1,3,職訓中心,機電大職一, Electronics Circuits Lab.（Ⅱ）,電子實習（二）,,
+S221,2,2,凌玲,機電大職一, Applied Chinese （Ⅱ）,應用國文（二）,四13-14,中彰投分署教學大樓205教室
+S222,3,3,黃國華,機電大職一, Calculus,微積分,四10-12,中彰投分署教學大樓205教室
+S223,0,2,鄧政顯,機電大職一, PhysicalEducation（Ⅱ）,體育（二）,三13-14,中彰投分署教學大樓205教室
+S224,3,3,郭應標,機電大職一, Electric Circuit Analysis （Ⅱ）,電路學（二）,二10-12,中彰投分署教學大樓205教室
+S225,3,3,郭英哲,機電大職一, University Physics （Ⅱ）,普通物理（二）,三10-12,中彰投分署教學大樓205教室
+S226,2,2,沈玉如,機電大職二," Employment, workplace skills and core competencies",就業技巧與職場核心能力,,單週開課)一10-1
+S227,3,3,賴郁婷,機電大職二, Practical English （Ⅱ）,實用英文（二）,四10-12,國秀樓503教室
+S228,0,2,林誯鎮,機電大職二, PhysicalEducation（Ⅳ）,體育（四）,二13-14,羽球場
+S229,3,3,余文隆,機電大職二, Electric Machinery,電機機械,二10-12,國秀樓503教室
+S230,3,6,產業實務實習二,機電大職二, The industry practises really and practically（Ⅱ）,產業實務實習（二）,,
+S231,3,3,張億收,機電大職三, Listening and Speaking,英文聽講,五10-12,國秀樓509教室
+S232,3,3,楊劍鋒,機電大職三, Power Electronics,電力電子學,四11-13,E243專題製作室
+S233,3,3,羅永昌,機電大職三, Electric Machine Control,電機控制,三10-12,E224 PC-BASED實驗室
+S234,3,6,產業實務實習四,機電大職三, The industry practises really and practically（Ⅳ）,產業實務實習（四）,,
+S235,0,0,,機電大職一,,班週會時間,二13-14,中彰投分署教學大樓205教室
+S236,0,0,,機電大職二,,班週會時間,五10-10,"E243專題製作室), 三14-1"
+S237,0,0,,機電大職三,,班週會時間,三13-14,E313工業電子及感測實
+S238,0,0,,機電大職四,,班週會時間,三13-14,E320電能技術CAD實驗
+S301,3,3,張子欽,精密職大二選, Stamping Die Design,沖壓模設計,六05-07,"機械館綜合工廠), 六05-0"
+S302,3,3,朱玟霖,精密職三甲選1, Automatic Controls,自動控制,一10-12,東海大學教室管理學院M101
+S303,3,3,沈銘原,精密職三甲選2, Introduction to Nanotechnoiogy,奈米科技概論,四10-12,東海大學教室管理學院M101
+S304,3,3,朱玟霖,精密職三甲選3, English for Science and Technology（Ⅱ）,科技英文（二）,三10-12,東海大學教室管理學院M109
+S305,3,3,朱玟霖,精密職三乙選1, Automatic Controls,自動控制,一10-12,東海大學教室管理學院M101
+S306,3,3,謝明珠,精密職三乙選2, Certificate of Computer-Aided Drawing,電腦輔助繪圖證照班,六09-11,機械館電腦繪圖室
+S307,3,3,沈銘原,精密職三乙選3, Introduction to Nanotechnoiogy,奈米科技概論,四10-12,東海大學教室管理學院M101
+S308,3,3,葉彥良,精密職大四選, Nontraditional Machining,非傳統加工,三10-12,東海大學教室管理學院M108
+S321,2,2,楊靜芬,精密職大一, Chinese（Ⅱ）,國文（二）,三13-14,東海大學教室管理學院M117
+S322,3,3,涂惠玲,精密職大一, Freshman English（Ⅱ）,大一英文（二）,六08-10,國秀樓2F語言教室C
+S323,3,3,沈銘原,精密職大一, Calculus（Ⅰ）,微積分（一）,六01-03,國秀樓503教室
+S324,0,2,韋磊,精密職大一, PhysicalEducation（Ⅱ）,體育（二）,六12-13,籃球場
+S325,3,3,鄭文達,精密職大一, Practical Training（Ⅱ）,產業製造程序實習二,一01-03,
+S326,3,3,鄭文達,精密職大一, Construction Materials,工程材料,六05-07,機械館電腦繪圖室
+S327,3,3,陳雄章,精密職大一, Machinery,機構學,三10-12,東海大學教室管理學院M117
+S329,2,3,潘吉祥,精密職大二, The internship of Industrial production equipment（II）,產業生產設備實習二,一01-03,
+S330,3,3,陳雄章,精密職大二, Pneumatic And Hydraulic Control,氣液壓學,四10-12,東海大學教室管理學院M108
+S331,3,3,潘吉祥,精密職大二, Applied Heat Transfer,應用熱傳學,一10-12,東海大學教室管理學院M109
+S332,3,3,鄭文達,精密職大二,,電路學與實習,六01-03,機械館電機實驗室
+S333,2,3,詹俊奕,精密職大二, Computer-Aided Design,電腦輔助設計與實習,六08-10,機械館CAE電腦教室
+S334,2,3,林金雄,精密職三甲, The internship of Industrial Materials processing（II）,產業材料製程實習二,四06-08,
+S335,3,3,林岳鋒,精密職三甲, Design and Measure of Machine Tool,工具機設計與量測,六06-08,國秀樓503教室
+S336,3,3,王丁,精密職三甲, Programmable Logic Controller,可程式控制器,六02-04,機械館氣液壓實驗室
+S337,3,3,邱俊智,精密職三甲, The theory and Practice of Mechatronics,機電整合,六09-11,國秀樓503教室
+S338,2,3,盧鴻華,精密職三乙, The internship of Industrial Materials processing（II）,產業材料製程實習二,一01-03,
+S339,3,3,林岳鋒,精密職三乙, Design and Measure of Machine Tool,工具機設計與量測,六02-04,國秀樓506教室
+S340,3,3,簡伯霖,精密職三乙, Programmable Logic Controller,可程式控制器,六06-08,機械館電腦輔助產品設計電腦教室
+S341,3,3,邱俊智,精密職三乙, The theory and Practice of Mechatronics,機電整合,三10-12,東海大學教室管理學院M116
+S342,2,2,謝瑞青,精密職大四, Work place ethics and career plan,職場倫理與生涯規劃,六02-03,國秀樓507教室
+S343,2,2,詹晴如,精密職大四, Art Appreciation,藝術鑑賞,六06-07,國秀樓4F美術鑑賞教室
+S344,1,3,謝明珠,精密職大四, Project study（Ⅱ）,專題製作（二）,一01-03,
+S345,2,3,張子欽,精密職大四, Computer aided manufacturing,電腦輔助製造與實習,六08-10,"機械館綜合工廠), 六08-1"
+S346,0,0,,精密職大一,,班週會時間,六14-15,國秀樓506教室
+S347,0,0,,精密職大二,,班週會時間,一13-14,東海大學教室管理學院M109
+S348,0,0,,精密職三甲,,班週會時間,六12-13,國秀樓507教室
+S349,0,0,,精密職三乙,,班週會時間,三13-14,東海大學教室管理學院M116
+S350,0,0,,精密職大四,,班週會時間,六01-01,"國秀樓413教室), 六05-0"
+S501,3,3,廖麗滿,生管職大二選, Software Application and Practice,套裝軟體應用,二12-14,工203生產管理實習室
+S502,3,3,陳貴琳,生管職大三選1, Statistics Process Control,統計製程管制,二12-14,工302製造管理電子化
+S503,3,3,翁美玲,生管職大三選2, Engineering Economy,工程經濟,四11-13,工403品質管理實驗室
+S504,3,3,李國義,生管職大四選1, Product Innovation Practice,產品創新實務,二11-13,工002製造程序改善室
+S505,3,3,林文燦,生管職大四選2, International Quality Assurance,國際品質保證,六03-05,工001工管科階梯教室
+S506,3,3,李奇芳,生管職大四選3, Project Management,專案管理,六07-09,工103設施規劃實習室
+S521,3,3,沈孟君,生管職大一, Applied English （Ⅱ）,應用英文（二）,六03-05,國秀樓509教室
+S522,0,2,宋孟遠,生管職大一, PhysicalEducation（Ⅱ）,體育（二）,二13-14,籃球場
+S523,3,3,黃存宏,生管職大一, Applied Mathematics（Ⅱ）,應用數學（二）,六07-09,工001工管科階梯教室
+S524,2,2,林如文,生管職大一, Interpersonal Relationships and Communication and Coordination,人際關係與溝通協調,六01-02,工001工管科階梯教室
+S525,2,8,產業實務實習二,生管職大一, Workplace Practicum （I）,產業實務實習（二）,五01-08,
+S526,3,3,黃敬仁,生管職大一, Computer Program,計算機程式,二10-12,工201微電腦實習室
+S527,3,3,涂裕民,生管職大一, Computer Aided Drawing,電腦輔助繪圖,四11-13,工201微電腦實習室
+S528,2,2,郭苑平,生管職大二, Applied Chinese （Ⅱ）,應用國文（二）,六04-05,工002製造程序改善室
+S529,2,2,林格妃,生管職大二, Industrial Japanese,工業日文,四10-11,工103設施規劃實習室
+S530,2,8,產業實務實習四,生管職大二, Workplace Practicum （IV）,產業實務實習（四）,五01-08,
+S531,3,3,王偉驎,生管職大二, Automatic Manufacturing System,自動化生產系統,四12-14,工303整合製造模擬室
+S532,3,3,陳新民,生管職大二, Material Management,物料管理,六07-09,工002製造程序改善室
+S533,3,3,黃喬次,生管職大二, The Automatic Data Collection System,自動化資料蒐集系統,六01-03,工002製造程序改善室
+S534,2,8,產業實務實習六,生管職大三, Workplace Practicum （VI）,產業實務實習（六）,五01-08,
+S535,3,3,黃存宏,生管職大三, Work Study,工作研究,六04-05,"工103設施規劃實習室), 二11-1"
+S536,3,3,何境峰,生管職大三, Facilities Planning,設施規劃,六01-03,工103設施規劃實習室
+S537,3,3,黃譯興,生管職大三, Mechanical and Electrical Conformity Introduction,機電整合概論,六07-09,工203生產管理實習室
+S538,2,8,產業實務實習八,生管職大四, Workplace Practicum（VIII）,產業實務實習（八）,五01-08,
+S539,1,3,黃敬仁,生管職大四, Project Study （Ⅱ）,實務專題（二）,二14-14,"工201微電腦實習室), 六01-0"
+S540,0,0,,生管職大一,,班週會時間,四10-10,"工201微電腦實習室), 四14-1"
+S541,0,0,,生管職大二,,班週會時間,二10-10,"工001工管科階梯教室), 六10-1"
+S542,0,0,,生管職大三,,班週會時間,四10-10,"工403品質管理實驗室), 四14-1"
+S543,0,0,,生管職大四,,班週會時間,二10-10,"工002製造程序改善室), 四10-1"
+S551,3,3,何岳璟,微電控職大一選, Object-Oriented Programming Language,物件導向程式設計,五07-09,E613-工程館6F
+S552,3,3,游信強,微電控職大二選, Introduction to VLSI,VLSI概論,一05-07,E525-工程館5F
+S553,3,3,何岳璟,微電控職大三選, Electromagnetics,電磁學概論,二02-04,E613-工程館6F
+S554,3,3,游信強,微電控職大三選, Material of Semiconductor,半導體材料,三01-03,E525-工程館5F
+S555,3,3,陳英傑,微電控職大四選, Computer Interface Technique,介面技術,一02-04,E710-工程館7F
+S556,3,3,蔡忠和,微電控職大四選, Single-Chip Microcomputer Practice,單晶片微電腦實務,二02-04,E626-工程館6F
+S557,3,3,陳啟鈞,微電控職大四選, The concept of SOPC,系統晶片設計,二05-07,E613-工程館6F
+S558,2,2,曾淑娟,微電控職大四選, Lifelong Learning and Career Planning,終生學習與生涯規劃,二10-11,工程館E440教室
+S561,3,3,林水春,微電控職大一, Calculus（Ⅱ）,微積分（二）,五02-04,E617-工程館6F
+S563,0,2,洪彰鴻,微電控職大一, PhysicalEducation（Ⅱ）,體育（二）,四03-04,撞球
+S564,3,3,廖育菁,微電控職大一, English（Ⅱ）,英文（二）,四08-10,國秀樓509教室
+S565,3,3,何岳璟,微電控職大一, The Industry Practices Really and Practically（II）,產業實務實習（二）,日02-04,工程館E440教室
+S566,3,3,董秋溝,微電控職大一, Digital Logic Design,數位邏輯原理,四05-07,E525-工程館5F
+S567,2,2,林水春,微電控職大一, Applied Mathematics（Ⅰ）,應用數學（一）,五05-06,E617-工程館6F
+S568,3,3,蘇紹雯,微電控職大二, Listening and Speaking（Ⅱ）,英文聽講（二）,二10-12,國秀樓5樓ESP視訊專業教室
+S569,0,2,宋孟遠,微電控職大二, PhysicalEducation（Ⅳ）,體育（四）,二08-09,排球場
+S570,3,3,林水春,微電控職大二, The Industry Practices Really and Practically（IV）,產業實務實習（四）,六09-11,工程館E440教室
+S571,2,3,何岳璟,微電控職大二, Electronics Circuits Lab.（Ⅱ）,電子實習（二）,二05-07,E715-工程館7F
+S572,3,3,陳若貞,微電控職大二, Electronics（Ⅱ）,電子學（二）,二02-04,E623-工程館6F
+S573,2,2,陳若貞,微電控職大二, Electric Circuit Analysis （Ⅱ）,電路學（二）,一08-09,E623-工程館6F
+S574,3,3,何岳璟,微電控職大三, The Industry Practices Really and Practically（VI）,產業實務實習（六）,日06-08,工程館E440教室
+S575,3,3,李肇廉,微電控職大三, Programmable Logic Controller Application,可程式控制器實習（PLC）,五02-04,E614-工程館6F
+S576,3,3,洪玉城,微電控職大三, Analog IC design and simulation,類比 IC 設計與模擬,一02-04,E544-工程館5F
+S577,3,3,林水春,微電控職大四, The Industry Practices Really and Practically（VIII）,產業實務實習（八）,日09-11,工程館E440教室
+S578,0,0,,微電控職大一,,班週會時間,四01-02,E544-工程館5F
+S579,0,0,,微電控職大二,,班週會時間,一10-11,E715-工程館7F
+S580,0,0,,微電控職大三,,班週會時間,一01-01,"E525-工程館5F), 五01-0"
+S581,0,0,,微電控職大四,,班週會時間,二08-09,E623-工程館6F
+S601,3,3,歐文龍,製研職大四選, Career professional license counseling,職場專業證照輔導,五12-14,中科教室217
+S621,3,6,製研職大四,製研職大四, The industry practises really and practically（Ⅷ）,產業實務實習ＶＩＩＩ,,
+S622,3,3,黃世文,製研職大四, Human Resource Management,人力資源管理,六02-04,M423專業科目教
+S623,3,3,林玉妹,製研職大四, Collaborative Product Design,協同產品設計,六09-11,M423專業科目教
+S624,3,3,李建瑩,製研職大四, Financial Management,財務管理,一12-14,中科教室217
+S625,1,3,林水順,製研職大四, Special Topics on Enterprise Issues（Ⅱ）,產業專題製作（二）,六06-08,M423專業科目教
+S626,2,2,劉品茜,製研職大四, Product research and development discussion,產品研發個案討論,一10-11,中科教室217
+S627,0,0,,製研職大四,,班週會時間,五10-11,中科教室217
+S901,3,4,郝敏仁,工精大職三選, Electronics And Practice,電子學與實習,三10-13,機械館電子實驗室
+S902,3,3,葉彥良,工精大職四選1, Mechanical Vibrations and Measurements,精密機械量測,二10-12,機械館精密量具實驗室
+S903,3,3,謝忠祐,工精大職四選2, Computer-Aided Engineering Analysis,電腦輔助工程分析,四10-12,機械館電腦繪圖室
+S912,2,3,職訓中心,工精大職一, Die Design Technology,沖模設計學,,
+S913,2,3,職訓中心,工精大職一, Modeling Design Technology,塑模設計學,,
+S914,2,6,職訓中心,工精大職一, Practice of mold applied,模具應用實習,,
+S915,1,3,職訓中心,工精大職一, CAD/CAM of introduction,ＣＡＤ／ＣＡＭ實習,,
+S916,3,5,職訓中心,工精大職一, Practice of CNC,數控機械應用與實習,,
+S917,1,3,職訓中心,工精大職一, Practice of mold manufacture,模具製作實習,,
+S918,1,3,職訓中心,工精大職一, Computer aided mold design,電腦輔助模具設計實習,,
+S919,3,3,職訓中心,工精大職一, CAD/CAM of introduction,ＣＡＤ／ＣＡＭ概論,,
+S920,2,3,職訓中心,工精大職一, Practice of CAD/CAM,電腦輔助模具設計概論,,
+S921,3,3,凌玲,工精大職一, Chinese（Ⅱ）,國文（二）,四10-12,中彰投分署教學大樓206教室
+S922,2,2,蘇俊明,工精大職一, Freshman English（Ⅱ）,大一英文（二）,四13-14,中彰投分署教學大樓206教室
+S923,0,2,黃任賢,工精大職一, PhysicalEducation（Ⅱ）,體育（二）,三13-14,中彰投分署教學大樓206教室
+S924,3,3,工精大職一,工精大職一, The Science and Engineering of Materials（Ⅰ）,材料科學與工程（一）,三10-12,中彰投分署教學大樓206教室
+S925,3,3,陳永銓,工精大職一, Applied mathematics （Ⅱ）,應用數學（二）,二11-13,中彰投分署教學大樓206教室
+S926,1,1,莊秉育,工精大職二, Music Appreciation（Ⅰ）,音樂鑑賞（一）,,雙週開課)一13-1
+S927,0,2,蘇榮基,工精大職二, PhysicalEducation（Ⅳ）,體育（四）,四13-14,網球場
+S928,2,2,涂惠玲,工精大職二, Listening and Speaking,英文聽講,四11-12,國秀樓2F語言教室C
+S929,3,3,楊策仲,工精大職二, Calculus（Ⅱ）,微積分（二）,,單週開課)一13-1
+S930,3,3,林明志,工精大職二, Mechanics of Materials（Ⅰ）,材料力學（一）,三10-12,國秀樓507教室
+S931,3,3,陳凱榮,工精大職二, Machinery,機構學,二10-12,國秀樓506教室
+S932,1,3,蘇怡甄,工精大職二, Factory Pratice,工廠實務,一10-12,機械館電腦繪圖室
+S933,1,3,江東源,工精大職二, The industry practises really and practically（Ⅱ）,產業實務實習（二）,四02-04,
+S934,2,2,科技英文（二）,工精大職三, English for Science and Technology（Ⅱ）,科技英文（二）,四13-14,國秀樓2F語言教室C
+S935,3,4,陳雄章,工精大職三, Pneumatic And Hydraulic Control And Practice,氣液壓學與實習,一10-13,機械館氣液壓實驗室
+S936,3,3,蔡文卿,工精大職三, Nontraditional Machining,非傳統加工,二10-12,國秀樓508教室
+S937,3,3,江東源,工精大職三, Factory Management,工廠管理,四10-12,國秀樓506教室
+S938,1,3,謝瑞青,工精大職三, The industry practises really and practically（Ⅳ）,產業實務實習（四）,二02-04,
+S939,2,2,陳永銓,工精大職四, Interpersonal relationships and communication and coordination,人際關係與溝通協調,,單週開課)一10-1
+S940,3,3,姚威宏,工精大職四, Design of Machine Tool,工具機設計,三10-12,機械館電腦輔助產品設計電腦教室
+S941,0,0,,工精大職一,,班週會時間,二10-10,"中彰投分署教學大樓206教室), 二14-1"
+S942,0,0,,工精大職二,,班週會時間,三13-14,國秀樓503教室
+S943,0,0,,工精大職三,,班週會時間,二13-14,國秀樓506教室
+S944,0,0,,工精大職四,,班週會時間,三13-14,國秀樓507教室
+SA01,3,3,楊愷祥,冷凍空調大職二, Cryogenic Engineering,低溫工程,六02-04,E018冷凍空調自動控制實驗室
+SA02,3,3,蔡慶星,冷凍空調大職二, Data Analysis,數據分析,六09-11,國秀樓509教室
+SA03,3,3,楊育荃,冷凍空調大職三, Fire Trotection Engineering,消防工程概論,五10-12,國秀樓511教室
+SA04,3,3,賴明湖,冷凍空調大職三, Energy Saving Control,冷凍空調自動控制,六07-09,國秀樓507教室
+SA05,3,3,王清信,冷凍空調大職四, Refrigeration ＆Airconditioning System Problem Diagnostic and Repair Procedure,冷凍空調系統故障分析,五10-12,國秀樓307教室
+SA06,3,3,賴明湖,冷凍空調大職四, Refrjgeration and Air-Conditioning Engineering Design,冷凍空調工程與設計,六03-05,國秀樓409教室
+SA07,3,3,曾子彝,冷凍空調大職四, Clean room technology,無塵室技術,六07-09,國秀樓511教室
+SA16,3,3,職訓中心,冷凍空調大職一, Computer Aided Drawing,電腦輔助繪圖,,
+SA17,3,4,職訓中心,冷凍空調大職一, Refrigeration and Air Conditioning Equipment and Practices,冷凍空調設備與實習,,
+SA18,3,4,職訓中心,冷凍空調大職一, Installation and Maintenance of Refrigeration and Air Conditioning Practices,冷凍空調裝修實務,,
+SA19,2,2,職訓中心,冷凍空調大職一, Solar Energy Engineering,太陽能工程,,
+SA20,3,4,職訓中心,冷凍空調大職一, Refrigeration and Air-Conditioning Design and Practices,冷凍空調設計及實習,,
+SA21,2,2,李義評,冷凍空調大職一, Ethics in Engineering,工程倫理,四10-11,中彰投分署教學大樓204教室
+SA22,2,2,洪英雪,冷凍空調大職一, Chinese（Ⅱ）,國文（二）,三10-11,中彰投分署教學大樓204教室
+SA23,0,2,楊璁人,冷凍空調大職一, PhysicalEducation（Ⅱ）,體育（二）,一10-11,中彰投分署教學大樓204教室
+SA24,3,3,李哲尹,冷凍空調大職一, Introduction of Refrigeration and Air-Conditionning Industry,冷凍空調產業概論,二10-12,中彰投分署教學大樓204教室
+SA25,3,3,沈玉如,冷凍空調大職一, Industry safety and hygiene,工業安全與衛生,三12-14,中彰投分署教學大樓204教室
+SA26,3,3,游純紅,冷凍空調大職二, English（Ⅱ）,英文（二）,六06-08,國秀樓509教室
+SA27,0,2,江佳恩,冷凍空調大職二, PhysicalEducation（Ⅳ）,體育（四）,五13-14,撞球
+SA28,3,3,陳銘澤,冷凍空調大職二, Electric Circuit Analysis,電路學,五10-12,國秀樓508教室
+SA29,6,12,企業實習（二）,冷凍空調大職二, Business Internship （Ⅱ）,企業實習（二）,,
+SA30,2,2,賴裕珊,冷凍空調大職三, World Cuisine and Food Culture,通識社會科學領域（世界飲食與文化）,六01-02,國秀樓509教室
+SA31,3,3,許智能,冷凍空調大職三, Energy Engineering,能源工程,六10-12,E018冷凍空調自動控制實驗室
+SA32,3,3,田大青,冷凍空調大職三, Fluid Machinery,流體機械,六03-05,國秀樓413教室
+SA33,6,12,企業實習（四）,冷凍空調大職三, Business Internship（IV）,企業實習（四）,,
+SA34,0,0,,冷凍空調大職一,,班週會時間,二13-14,中彰投分署教學大樓204教室
+SA35,0,0,,冷凍空調大職二,,班週會時間,六13-14,國秀樓509教室
+SA36,0,0,,冷凍空調大職三,,班週會時間,六13-14,E018冷凍空調自動控制實驗室
+SA37,0,0,,冷凍空調大職四,,班週會時間,六10-11,國秀樓103教室
+SB01,3,3,張隆益,電自控職大四, Fire Engineering,消防工程,六01-03,E243專題製作室
+SB21,2,2,涂惠玲,電自控職大三, English test,檢定英文,六02-03,國秀樓2F語言教室C
+SB22,3,3,羅永昌,電自控職大三, Electric Machine Control,電機控制,六07-09,E224 PC-BASED實驗室
+SB23,4,6,郭英哲,電自控職大三, The industry practises really and practically（Ⅱ）,產業實務實習（二）,,
+SB24,2,2,林通洲,電自控職大四, Lifelong learning and career planning,終身學習與生涯規劃,六05-06,E304電工儀表實驗教室
+SB25,2,6,實務專題討論二,電自控職大四, Special Research on Electricst,實務專題討論（二）,,
+SB26,4,6,張隆益,電自控職大四, The industry practises really and practically（Ⅳ）,產業實務實習（四）,,
+SB27,0,0,,電自控職大三,,班週會時間,六01-01,"E232嵌入式系統實驗室), 六06-0"
+SB28,0,0,,電自控職大四,,班週會時間,六04-04,"E243專題製作室), 六11-1"
+SC01,3,3,楊善國,雙軌職四機三甲選1, Automatic Controls,自動控制,五02-04,國秀樓4A
+SC02,3,3,林清福,雙軌職四機三甲選2, Computer auxiliary three-dimensional cartography,電腦輔助立體繪圖,五10-12,機械館電腦繪圖室
+SC03,3,3,陳永銓,雙軌職四機三甲選3, Fluid Mechanics,流體力學,六08-10,國秀樓506教室
+SC04,3,3,謝明珠,雙軌職四機四甲選1, Computer auxiliary three-dimensional cartography,3D參數化機械設計,五05-07,機械館電腦繪圖室
+SC05,3,3,蔡明義,雙軌職四機四甲選2, Nontraditional Machining,非傳統加工,五08-10,國秀樓506教室
+SC21,2,2,楊淑瓊,雙軌職四機一甲, Chinese（Ⅱ）,國文（二）,六08-09,國秀樓508教室
+SC22,3,3,涂惠玲,雙軌職四機一甲, Freshman English（Ⅱ）,大一英文（二）,六04-04,"國秀樓2F語言教室C), 六06-0"
+SC23,3,3,陳永銓,雙軌職四機一甲, Calculus（I）,微積分（一）,六01-03,國秀樓508教室
+SC24,0,2,韋磊,雙軌職四機一甲, PhysicalEducation（Ⅱ）,體育（二）,六10-11,籃球場
+SC25,2,3,陳永銓,雙軌職四機一甲, Practical Training（Ⅱ）,產業製造程序實習二,二07-09,
+SC26,3,3,陳聰嘉,雙軌職四機一甲, The Program of Computer,程式語言,五05-07,機械館電腦輔助產品設計電腦教室
+SC27,3,3,潘吉祥,雙軌職四機一甲, Machinery,機構學,五02-04,機械館電腦輔助產品設計電腦教室
+SC28,3,3,陳聰嘉,雙軌職四機一甲, Dynamics,動力學,五08-10,機械館電腦輔助產品設計電腦教室
+SC29,2,2,朱君苑,雙軌職四機三甲, Music Appreciation,音樂鑑賞,六02-03,國秀樓3F音樂欣賞教室
+SC30,2,3,陳聰嘉,雙軌職四機三甲, The Internship of Industrial Materials Processing（II）,產業材料製程實習二,三01-03,
+SC31,2,3,詹俊奕,雙軌職四機三甲, Computer-Aided Engineering Analysis,電腦輔助工程分析,六05-07,機械館CAE電腦教室
+SC32,3,3,黃智勇,雙軌職四機三甲, The theory and Practice of Mechatronics,機電整合,五05-07,機械館機電整合實驗室
+SC33,2,2,謝瑞青,雙軌職四機四甲, Work place ethics and career plan,職場倫理與生涯規劃,六02-03,國秀樓507教室
+SC34,2,3,黃智勇,雙軌職四機四甲, Project study（Ⅱ）,專題製作（二）,一01-03,
+SC35,3,3,林金雄,雙軌職四機四甲, Quality Control,品質管制,五02-04,機械館材料實驗室
+SC36,0,0,,雙軌職四機一甲,,班週會時間,五11-12,國秀樓503教室
+SC37,0,0,,雙軌職四機三甲,,班週會時間,六11-11,"機械館電腦輔助產品設計電腦教室), 六01-0"
+SC38,0,0,,雙軌職四機四甲,,班週會時間,五01-01,"國秀樓407教室), 六01-0"
+SD01,3,3,翁俊桔,雙軌職四訊二甲選1, Career Planning and Development,生涯規劃,五11-13,國秀樓003教室
+SD02,3,3,蕭世雄,雙軌職四訊二三甲選, Laber Standards Act and its Enforcement Rule,勞動法規,六07-09,E529-工程館5F
+SD03,3,3,林宗宏,雙軌職四訊三四甲選1, Fundamental Automata Theory,自動機原理概論,五05-07,E531-工程館5F
+SD04,3,3,高長翰,雙軌職四訊三四甲選2, Case Study of Information System,資訊系統個案研究,五11-13,國秀樓506教室
+SD05,3,3,黃宣詔,雙軌職四訊三四甲選3, Advanced Embedded System Design and Lab.,進階嵌入式系統設計及實習,六10-12,E547-工程館5F
+SD06,3,3,黃國賢,雙軌職四訊四甲選, Application and Design of Computer Software,電腦軟體應用與設計,六07-09,國秀樓003教室
+SD21,2,2,洪英雪,雙軌職四訊一甲, Chinese（Ⅱ）,國文（二）,一06-07,國秀樓305教室
+SD22,2,2,郭宇婕,雙軌職四訊一甲, English for Science and Technology（Ⅱ）,科技英文（二 ）,六08-09,E445-工程館4F
+SD23,0,2,梁隨燕,雙軌職四訊一甲, PhysicalEducation（Ⅱ）,體育（ 二 ）,一08-09,羽球場
+SD24,2,2,陳瑞茂,雙軌職四訊一甲, Calculus（Ⅱ）,微積分（ 一 ）,六10-11,E529-工程館5F
+SD25,2,3,林宗宏,雙軌職四訊一甲, Computer programming and experiment （Ⅱ）,程式設計與實習（二）,六03-05,E445-工程館4F
+SD26,3,6,產業實務實習二,雙軌職四訊一甲, The Industry Practises Really and Practically（Ⅱ）,產業實務實習（二）,二01-06,
+SD27,2,3,游正義,雙軌職四訊一甲, Digital Logic Laboratory,數位邏輯與實習,一02-04,E445-工程館4F
+SD28,3,3,郭秋田,雙軌職四訊一甲, Basic Electricity,基本電學,一11-13,E445-工程館4F
+SD29,0,2,高文揚,雙軌職四訊二甲, PhysicalEducation（Ⅳ）,體育（ 四 ）,六11-12,高爾夫球練習場
+SD30,1,1,朱君苑,雙軌職四訊二甲, Music Appreciation,音樂鑑賞,六05-05,國秀樓3F音樂欣賞教室
+SD31,3,3,林正堅,雙軌職四訊二甲, Linear Algebra,線性代數,五02-04,E445-工程館4F
+SD32,3,3,林基源,雙軌職四訊二甲, Discrete Mathematics,離散數學,五05-07,E529-工程館5F
+SD33,3,6,產業實務實習四,雙軌職四訊二甲, The Industry Practises Really and Practically（Ⅳ）,產業實務實習（四）,二04-06,"), 四05-0"
+SD34,3,3,欉振坤,雙軌職四訊二甲, Computer Organization and Architecture,計算機組織與結構,六02-04,國秀樓003教室
+SD35,2,2,邱惠玲,雙軌職四訊三甲, Japanese language for Technology（II）,科技日文 （二 ）,六03-04,國秀樓511教室
+SD36,3,6,產業實務實習六,雙軌職四訊三甲, The Industry Practises Really and Practically（VI）,產業實務實習（六）,一02-04,"), 三02-0"
+SD37,3,3,林學儀,雙軌職四訊三甲, Operating System,作業系統,五02-04,E531-工程館5F
+SD38,3,6,產業實務實習八,雙軌職四訊四甲, The industry practises really and practically（VIII）,產業實務實習（八）,三02-07,
+SD39,0,0,,雙軌職四訊一甲,,班週會時間,一05-05,E547-工程館5F
+SD40,0,0,,雙軌職四訊二甲,,班週會時間,六01-01,E445-工程館4F
+SD41,0,0,,雙軌職四訊三甲,,班週會時間,五01-01,E531-工程館5F
+SD42,0,0,,雙軌職四訊四甲,,班週會時間,五01-01,E420-工程館4F
+SE01,3,3,邱維銘,紡纖職二甲選, Introduction of Nanotechnology,奈米科技導論,二05-08,工程館E417電化教室三
+SE02,3,3,張惠玲,紡纖職二乙選, Introduction of Nanotechnology,奈米科技導論,二01-04,工程館E417電化教室三
+SE03,3,3,高肇郎,紡纖職三甲選1, Treatment of Solid Waste,固體廢棄物處理,一01-04,工程館E522電化教室一
+SE04,3,3,戴永銘,紡纖職三甲選2, Introduction to green energy materials,綠色能源材料概論,一05-08,工程館E417電化教室二
+SE05,3,3,張漢昌,紡纖職三乙選1, Treatment of Solid Waste,固體廢棄物處理,四05-08,工程館E417電化教室二
+SE06,3,3,楊鎮遠,紡纖職三乙選2, Introduction to green energy materials,綠色能源材料概論,一05-08,工程館E417電化教室二
+SE07,3,3,楊順通,紡纖職四甲選1, Production Management,生產管理,二10-13,國秀樓511教室
+SE08,3,3,陳岡宏,紡纖職四甲選2, Application of Functional Textiles,機能性紡織品應用,三10-13,國秀樓409教室
+SE09,3,3,楊順通,紡纖職四乙選1, Production Management,生產管理,二10-13,國秀樓511教室
+SE10,3,3,陳岡宏,紡纖職四乙選2, Application of Functional Textiles,機能性紡織品應用,三10-13,國秀樓506教室
+SE21,3,3,施盈佑,紡纖職一甲, Applied Chinese （Ⅱ）,應用國文（二）,四01-04,國秀樓401教室
+SE22,3,3,林玉霞,紡纖職一甲, Practical English （Ⅱ）,實用英文（二）,二05-08,國秀樓010教室
+SE23,3,3,洪國智,紡纖職一甲, Applied mathematics （Ⅱ）,應用數學（二）,三05-08,國秀樓303教室
+SE24,0,2,陳小平,紡纖職一甲, PhysicalEducation（Ⅱ）,體育（二）,四05-07,合氣道教室
+SE25,2,6,職場實習二,紡纖職一甲, Professional Course （Ⅱ）,職場實習（二）,六01-09,
+SE26,3,3,倪聖中,紡纖職一甲, Common Chemistry,普通化學,二01-04,工程館E417電化教室三
+SE27,3,3,黃世梁,紡纖職一甲, Introduction to Materials Science and Engineering,材料科學與工程概論,一05-08,工程館E417電化教室二
+SE28,3,3,徐華中,紡纖職一乙, Applied Chinese （Ⅱ）,應用國文（二）,四01-04,國秀樓401教室
+SE29,3,3,林玉霞,紡纖職一乙, Practical English （Ⅱ）,實用英文（二）,二05-08,國秀樓010教室
+SE30,3,3,洪國智,紡纖職一乙, Applied mathematics （Ⅱ）,應用數學（二）,三05-08,國秀樓303教室
+SE31,0,2,蔡輝炯,紡纖職一乙, PhysicalEducation（Ⅱ）,體育（二）,四05-07,高爾夫球練習場
+SE32,2,6,職場實習二,紡纖職一乙, Professional Course （Ⅱ）,職場實習（二）,六01-09,
+SE33,3,3,蔡美慧,紡纖職一乙, Common Chemistry,普通化學,五01-04,工程館E417電化教室三
+SE34,3,3,歐珍方,紡纖職一乙, Introduction to Materials Science and Engineering,材料科學與工程概論,二03-04,"工程館E522電化教室一), 三03-0"
+SE35,2,2,李俐潔,紡纖職二甲, Art Appreciation,藝術鑑賞,一02-04,國秀樓4F美術鑑賞教室
+SE36,2,6,職場實習四,紡纖職二甲, Professional Course （Ⅳ）,職場實習（四）,六01-09,
+SE37,3,3,謝淑枝,紡纖職二甲, Physical Chemistry （Ⅱ）,物理化學（二）,三05-08,工程館E016電化教室五
+SE38,3,3,陳秋菊,紡纖職二甲, Organic Chemistry （Ⅱ）,有機化學（二）,五01-04,工程館E016電化教室五
+SE39,3,3,劉仁湧,紡纖職二甲, Fibre chemistry,纖維化學,三10-13,國秀樓511教室
+SE40,2,2,倪玉珊,紡纖職二乙, Art Appreciation,藝術鑑賞,一07-09,國秀樓4F美術鑑賞教室
+SE41,2,6,職場實習四,紡纖職二乙, Professional Course （Ⅳ）,職場實習（四）,六01-09,
+SE42,3,3,呂春美,紡纖職二乙, Physical Chemistry （Ⅱ）,物理化學（二）,三05-08,工程館E417電化教室三
+SE43,3,3,蔡明瞭,紡纖職二乙, Organic Chemistry （Ⅱ）,有機化學（二）,二07-08,"工程館E417電化教室三), 三03-0"
+SE44,3,3,劉仁湧,紡纖職二乙, Fibre chemistry,纖維化學,三10-13,國秀樓511教室
+SE45,2,6,職場實習六,紡纖職三甲, Professional Course ﹙Ⅵ﹚,職場實習（六）,五10-14,"), 六10-1"
+SE46,3,3,陳為照,紡纖職三甲, Weaving Technology,織造工程學,六01-04,國秀樓411教室
+SE47,3,3,呂旭東,紡纖職三甲, Materials Chemistry,材料化學,三01-04,工程館E417電化教室三
+SE48,3,3,呂春美,紡纖職三甲, Instrumental Analysis,儀器分析,四05-08,工程館E417電化教室三
+SE49,2,6,職場實習六,紡纖職三乙, Professional Course ﹙Ⅵ﹚,職場實習（六）,五10-14,"), 六10-1"
+SE50,3,3,陳為照,紡纖職三乙, Weaving Technology,織造工程學,六01-04,國秀樓411教室
+SE51,3,3,黃怡銘,紡纖職三乙, Materials Chemistry,材料化學,一03-04,"工程館E417電化教室二), 三03-0"
+SE52,3,3,陳秋菊,紡纖職三乙, Instrumental Analysis,儀器分析,五01-04,工程館E016電化教室五
+SE53,2,6,職場實習八,紡纖職四甲, Professional Course（Ⅷ）,職場實習（八）,五10-14,"), 六10-1"
+SE54,3,3,邱素伶,紡纖職四甲, Marketing Management-Textile Industry,紡織業行銷與管理,一05-08,國秀樓402教室
+SE55,2,2,黃怡銘,紡纖職四甲, Seminar,書報討論,一02-04,工程館E417電化教室三
+SE56,2,6,職場實習八,紡纖職四乙, Professional Course（Ⅷ）,職場實習（八）,五10-14,"), 六10-1"
+SE57,3,3,邱素伶,紡纖職四乙, Marketing Management-Textile Industry,紡織業行銷與管理,一05-08,國秀樓402教室
+SE58,2,2,呂旭東,紡纖職四乙, Seminar,書報討論,三05-07,工程館E417電化教室二
+SE59,0,0,,紡纖職一甲,,班週會時間,一09-10,工程館E417電化教室二
+SE60,0,0,,紡纖職一乙,,班週會時間,三01-02,工程館E522電化教室一
+SE61,0,0,,紡纖職二甲,,班週會時間,五05-06,工程館E417電化教室二
+SE62,0,0,,紡纖職二乙,,班週會時間,三01-02,工程館E417電化教室三
+SE63,0,0,,紡纖職三甲,,班週會時間,一09-10,工程館E522電化教室一
+SE64,0,0,,紡纖職三乙,,班週會時間,三01-02,工程館E417電化教室二
+SE65,0,0,,紡纖職四甲,,班週會時間,一09-10,工程館E417電化教室三
+SE66,0,0,,紡纖職四乙,,班週會時間,三08-09,工程館E417電化教室二
+SF01,3,3,許智能,綠能職大三, Clean room technology,無塵室技術,一05-07,E018冷凍空調自動控制實驗室
+SF02,3,3,李哲尹,綠能職大三, Indoor Air Quality,室內空氣品質,二02-04,E109能源工程實驗室
+SF03,3,3,楊育荃,綠能職大三, Fire Trotection Engineering,消防工程概論,四05-07,國秀樓506教室
+SF04,3,3,楊愷祥,綠能職大三, Cryogenic Engineering,低溫工程,五05-07,國秀樓410教室
+SF21,2,2,宋孟遠,綠能職大三, Sport Sociology,通識社會科學領域（運動社會學）,三03-04,國秀樓1樓多媒體視聽室 CoffeeCorner
+SF22,3,3,顏阿桃,綠能職大三, Business Ethics,職場倫理,一02-04,E102電子實驗室
+SF23,3,4,陳清光,綠能職大三, Refrigeration and Air-Conditioning Energy-Saving Technique and Practices,冷凍空調節能技術及實習,五01-04,國秀樓5樓多媒體暨口譯教室
+SF24,0,0,,綠能職大三,,班週會時間,四01-02,E102電子實驗室
+SG01,2,2,林怡萱,雙軌職四休一選,,古典音樂鑑賞（二）,三10-11,文化休閒館CR202教室
+SG02,2,2,洪群翔,雙軌職四休二選1, Sports training,運動訓練指導法,一05-06,文化休閒館CR204休閒健康促進專業教室
+SG03,2,2,陳依蘋,雙軌職四休二選2, Leisure Art Appreciation,休閒藝術賞析,二12-13,文化休閒館CR202教室
+SG21,0,2,蘇榮基,雙軌職四休一, Physical Education （Ⅱ）,體育（二）,四03-04,網球場
+SG22,2,2,林錦婷,雙軌職四休一, Practical writing（Ⅱ）,應用文（二）,三03-04,文化休閒館CR308教室
+SG23,3,9,雙軌職四休一,雙軌職四休一, Service Operations Management for Leisure Industry（II）,服務作業管理與實習（二）,,
+SG24,2,2,王靖欣,雙軌職四休一, Introduction to Business,企業概論,三07-08,文化休閒館CR202教室
+SG25,2,2,物流管理,雙軌職四休一, Logistics Management,物流管理,四01-02,文化休閒館CR202教室
+SG26,2,2,林雲燦,雙軌職四休一, Marketing Management,行銷管理,三05-06,文化休閒館CR202教室
+SG27,0,2,林誯鎮,雙軌職四休二, PhysicalEducation（Ⅳ）,體育（四）,一03-04,羽球場
+SG28,2,2,羅友志,雙軌職四休二, Basic English（Ⅱ）,基礎英文（二）,二03-04,文化休閒館CR202教室
+SG29,2,2,陳卉芬,雙軌職四休二, Mathematics（Ⅱ）,管理數學（二）,一10-11,文化休閒館CR202教室
+SG30,3,9,雙軌職四休二,雙軌職四休二, Service Operations Management for Leisure Industry（Ⅳ）,服務作業管理與實習（四）,,
+SG31,2,2,陳依蘋,雙軌職四休二,,食品安全衛生與法規,二10-11,文化休閒館CR202教室
+SG32,2,2,陳細鈿,雙軌職四休二, Cost Control and Operating Profit Analysis,成本控管與淨利分析,二07-08,文化休閒館CR308教室
+SG33,2,2,陳泰衡,雙軌職四休二, Tourism Geography and Food Culture,觀光地理與餐飲文化,二05-06,文化休閒館CR202教室
+SG34,0,0,,雙軌職四休一,,班週會時間,三02-02,"文化休閒館CR202教室), 四02-0"
+SG35,0,0,,雙軌職四休二,,班週會時間,一02-02,"文化休閒館CR202教室), 二01-0"
+SH21,2,2,楊靜芬,智資職大一, Applied chinese （Ⅱ）,應用國文（二）,四10-11,管理館M501
+SH22,3,3,張億收,智資職大一, Practical English （Ⅱ）,實用英文（二）,五13-13,"管理館M501), 六11-1"
+SH23,3,3,張麗芬,智資職大一, Calculus（Ⅱ）,微積分（二）,五10-12,管理館M501
+SH24,0,2,高文揚,智資職大一, PhysicalEducation（Ⅱ）,體育（二）,四12-13,高爾夫球練習場
+SH25,3,6,產業實務實習二,智資職大一, The industry practises really and practically（Ⅱ）,產業實務實習（二）,,
+SH26,2,4,蔡梨暖,智資職大一, Practice of Machine Tool,數控工具機理論與實習,六02-05,管理館M501
+SH27,2,2,白方正,智資職大一, Selection and application of Materials,材料選擇與應用,六09-10,管理館M501
+SH28,2,2,林文燦,智資職大一,,職場基本能力（職業倫理）,六07-08,管理館M501
+SH29,0,0,,智資職大一,,班週會時間,六01-01,"管理館M501), 六06-0"
+T001,0,1,宋孟遠,四機一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三07-07,國秀樓302教室
+T002,0,1,蔡輝炯,四機一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,四08-08,國秀樓301教室
+T003,0,1,陳小平,四化一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三07-07,國秀樓305教室
+T004,0,1,吳慧雯,四電一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,四08-08,國秀樓402教室
+T005,0,1,伍木成,四電一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三05-05,國秀樓407教室
+T006,0,1,陳建文,四子一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三07-07,國秀樓313教室
+T007,0,1,林志洪,四子一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五02-02,國秀樓012教室
+T008,0,1,黃美玲,四工一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二08-08,國秀樓311教室
+T009,0,1,黃美玲,四工一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五05-05,國秀樓312教室
+T010,0,1,林裕淩,四企一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二01-01,企管系會議室
+T011,0,1,陳志昌,四文一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三07-07,國秀樓307教室
+T012,0,1,謝文健,四冷一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二08-08,國秀樓401教室
+T013,0,1,彭國芳,四技流一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,一08-08,國秀樓401教室
+T014,0,1,江欣惇,四訊一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二08-08,國秀樓407教室
+T015,0,1,陳東賢,四訊一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五05-05,國秀樓403教室
+T016,0,1,黃凌瑤,四資一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二07-07,工具機學院大樓四樓多功能教室
+T101,0,1,林佩芬,四企一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,一01-01,
+T102,0,1,徐瑋瑩,四子一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二03-03,
+T103,0,1,邱俊智,四機一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二09-09,
+T104,0,1,薛仰禮,四機一丁, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二02-02,
+T105,0,1,黃書祥,四訊一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五01-01,
+T106,0,1,梁隨燕,四資一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三01-01,
+T107,0,1,黃美玲,四工一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,四08-08,
+T108,0,1,王偉驎,四工一丁, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,一06-06,
+T109,0,1,邱維銘,四化一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二01-01,
+T110,0,1,葉怡巖,四化一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五08-08,
+T111,0,1,王輔仁,四冷一乙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,四05-05,
+T112,0,1,楊愷祥,四冷一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五08-08,
+T113,0,1,姚威宏,四電一丙, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,五08-08,
+T114,0,1,洪群翔,四休閒一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,二08-08,
+T115,0,1,林佳靜,四英一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三07-07,
+T116,0,1,陳細鈿,四技流一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,一01-01,
+T117,0,1,謝翠玲,四景一甲, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,三02-02,
+T118,0,1,姚威宏,, Labor and Social services Education（Ⅱ）,勞作與社會服務教育（二）,六02-02,
+W001,2,2,謝攸青,四技通識必修," Style, aesthetics, and modern life",通識人文藝術領域（風格、美學與現代生活）,一05-06,國秀樓4F美術鑑賞教室
+W002,2,2,劉淑如,四技通識必修, Dialogue of Classical music and Movie,通識人文藝術領域（古典音樂與電影的對話）,一05-06,國秀樓3F音樂欣賞教室
+W003,2,2,游惠遠,四技通識必修, Gender Issues and Text Analysis,通識人文藝術領域（性別議題與電影）,一05-06,文化休閒館CRB02
+W004,2,2,謝炯庠,四技通識必修, Global Polotical Economy,通識社會科學領域（全球政治經濟）,一05-06,國秀樓012教室
+W005,2,2,楊卿,四技通識必修, Psychology and modern life,通識社會科學領域（心理與生活）,一05-06,國秀樓005教室
+W006,2,2,楊馥綺,四技通識必修, Positive thinking and well-being,通識社會科學領域（正向思考與幸福人生）,一05-06,國秀樓010教室
+W007,2,2,劉柏宏,四技通識必修, Scientific Decoding of Leonardo Davinci,通識自然科學領域（科學解碼達文西）,一05-06,國秀樓011教室
+W008,2,2,張漢昌,四技通識必修, Science of toxic materials and environment,通識自然科學領域（生活與毒化物科學）,一05-06,國秀樓503教室
+W009,2,2,呂小燕,四技通識必修," Movies,Cultures and Life",通識人文藝術領域（電影、文化與人生）,二07-08,國秀樓005教室
+W010,2,2,唐屹軒,四技通識必修, Historiophoty and Historical narrative: Korean history volume,通識人文藝術領域（影像史學與歷史敘事‧韓國篇）,二07-08,國秀樓305教室
+W011,2,2,陳廷育,四技通識必修, Occupational Safety and Sanitation,通識社會科學領域（職業安全與衛生）,二07-08,國秀樓509教室
+W012,2,2,鄭又腆,四技通識必修, Digital Marketing Planning and Design,通識社會科學領域（數位行銷規劃與設計）,二07-08,管理館M611-1
+W013,2,2,王仁祿,四技通識必修, Book of Changes and Life,通識社會科學領域（易經與人生）,二07-08,國秀樓307教室
+W014,2,2,謝翠玲,四技通識必修, Sustainability development and Green Technology,通識自然科學領域（綠色科技與永續發展）,二07-08,國秀樓011教室
+W015,2,2,許朕諭,四技通識必修, Green life,通識自然科學領域（現代綠生活）,二07-08,國秀樓012教室
+W016,2,2,傅光森,四技通識必修, The different space and time travel of folk custom,通識人文藝術領域（異時空民俗之旅）,四01-02,國秀樓305教室
+W017,2,2,鄭志敏,四技通識必修, Sing Appreciation,通識人文藝術領域（歌唱的藝術）,四01-02,國秀樓3F音樂欣賞教室
+W018,2,2,王偉驎,四技通識必修, Tea art and life,通識人文藝術領域（茶藝與生活）,四01-02,工303整合製造模擬室
+W019,2,2,蘇彥蓁,四技通識必修, Understanding yourself,通識人文藝術領域（心靈探索）,四01-02,國秀樓302教室
+W020,2,2,林純芬,四技通識必修, Travel Literature,通識人文藝術領域（旅遊文學）,四01-02,國秀樓303教室
+W021,2,2,胡志佳,四技通識必修, Documentary in Taiwan,通識人文藝術領域（紀錄片中的台灣）,四01-02,國秀樓506教室
+W022,2,2,林誯鎮,四技通識必修, 0f Recreation sport & Therapy,通識社會科學領域（休閒運動療法理論與實務）,四01-02,國秀樓309教室
+W023,2,2,趙申,四技通識必修, Global Issues and International Relations,通識社會科學領域（從全球議題談國際關係）,四01-02,國秀樓507教室
+W024,2,2,胡清暉,四技通識必修, Sport marketing and Journalism,通識社會科學領域（運動行銷與傳播）,四01-02,國秀樓409教室
+W025,2,2,林澤宏,四技通識必修, Career Ethics,通識社會科學領域（職場倫理）,四01-02,國秀樓313教室
+W026,2,2,步國財,四技通識必修, Tour Leader & Tour Guide,通識社會科學領域（觀光領隊導遊）,四01-02,國秀樓406教室
+W027,2,2,林麗嬌,四技通識必修, environment protection of modern and innovative life,通識社會科學領域（摩登環保新生活）,四01-02,M423專業科目教
+W028,2,2,徐瑋瑩,四技通識必修, Mindfulness-Based Stress Reduction,通識社會科學領域（正念減壓與身心轉化）,四01-02,國秀樓502教室
+W029,2,2,王俊傑,四技通識必修, Development of Mathematics And Its Applications,通識自然科學領域（數學發展與應用）,四01-02,國秀樓503教室
+W030,2,2,蘇智偉,四技通識必修, Animation Art and Technology,通識自然科學領域（動畫藝術與科技）,四01-02,國秀樓4F美術鑑賞教室
+W031,2,2,宋文沛,四技通識必修, Protection and Rehabilitation of Earthquake Disaster,通識自然科學領域（震災防護與復建）,四01-02,國秀樓411教室
+W032,2,2,謝翠玲,四技通識必修, Introduction to Life Science,通識自然科學領域（生命科學概論）,四01-02,國秀樓511教室
+W033,2,2,林芳如,四技通識必修, Introduction to biotechnology,通識自然科學領域（生物科技概論）,四01-02,國秀樓508教室
+W034,2,2,王偉驎,四技通識必修, Tea art and life,通識人文藝術領域（茶藝與生活）,四07-08,工103設施規劃實習室
+W035,2,2,周婉儒,四技通識必修, Classical Music Appreciation,通識人文藝術領域（古典音樂欣賞）,四07-08,國秀樓B2美術教室
+W037,2,2,呂小燕,四技通識必修," Movies,Cultures and Life",通識人文藝術領域（電影、文化與人生）,四07-08,國秀樓005教室
+W038,2,2,石秋燕,四技通識必修, Panorama of French culture and European Museum Tour,通識人文藝術領域（法國文化概況與歐洲博物館巡禮）,四07-08,國秀樓306教室
+W039,2,2,徐瑋瑩,四技通識必修, Art and Society,通識社會科學領域（藝術與社會）,四07-08,國秀樓502教室
+W040,2,2,公共衛生,四技通識必修, Public health and management,通識自然科學領域（公共衛生與管理）,四07-08,國秀樓011教室
+W041,2,2,黃怡銘,四技通識必修, Introduction of Biotechnology,通識自然科學領域（認識生物科技）,四07-08,國秀樓012教室
+W042,2,2,王月秀,四技通識必修, Love and Literature,通識人文藝術領域（愛情與文學）,五01-02,國秀樓401教室
+W043,2,2,朱韻如,四技通識必修, Japanese and culture,通識人文藝術領域（日本語與日本文化）,五01-02,國秀樓511教室
+W044,2,2,劉俊頤,四技通識必修, Classic Music Appreciation,通識人文藝術領域（西洋古典音樂欣賞）,五01-02,國秀樓B2美術教室
+W045,2,2,林素瑜,四技通識必修, Dialogue of Ethics and Movie,通識人文藝術領域（倫理與電影的對話）,五01-02,國秀樓308教室
+W046,2,2,倪玉珊,四技通識必修, Sketch,通識人文藝術領域（基礎素描與賞析）,五01-02,國秀樓4F美術鑑賞教室
+W047,2,2,徐瑋瑩,四技通識必修, Art and Everyday Life,通識人文藝術領域（藝術與日常生活）,五01-02,國秀樓502教室
+W048,2,2,宋定莉,四技通識必修, The young book：The Dream of the Red Chamber,通識人文藝術領域（青春之書：紅樓夢）,五01-02,國秀樓410教室
+W049,2,2,鄧戍雄,四技通識必修, Travel Guide,通識社會科學領域（旅遊導覽）,五01-02,國秀樓309教室
+W050,2,2,廖婕軒,四技通識必修, Marketing and Creative Arts,通識社會科學領域（藝術行銷與創意）,五01-02,國秀樓409教室
+W051,2,2,張天任,四技通識必修, Negotiation,通識社會科學領域（談判）,五01-02,國秀樓508教室
+W052,2,2,陳如音,四技通識必修," Ethnic, Culture and Gender Equality",通識社會科學領域（族群、文化與性別平等）,五01-02,國秀樓403教室
+W053,2,2,林澤宏,四技通識必修, Consumer protection and life,通識社會科學領域（消費者保護與生活）,五01-02,國秀樓506教室
+W054,2,2,胡志佳,四技通識必修, The Art Of Leadership,通識社會科學領域（領導的藝術）,五01-02,國秀樓509教室
+W055,2,2,賴裕珊,四技通識必修," International Etiquette—accommodation , transportation ,education and recreating",通識社會科學領域（國際社交禮儀—住行育樂篇）,五01-02,國秀樓503教室
+W056,2,2,鄧雅靜,四技通識必修, Biotechology,通識自然科學領域（生物科技）,五01-02,國秀樓411教室
+W057,2,2,潘佳甫,四技通識必修, Chemistry for Life,通識自然科學領域（生活中的化學）,五01-02,國秀樓412教室
+W058,2,2,葉怡巖,四技通識必修, Scientific Knowledge in Life,通識自然科學領域（生活中的科學知識）,五01-02,國秀樓507教室
+W059,2,2,林芳如,四技通識必修, Drugs and Living Medication,通識自然科學領域（藥物與生活）,五01-02,國秀樓312教室
+W060,2,2,王月秀,四技通識必修, Febles and life,通識人文藝術領域（寓言故事與人生）,五03-04,國秀樓401教室
+W061,2,2,劉俊頤,四技通識必修, American Popular Music and Culture,通識人文藝術領域（美國大眾音樂文化）,五03-04,國秀樓B2美術教室
+W062,2,2,林素瑜,四技通識必修, Conversations with philosophers,通識人文藝術領域（與生命對話）,五03-04,國秀樓308教室
+W063,2,2,倪玉珊,四技通識必修, International Etiquette,通識人文藝術領域（世界美術館巡禮與賞析）,五03-04,國秀樓4F美術鑑賞教室
+W064,2,2,林格妃,四技通識必修, Tour Japaness & Japen Leads Lan,通識人文藝術領域（觀光日語與日本導覽）,五03-04,文化休閒館CR203教室
+W065,2,2,葉怡巖,四技通識必修, The Story of Scientists,通識人文藝術領域（科學家的故事）,五03-04,國秀樓507教室
+W066,2,2,劉淑爾,四技通識必修, The secret code of the Zhuyin,通識社會科學領域（乾坤密碼讀易經）,五03-04,國秀樓502教室
+W067,2,2,林經緯,四技通識必修, Perspectives of Mainland China and Cross-Strait relations,通識社會科學領域（中國大陸與兩岸關係研究）,五03-04,國秀樓301教室
+W068,2,2,陳如音,四技通識必修, Gender Equality and Intimate relationship,通識社會科學領域（性別平等與親密關係）,五03-04,國秀樓403教室
+W069,2,2,鄧戍雄,四技通識必修, Industrial discussion of leisure and recreation,通識社會科學領域（休閒與遊憩概論）,五03-04,國秀樓309教室
+W070,2,2,戰後台灣,四技通識必修, The Law and History of Taiwan After 1945,通識社會科學領域（戰後台灣的法律與歷史）,五03-04,國秀樓506教室
+W071,2,2,陳廷育,四技通識必修, Environmental Planning and Urban Development,通識社會科學領域（環境規劃與都市發展）,五03-04,國秀樓103教室
+W072,2,2,戴沁琳,四技通識必修, Sports and life,通識社會科學領域（運動與生活）,五03-04,文化休閒館B01教室
+W073,2,2,徐瑋瑩,四技通識必修, Art and Society,通識社會科學領域（藝術與社會）,五03-04,國秀樓503教室
+W074,2,2,洪灜倫,四技通識必修, Ecological Art and Material Application,通識自然科學領域（生態藝術與材料應用）,五03-04,國秀樓005教室
+W075,2,2,鄧雅靜,四技通識必修, Biotechology,通識自然科學領域（生物科技）,五03-04,國秀樓411教室
+W076,2,2,陳東賢,四技通識必修, Space geometry and urban landscape,通識自然科學領域（空間幾何與都市景觀）,五03-04,國秀樓511教室
+W077,2,2,林家民,四技通識必修, Fun Learning Science,通識自然科學領域（趣學科學）,五03-04,國秀樓409教室
+W078,2,2,田金昌,四技通識必修, Hakka Social and Cultural,通識人文藝術領域（客家社會與文化）,五05-06,國秀樓509教室
+W079,2,2,何瑞蓮,四技通識必修, Read English and Chinese Classics through Film and Play,通識人文藝術領域（從影像品味文學經典）,五05-06,國秀樓103教室
+W080,2,2,鄭志敏,四技通識必修, Sing Appreciation,通識人文藝術領域（歌唱的藝術）,五05-06,國秀樓3F音樂欣賞教室
+W081,2,2,謝攸青,四技通識必修," Media, technology and artlife",通識人文藝術領域（媒體、科技與藝術生活）,五05-06,國秀樓4F美術鑑賞教室
+W082,2,2,徐瑋瑩,四技通識必修, Art and Everyday Life,通識人文藝術領域（藝術與日常生活）,五05-06,國秀樓311教室
+W083,2,2,廖育菁,四技通識必修, Appreciation Of Drama,通識人文藝術領域（戲劇鑑賞）,五05-06,國秀樓406教室
+W084,2,2,王仁祿,四技通識必修, Book of Changes and Life,通識社會科學領域（易經與人生）,五05-06,國秀樓005教室
+W085,2,2,趙申,四技通識必修, Global Issues and International Relations,通識社會科學領域（從全球議題談國際關係）,五05-06,國秀樓506教室
+W086,2,2,林經緯,四技通識必修, International Politics and International Relations,通識社會科學領域（國際政治與國際關係）,五05-06,國秀樓301教室
+W087,2,2,宋孟遠,四技通識必修, Sport Sociology,通識社會科學領域（運動社會學）,五05-06,國秀樓1F語言教室B
+W090,2,2,葉怡巖,四技通識必修, Passes knows the natural sciences domain,通識自然科學領域（環境教育與永續發展）,五05-06,國秀樓507教室
+W091,2,2,黃坤山,四技通識必修, Chinese medicine and Health promotion,通識自然科學領域（中醫與保健）,五05-06,國秀樓313教室
+W092,2,2,方智芳,四技通識必修," The dialogue of horticulture, life and self",通識自然科學領域（園藝與生命的對話—綠色照護）,五05-06,管理館M706景觀效益實驗室
+W101,3,3,姚威宏,工具機學程課程, Creative Thinking,通識人文藝術領域（創意思考）,三05-07,國秀樓502教室
+W102,3,3,姚威宏,工具機學程課程, Introduction to Industry 4.0,通識自然科學領域（工業4.0概論）,一05-07,國秀樓506教室
+W110,0,2,劉柏宏,明秀書院課程, Life and Learning in Academy（IV）,書院生活與學習（四）,一10-11,勤益學舍明秀講堂
+W111,0,2,劉淑爾,明秀書院課程, Life and Learning in Academy（IV）,書院生活與學習（四）,三10-11,勤益學舍明秀講堂
+W112,0,2,鄭明政,明秀書院課程, Life and Learning in Academy（II）,書院生活與學習（二）,二10-11,勤益學舍明秀講堂
+W113,0,2,施盈佑,明秀書院課程, Life and Learning in Academy（II）,書院生活與學習（二）,四10-11,勤益學舍明秀講堂
+W190,0,2,余詩芸,, English Remedial Class A,英檢輔導A,二05-06,工具機學院大樓一樓視訊會議室
+W191,0,2,余詩芸,, English Remedial Class A,英檢輔導A,二07-08,工具機學院大樓一樓視訊會議室
+W192,0,2,余詩芸,, English Remedial Class A,英檢輔導A,二10-11,國秀樓1F自學教室
+W193,0,2,楊琇茹,, English Remedial Class A,英檢輔導A,四05-06,工具機學院大樓一樓視訊會議室
+W194,0,2,楊琇茹,, English Remedial Class A,英檢輔導A,四07-08,工具機學院大樓一樓視訊會議室
+W195,0,2,楊琇茹,, English Remedial Class A,英檢輔導A,四10-11,國秀樓1F自學教室
+W201,0,2,黃俊傑,EA1, Physical Education （Ⅱ）,體育（二）,一01-02,運動場
+W202,0,2,蔡文宬,EA3, Physical Education （Ⅱ）,體育（二）,一01-02,韻律教室
+W203,0,2,張景星,EC2, Physical Education （Ⅱ）,體育（二）,一01-02,排球場
+W204,0,2,韋磊,EC3, Physical Education （Ⅱ）,體育（二）,一01-02,桌球教室
+W205,0,2,高文揚,EC6, Physical Education （Ⅱ）,體育（二）,一01-02,高爾夫球練習場
+W206,0,2,楊雅琪,ED3, Physical Education （Ⅱ）,體育（二）,一01-02,網球場
+W207,0,2,黃俊傑,EB1, Physical Education （Ⅱ）,體育（二）,一03-04,運動場
+W208,0,2,蔡文宬,EB3, Physical Education （Ⅱ）,體育（二）,一03-04,韻律教室
+W209,0,2,張景星,EB5, Physical Education （Ⅱ）,體育（二）,一03-04,排球場
+W210,0,2,韋磊,EC4, Physical Education （Ⅱ）,體育（二）,一03-04,桌球教室
+W211,0,2,高文揚,H1, Physical Education （Ⅱ）,體育（二）,一03-04,高爾夫球練習場
+W212,0,2,戴沁琳,H2, Physical Education （Ⅱ）,體育（二）,一03-04,籃球場
+W213,0,2,楊雅琪,H3, Physical Education （Ⅱ）,體育（二）,一03-04,網球場
+W214,0,2,洪彰鴻,EB2, Physical Education （Ⅱ）,體育（二）,四01-02,撞球
+W215,0,2,何添生,EA2, Physical Education （Ⅱ）,體育（二）,四01-02,羽球場
+W216,0,2,江欣惇,EB4, Physical Education （Ⅱ）,體育（二）,四01-02,排球場
+W217,0,2,梁隨燕,EC1, Physical Education （Ⅱ）,體育（二）,四01-02,桌球教室
+W218,0,2,高文揚,EC5, Physical Education （Ⅱ）,體育（二）,四01-02,高爾夫球練習場
+W219,0,2,江佳恩,ED1, Physical Education （Ⅱ）,體育（二）,四01-02,籃球場
+W220,0,2,蔡輝炯,MA1, Physical Education （Ⅱ）,體育（二）,四01-02,網球場
+W221,0,2,戴沁琳,ED2, Physical Education （Ⅱ）,體育（二）,四01-02,重量訓練室
+W222,0,2,韋磊,MA3, Physical Education （Ⅱ）,體育（二）,五01-02,桌球教室
+W223,0,2,林誯鎮,MC1, Physical Education （Ⅱ）,體育（二）,五01-02,網球場
+W224,0,2,江欣惇,MC2, Physical Education （Ⅱ）,體育（二）,五01-02,排球場
+W225,0,2,戴沁琳,MC3, Physical Education （Ⅱ）,體育（二）,五01-02,籃球場
+W226,0,2,陳小平,MD1, Physical Education （Ⅱ）,體育（二）,五01-02,韻律教室
+W227,0,2,陳培季,MD2, Physical Education （Ⅱ）,體育（二）,五01-02,運動場
+W228,0,2,何添生,MB2, Physical Education （Ⅱ）,體育（二）,五01-02,羽球場
+W229,0,2,陳小平,MB1, Physical Education （Ⅱ）,體育（二）,五03-04,韻律教室
+W230,0,2,伍木成,MB3, Physical Education （Ⅱ）,體育（二）,五03-04,撞球
+W231,0,2,韋磊,MD3, Physical Education （Ⅱ）,體育（二）,五03-04,桌球教室
+W232,0,2,林誯鎮,MA2, Physical Education （Ⅱ）,體育（二）,五03-04,網球場
+W233,0,2,朱臺麟,四英一甲, Physical Education （Ⅱ）,體育（二）,五05-06,高爾夫球練習場
+W234,0,2,戴沁琳,體育特殊班一, Physical Education （Ⅱ）,體育（二）,三08-09,重量訓練室
+W235,0,2,夏綠荷,四景二甲, PhysicalEducation（Ⅳ）,體育（四）,一05-06,韻律教室
+W236,0,2,高文揚,四文二甲, PhysicalEducation（Ⅳ）,體育（四）,一05-06,高爾夫球練習場
+W237,0,2,夏綠荷,四資二甲, PhysicalEducation（Ⅳ）,體育（四）,一07-08,韻律教室
+W238,0,2,高文揚,四機二乙, PhysicalEducation（Ⅳ）,體育（四）,一07-08,高爾夫球練習場
+W239,0,2,蔡輝炯,四化二乙, PhysicalEducation（Ⅳ）,體育（四）,一07-08,撞球
+W240,0,2,江欣惇,四電二丙, PhysicalEducation（Ⅳ）,體育（四）,五07-08,排球場
+W241,0,2,韋磊,四技流二乙, PhysicalEducation（Ⅳ）,體育（四）,二01-02,籃球場
+W242,0,2,韋磊,四技流二甲, PhysicalEducation（Ⅳ）,體育（四）,二03-04,桌球教室
+W243,0,2,劉英傑,四冷二乙, PhysicalEducation（Ⅳ）,體育（四）,二03-04,籃球場
+W244,0,2,夏綠荷,四冷二丙, PhysicalEducation（Ⅳ）,體育（四）,二03-04,韻律教室
+W245,0,2,蘇榮基,四工二甲, PhysicalEducation（Ⅳ）,體育（四）,二05-06,網球場
+W246,0,2,洪彰鴻,四工二乙, PhysicalEducation（Ⅳ）,體育（四）,二05-06,撞球
+W247,0,2,林誯鎮,四子二乙, PhysicalEducation（Ⅳ）,體育（四）,二05-06,羽球場
+W248,0,2,夏綠荷,四子二丙, PhysicalEducation（Ⅳ）,體育（四）,二05-06,韻律教室
+W249,0,2,蘇榮基,四工二丙, PhysicalEducation（Ⅳ）,體育（四）,二07-08,網球場
+W250,0,2,洪彰鴻,四工二丁, PhysicalEducation（Ⅳ）,體育（四）,二07-08,撞球
+W251,0,2,林誯鎮,四機二丙, PhysicalEducation（Ⅳ）,體育（四）,二07-08,羽球場
+W252,0,2,夏綠荷,四資二乙, PhysicalEducation（Ⅳ）,體育（四）,二07-08,韻律教室
+W253,0,2,陳小平,四企二甲, PhysicalEducation（Ⅳ）,體育（四）,三01-02,桌球教室
+W254,0,2,蘇榮基,四企二乙, PhysicalEducation（Ⅳ）,體育（四）,三01-02,網球場
+W255,0,2,伍木成,四英二甲, PhysicalEducation（Ⅳ）,體育（四）,三01-02,籃球場
+W256,0,2,楊國煌,四休閒二甲, PhysicalEducation（Ⅳ）,體育（四）,三01-02,羽球場
+W257,0,2,戴沁琳,四訊二甲, PhysicalEducation（Ⅳ）,體育（四）,三05-06,籃球場
+W258,0,2,夏綠荷,四訊二乙, PhysicalEducation（Ⅳ）,體育（四）,三05-06,韻律教室
+W259,0,2,陳培季,四訊二丙, PhysicalEducation（Ⅳ）,體育（四）,三05-06,運動場
+W260,0,2,陳小平,四子二甲, PhysicalEducation（Ⅳ）,體育（四）,三05-06,撞球
+W261,0,2,梁隨燕,體育特殊班-二, PhysicalEducation（Ⅳ）,體育（四）,三08-09,重量訓練室
+W262,0,2,施廷衛,四機二甲, PhysicalEducation（Ⅳ）,體育（四）,四07-08,運動場
+W263,0,2,蘇榮基,四機二丁, PhysicalEducation（Ⅳ）,體育（四）,四07-08,網球場
+W264,0,2,林誯鎮,四化二甲, PhysicalEducation（Ⅳ）,體育（四）,五05-06,網球場
+W265,0,2,洪彰鴻,四化二丙, PhysicalEducation（Ⅳ）,體育（四）,五05-06,桌球教室
+W266,0,2,陳小平,四電二甲, PhysicalEducation（Ⅳ）,體育（四）,五07-08,撞球
+W267,0,2,朱臺麟,四電二乙, PhysicalEducation（Ⅳ）,體育（四）,五07-08,高爾夫球練習場
+W268,0,2,洪彰鴻,四冷二甲, PhysicalEducation（Ⅳ）,體育（四）,五07-08,桌球教室
+W270,1,2,陳健隆,體育大三四選, Billiard Ⅱ,撞球二,二01-02,撞球
+W271,1,2,溫麗香,體育大三四選, PilatesⅡ,皮拉提斯二,二01-02,韻律教室
+W272,1,2,江佳恩,體育大三四選, Basketball Ⅱ,籃球二,二03-04,籃球場
+W274,1,2,溫麗香,體育大三四選, PilatesⅡ,皮拉提斯二,二03-04,青永館6F靜軒
+W276,1,2,劉嘉豪,體育大三四選, Billiard Ⅱ,撞球二,三01-02,撞球
+W277,1,2,徐國陽,體育大三四選, Somatic fitnessⅡ,身心瑜珈二,三01-02,韻律教室
+W278,1,2,紀璟琳,體育大三四選, Volleyball Ⅱ,排球二,三01-02,排球場
+W279,1,2,伍木成,體育大三四選, Table Tennis Ⅱ,桌球二,三03-04,桌球教室
+W280,1,2,蔡輝炯,體育大三四選, Billiard Ⅱ,撞球二,三03-04,撞球
+W281,1,2,劉嘉豪,體育大三四選, SwimmingⅡ,游泳二,三03-04,游泳池
+W283,1,2,徐國陽,體育大三四選, Somatic fitnessⅡ,身心瑜珈二,三03-04,韻律教室
+W284,1,2,楊士欣,體育大三四選, Volleyball Ⅱ,排球二,三03-04,排球場
+W285,1,2,蘇榮基,體育大三四選, Badminton Ⅱ,羽球二,三03-04,羽球場
+W286,1,2,黃俊傑,體育大三四選, Frisbee Ⅱ,飛盤二,三03-04,運動場
+W287,1,2,宋孟遠,體育大三四選, Badminton Ⅱ,羽球二,三05-06,羽球場
+W288,1,2,梁隨燕,體育大三四選, Table Tennis Ⅱ,桌球二,三05-06,桌球教室
+W289,1,2,鄭清榮,體育大三四選, Health and Body Sculpting Ⅱ,健康與塑身二,四05-06,重量訓練室
+W290,1,2,施廷衛,體育大三四選, Table Tennis Ⅱ,桌球二,四05-06,桌球教室
+W291,1,2,沈輝雄,體育大三四選, Badminton Ⅱ,羽球二,四05-06,羽球場
+W292,1,2,步國財,體育大三四選, Basketball Ⅱ,籃球二,四05-06,籃球場
+W293,1,2,鄭清榮,體育大三四選, Health and Body Sculpting Ⅱ,健康與塑身二,四07-08,重量訓練室
+W294,1,2,沈輝雄,體育大三四選, Badminton Ⅱ,羽球二,四07-08,羽球場
+W295,1,2,步國財,體育大三四選, Basketball Ⅱ,籃球二,四07-08,籃球場
+W296,1,2,楊士欣,體育大三四選, Table Tennis Ⅱ,桌球二,四07-08,桌球教室
+W297,1,2,宋孟遠,體育大三四選, Adapt SportsⅡ,適應體育二,三08-09,體適能教室
+W300,1,2,林志洪,, All-Out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,三01-02,國秀樓103教室
+W301,1,2,薛仰禮,, All-Out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,三03-04,國秀樓012教室
+W302,1,2,黃書祥,, All-Out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,三05-06,國秀樓507教室
+W310,3,3,江亞玉,四機一甲, Chinese（Ⅱ）,國文（二）,二07-08,"國秀樓302教室), 四05-0"
+W311,2,2,田金昌,四機一甲, History and Culture（Ⅱ）,歷史與文化（二）,五03-04,國秀樓302教室
+W312,1,1,李俐潔,四機一甲, Art Appreciation,藝術鑑賞,三02-02,國秀樓B2美術教室
+W313,0,2,朱瓊濤,四機一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二03-04,國秀樓103教室
+W314,3,3,林添榮,四機一甲, Calculus（Ⅱ）,微積分（二）,五05-07,國秀樓302教室
+W315,3,3,施盈佑,四機一乙, Chinese（Ⅱ）,國文（二）,二02-02,"國秀樓301教室), 三05-0"
+W316,2,2,李昱東,四機一乙, History and Culture（Ⅱ）,歷史與文化（二）,三01-02,國秀樓301教室
+W317,1,1,謝攸青,四機一乙, Art Appreciation,藝術鑑賞,二07-07,國秀樓4F美術鑑賞教室
+W318,0,2,黃書祥,四機一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二03-04,國秀樓507教室
+W319,3,3,張博盛,四機一乙, Calculus（Ⅱ）,微積分（二）,五02-04,國秀樓306教室
+W320,3,3,洪宏銘,四機一丙, Chinese（Ⅱ）,國文（二）,三02-02,"國秀樓303教室), 五03-0"
+W321,2,2,沈新民,四機一丙, History and Culture（Ⅱ）,歷史與文化（二）,二07-08,國秀樓303教室
+W322,1,1,倪朝龍,四機一丙, Art Appreciation,藝術鑑賞,一07-07,國秀樓B2美術教室
+W323,0,2,吳慧雯,四機一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二03-04,國秀樓310教室
+W324,3,3,張水清,四機一丙, Calculus（Ⅱ）,微積分（二）,二06-06,"國秀樓303教室), 五01-0"
+W325,3,3,徐華中,四機一丁, Chinese（Ⅱ）,國文（二）,三01-02,"國秀樓305教室), 四05-0"
+W326,2,2,蘇啟昌,四機一丁, History and Culture（Ⅱ）,歷史與文化（二）,一07-08,國秀樓312教室
+W327,1,1,倪朝龍,四機一丁, Art Appreciation,藝術鑑賞,一06-06,國秀樓B2美術教室
+W328,0,2,黃書祥,四機一丁, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三03-04,國秀樓011教室
+W329,3,3,張博盛,四機一丁, Calculus（Ⅱ）,微積分（二）,四06-08,國秀樓305教室
+W330,2,2,鄭明政,四機三甲, Constitution and Democracy,憲法與民主,一07-08,國秀樓301教室
+W331,2,2,謝炯庠,四機三乙, Constitution and Democracy,憲法與民主,一07-08,國秀樓302教室
+W332,2,2,周宗憲,四機三丙, Constitution and Democracy,憲法與民主,四07-08,國秀樓303教室
+W333,2,2,周宗憲,四機三丁, Constitution and Democracy,憲法與民主,三05-06,國秀樓302教室
+W350,3,3,郭仁泰,四電一甲, Calculus（Ⅱ）,微積分（二）,三02-04,國秀樓408教室
+W351,3,3,施盈佑,四電一甲, Chinese（Ⅱ）,國文（二）,一07-08,"國秀樓408教室), 二01-0"
+W352,0,2,朱瓊濤,四電一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一05-06,國秀樓310教室
+W353,1,1,蔡明慧,四電一甲, Music Appreciation,音樂鑑賞,三01-01,國秀樓412教室
+W355,3,3,林碧川,四電一乙, Calculus（Ⅱ）,微積分（二）,二08-08,"國秀樓301教室), 一07-0"
+W356,3,3,童宏民,四電一乙, Chinese（Ⅱ）,國文（二）,三06-07,"國秀樓403教室), 二01-0"
+W357,0,2,黃凌瑤,四電一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一05-06,國秀樓407教室
+W358,1,1,鄭志敏,四電一乙, Music Appreciation,音樂鑑賞,五04-04,國秀樓3F音樂欣賞教室
+W360,3,3,張水清,四電一丙, Calculus（Ⅱ）,微積分（二）,二08-08,"國秀樓406教室), 五03-0"
+W361,3,3,洪宏銘,四電一丙, Chinese（Ⅱ）,國文（二）,三01-01,"國秀樓408教室), 五01-0"
+W362,0,2,朱瓊濤,四電一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一07-08,國秀樓310教室
+W363,1,1,劉淑如,四電一丙, Music Appreciation,音樂鑑賞,二01-01,國秀樓3F音樂欣賞教室
+W365,2,2,蘇啟昌,四電三甲, History and Culture（Ⅱ）,歷史與文化（二）,一05-06,國秀樓408教室
+W366,2,2,沈新民,四電三乙, History and Culture（Ⅱ）,歷史與文化（二）,三05-06,國秀樓408教室
+W367,2,2,呂小燕,四電三丙, History and Culture（Ⅱ）,歷史與文化（二）,三06-07,國秀樓005教室
+W380,3,3,林碧川,四子一甲, Calculus（Ⅱ）,微積分（二）,一05-05,"國秀樓313教室), 三05-0"
+W381,3,3,周翊雯,四子一甲, Chinese（Ⅱ）,國文（二）,五02-04,國秀樓313教室
+W382,2,2,蘇啟昌,四子一甲, History and Culture（Ⅱ）,歷史與文化（二）,二03-04,國秀樓313教室
+W383,1,1,楊喻涵,四子一甲, Music Appreciation,音樂鑑賞,二08-08,國秀樓3F音樂欣賞教室
+W384,0,2,黃凌瑤,四子一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三03-04,國秀樓310教室
+W386,3,3,廖秋雄,四子一乙, Calculus（Ⅱ）,微積分（二）,一05-07,國秀樓401教室
+W387,3,3,徐華中,四子一乙, Chinese（Ⅱ）,國文（二）,二04-04,"國秀樓401教室), 三03-0"
+W388,2,2,沈新民,四子一乙, History and Culture（Ⅱ）,歷史與文化（二）,三01-02,國秀樓401教室
+W389,1,1,劉淑如,四子一乙, Music Appreciation,音樂鑑賞,一08-08,國秀樓3F音樂欣賞教室
+W390,0,2,吳慧雯,四子一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二05-06,國秀樓103教室
+W392,3,3,李念晨,四子一丙, Calculus（Ⅱ）,微積分（二）,二08-08,"國秀樓313教室), 二03-0"
+W393,3,3,廖育菁,四子一丙, Chinese（Ⅱ）,國文（二）,三05-06,"國秀樓402教室), 四07-0"
+W394,2,2,周曉楓,四子一丙, History and Culture（Ⅱ）,歷史與文化（二）,五03-04,國秀樓402教室
+W395,1,1,劉淑如,四子一丙, Music Appreciation,音樂鑑賞,二02-02,國秀樓3F音樂欣賞教室
+W396,0,2,陳建文,四子一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四05-06,國秀樓403教室
+W410,3,3,江亞玉,四化一甲, Chinese（Ⅱ）,國文（二）,三05-06,"國秀樓307教室), 四06-0"
+W411,2,2,周曉楓,四化一甲, History and Culture（Ⅱ）,歷史與文化（二）,五05-06,國秀樓307教室
+W412,1,1,楊喻涵,四化一甲, Music Appreciation,音樂鑑賞,二05-05,國秀樓3F音樂欣賞教室
+W413,0,2,黃凌瑤,四化一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四07-08,國秀樓310教室
+W415,3,3,張智立,四化一甲, Calculus（Ⅱ）,微積分（二）,五02-04,國秀樓307教室
+W416,3,3,李本燿,四化一乙, Chinese（Ⅱ）,國文（二）,五02-04,國秀樓407教室
+W417,2,2,沈新民,四化一乙, History and Culture（Ⅱ）,歷史與文化（二）,四05-06,國秀樓407教室
+W418,1,1,蔡明慧,四化一乙, Music Appreciation,音樂鑑賞,三02-02,國秀樓412教室
+W419,0,2,薛仰禮,四化一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四07-08,國秀樓508教室
+W421,3,3,賴馨華,四化一乙, Calculus（Ⅱ）,微積分（二）,三01-01,"國秀樓407教室), 五05-0"
+W422,3,3,林錦婷,四化一丙, Chinese（Ⅱ）,國文（二）,三06-07,"國秀樓012教室), 四05-0"
+W423,2,2,張天任,四化一丙, History and Culture（Ⅱ）,歷史與文化（二）,五03-04,國秀樓508教室
+W424,1,1,劉淑如,四化一丙, Music Appreciation,音樂鑑賞,一07-07,國秀樓3F音樂欣賞教室
+W425,0,2,陳建文,四化一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四07-08,國秀樓403教室
+W427,3,3,張智立,四化一丙, Calculus（Ⅱ）,微積分（二）,五05-07,國秀樓508教室
+W440,2,2,賴信真,四工一甲, History and Culture（Ⅱ）,歷史與文化（二）,一07-08,國秀樓406教室
+W441,1,1,倪玉珊,四工一甲, Art Appreciation,藝術鑑賞,三05-05,國秀樓4F美術鑑賞教室
+W442,3,3,賴馨華,四工一甲, Calculus（Ⅱ）,微積分（二）,三03-04,"國秀樓410教室), 四07-0"
+W443,0,2,陳建文,四工一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二05-06,工具機學院大樓四樓多功能教室
+W444,3,3,賴欣陽,四工一甲, Chinese（Ⅱ）,國文（二）,二04-04,"國秀樓312教室), 四05-0"
+W445,2,2,馬以謹,四工一乙, History and Culture（Ⅱ）,歷史與文化（二）,一07-08,國秀樓411教室
+W446,1,1,倪朝龍,四工一乙, Art Appreciation,藝術鑑賞,一05-05,國秀樓B2美術教室
+W447,3,3,賴馨華,四工一乙, Calculus（Ⅱ）,微積分（二）,四05-06,"國秀樓411教室), 三07-0"
+W448,0,2,吳慧雯,四工一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三03-04,國秀樓103教室
+W449,3,3,江亞玉,四工一乙, Chinese（Ⅱ）,國文（二）,三01-02,"國秀樓410教室), 四08-0"
+W450,2,2,沈新民,四工一丙, History and Culture（Ⅱ）,歷史與文化（二）,二05-06,國秀樓411教室
+W451,1,1,洪灜倫,四工一丙, Art Appreciation,藝術鑑賞,四05-05,國秀樓4F美術鑑賞教室
+W452,3,3,洪國智,四工一丙, Calculus（Ⅱ）,微積分（二）,二04-04,"國秀樓411教室), 三03-0"
+W453,0,2,薛仰禮,四工一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三05-06,國秀樓412教室
+W454,3,3,林錦婷,四工一丙, Chinese（Ⅱ）,國文（二）,四06-08,國秀樓412教室
+W455,2,2,賴郁君,四工一丁, History and Culture（Ⅱ）,歷史與文化（二）,二05-06,國秀樓412教室
+W456,1,1,倪玉珊,四工一丁, Art Appreciation,藝術鑑賞,三06-06,國秀樓4F美術鑑賞教室
+W457,3,3,劉柏宏,四工一丁, Calculus（Ⅱ）,微積分（二）,一07-07,"國秀樓412教室), 三03-0"
+W458,0,2,黃書祥,四工一丁, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四07-08,國秀樓103教室
+W459,3,3,施盈佑,四工一丁, Chinese（Ⅱ）,國文（二）,三07-07,"國秀樓408教室), 二03-0"
+W460,2,2,周宗憲,四工二甲, Constitution and Democracy,憲法與民主,二07-08,國秀樓410教室
+W461,2,2,況正吉,四工二乙, Constitution and Democracy,憲法與民主,一05-06,國秀樓412教室
+W462,2,2,周宗憲,四工二丙, Constitution and Democracy,憲法與民主,二05-06,國秀樓410教室
+W463,2,2,鄭明政,四工二丁, Constitution and Democracy,憲法與民主,三02-03,國秀樓506教室
+W470,3,3,廖育菁,四冷一甲, Chinese（Ⅱ）,國文（二）,三04-04,"國秀樓311教室), 五03-0"
+W471,2,2,李昱東,四冷一甲, History and Culture（Ⅱ）,歷史與文化（二）,二01-02,國秀樓311教室
+W472,0,2,黃書祥,四冷一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二05-06,國秀樓506教室
+W473,3,3,李念晨,四冷一甲, Calculus（Ⅱ）,微積分（二）,三02-03,"國秀樓311教室), 二07-0"
+W474,3,3,徐華中,四冷一乙, Chinese（Ⅱ）,國文（二）,二02-03,"國秀樓312教室), 二05-0"
+W475,2,2,呂小燕,四冷一乙, History and Culture（Ⅱ）,歷史與文化（二）,三03-04,國秀樓005教室
+W476,0,2,陳建文,四冷一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二07-08,國秀樓103教室
+W477,3,3,林碧川,四冷一乙, Calculus（Ⅱ）,微積分（二）,二06-06,"國秀樓312教室), 四07-0"
+W478,3,3,童宏民,四冷一丙, Chinese（Ⅱ）,國文（二）,四05-06,"國秀樓312教室), 二02-0"
+W479,2,2,蘇啟昌,四冷一丙, History and Culture（Ⅱ）,歷史與文化（二）,二07-08,國秀樓506教室
+W480,0,2,吳慧雯,四冷一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三05-06,國秀樓103教室
+W481,3,3,劉柏宏,四冷一丙, Calculus（Ⅱ）,微積分（二）,三01-01,"國秀樓311教室), 二03-0"
+W482,1,1,蔡明慧,四冷三甲, Music Appreciation,音樂鑑賞,三03-03,國秀樓413教室
+W483,1,1,劉淑如,四冷三乙, Music Appreciation,音樂鑑賞,二04-04,國秀樓3F音樂欣賞教室
+W484,1,1,劉淑如,四冷三丙, Music Appreciation,音樂鑑賞,二03-03,國秀樓3F音樂欣賞教室
+W510,3,3,徐華中,四企一甲, Chinese（Ⅱ）,國文（二）,四06-06,"國秀樓303教室), 二07-0"
+W511,2,2,洪國智,四企一甲, Calculus（Ⅱ）,微積分（二）,二02-03,國秀樓411教室
+W512,2,2,沈新民,四企一甲, History and Culture（Ⅱ）,歷史與文化（二）,一07-08,國秀樓507教室
+W513,1,1,倪玉珊,四企一甲, Art Appreciation,藝術鑑賞,三04-04,國秀樓4F美術鑑賞教室
+W514,0,2,陳建文,四企一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三05-06,國秀樓511教室
+W515,3,3,廖育菁,四企一乙, Chinese（Ⅱ）,國文（二）,三07-07,"國秀樓507教室), 四05-0"
+W516,2,2,李念晨,四企一乙, Calculus（Ⅱ）,微積分（二）,四07-08,國秀樓507教室
+W517,2,2,馬以謹,四企一乙, History and Culture（Ⅱ）,歷史與文化（二）,一03-04,國秀樓506教室
+W518,1,1,倪玉珊,四企一乙, Art Appreciation,藝術鑑賞,二04-04,國秀樓4F美術鑑賞教室
+W519,0,2,黃凌瑤,四企一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三05-06,國秀樓310教室
+W520,2,2,邱麗珍,四企二甲, Constitution and Democracy,憲法與民主,五05-06,國秀樓411教室
+W521,2,2,辛年豐,四企二乙, Constitution and Democracy,憲法與民主,三03-04,國秀樓507教室
+W540,2,2,周秀櫻,四資一甲, Calculus（Ⅱ）,微積分（二）,三05-06,國秀樓509教室
+W541,3,3,黎滔泉,四資一甲, Chinese（Ⅱ）,國文（二）,四05-07,國秀樓509教室
+W542,2,2,李昱東,四資一甲, History and Culture（Ⅱ）,歷史與文化（二）,二05-06,國秀樓307教室
+W543,0,2,林志洪,四資一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一05-06,國秀樓509教室
+W544,1,1,倪玉珊,四資一甲, Art Appreciation,藝術鑑賞,二02-02,國秀樓4F美術鑑賞教室
+W546,2,2,王清德,四資一乙, Calculus（Ⅱ）,微積分（二）,二03-04,國秀樓301教室
+W547,3,3,劉淑爾,四資一乙, Chinese（Ⅱ）,國文（二）,三05-05,"國秀樓311教室), 五05-0"
+W548,2,2,鄭建生,四資一乙, History and Culture（Ⅱ）,歷史與文化（二）,二05-06,國秀樓011教室
+W549,0,2,吳慧雯,四資一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一05-06,國秀樓103教室
+W550,1,1,倪玉珊,四資一乙, Art Appreciation,藝術鑑賞,二01-01,國秀樓4F美術鑑賞教室
+W552,2,2,周宗憲,四資二甲, Constitution and Democracy,憲法與民主,四05-06,國秀樓511教室
+W553,2,2,鄭明政,四資二乙, Constitution and Democracy,憲法與民主,三05-06,國秀樓410教室
+W554,2,2,陳永銓,外國四資一甲, Introduction of Scientific Development,科技發展概論,二02-03,國秀樓010教室
+W555,2,2,劉柏宏,外國四資一甲, Calculus（Ⅱ）,微積分（二）,二07-08,國秀樓306教室
+W556,1,2,蔡輝炯,外國四資一甲, Physical Education （Ⅱ）,體育（二）,三01-02,高爾夫球練習場
+W570,3,3,黎滔泉,四技流一甲, Chinese（Ⅱ）,國文（二）,二05-07,國秀樓413教室
+W571,2,2,沈新民,四技流一甲, History and Culture（Ⅱ）,歷史與文化（二）,四07-08,國秀樓413教室
+W572,1,1,倪玉珊,四技流一甲, Art Appreciation,藝術鑑賞,三02-02,國秀樓4F美術鑑賞教室
+W573,0,2,吳慧雯,四技流一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一03-04,國秀樓310教室
+W574,2,2,周秀櫻,四技流一甲, Calculus（Ⅱ）,微積分（二）,四05-06,國秀樓413教室
+W576,3,3,洪英雪,四技流一乙, Chinese（Ⅱ）,國文（二）,二05-07,國秀樓503教室
+W577,2,2,朱倩如,四技流一乙, History and Culture（Ⅱ）,歷史與文化（二）,四05-06,國秀樓503教室
+W578,1,1,謝攸青,四技流一乙, Art Appreciation,藝術鑑賞,二08-08,國秀樓4F美術鑑賞教室
+W579,0,2,黃凌瑤,四技流一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一03-04,國秀樓103教室
+W580,2,2,周秀櫻,四技流一乙, Calculus（Ⅱ）,微積分（二）,四07-08,國秀樓503教室
+W582,2,2,李文堂,四技流二甲, Constitution and Democracy,憲法與民主,五05-06,國秀樓413教室
+W583,2,2,況正吉,四技流二乙, Constitution and Democracy,憲法與民主,四05-06,國秀樓005教室
+W600,3,3,高旖璐,四景一甲, Chinese（Ⅱ）,國文（二）,一02-04,國秀樓507教室
+W601,2,2,賴信真,四景一甲, History and Culture（Ⅱ）,歷史與文化（二）,一05-06,國秀樓507教室
+W603,1,1,李俐潔,四景一甲, Art Appreciation,藝術鑑賞,三01-01,國秀樓B2美術教室
+W604,0,2,薛仰禮,四景一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四05-06,國秀樓508教室
+W615,3,3,李瑩瑜,四休閒一甲, Chinese（Ⅱ）,國文（二）,五05-07,國秀樓306教室
+W616,2,2,馬以謹,四休閒一甲, History and Culture（Ⅱ）,歷史與文化（二）,一01-02,國秀樓306教室
+W617,2,2,謝坤昌,四休閒一甲, Calculus（Ⅱ）,微積分（二）,二01-02,國秀樓306教室
+W618,0,2,陳建文,四休閒一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,三03-04,國秀樓511教室
+W620,2,2,蔣淑芬,四休閒二甲, Constitution and Democracy,憲法與民主,五01-02,國秀樓302教室
+W635,3,3,童宏民,四英一甲, Chinese（Ⅱ）,國文（二）,三02-02,"國秀樓413教室), 四01-0"
+W636,2,2,朱倩如,四英一甲, History and Culture（Ⅱ）,歷史與文化（二）,四07-08,國秀樓307教室
+W637,1,1,洪灜倫,四英一甲, Art Appreciation,藝術鑑賞,四06-06,國秀樓4F美術鑑賞教室
+W638,0,2,薛仰禮,四英一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二07-08,國秀樓310教室
+W640,2,2,邱麗珍,四英二甲, Constitution and Democracy,憲法與民主,五07-08,國秀樓413教室
+W650,3,3,李長生,四訊一甲, Chinese（Ⅱ）,國文（二）,五03-05,國秀樓405教室
+W651,2,2,田金昌,四訊一甲, History and Culture（Ⅱ）,歷史與文化（二）,五01-02,國秀樓405教室
+W652,1,1,楊喻涵,四訊一甲, Music Appreciation,音樂鑑賞,二07-07,國秀樓3F音樂欣賞教室
+W653,0,2,薛仰禮,四訊一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,二05-06,國秀樓310教室
+W654,3,3,張麗芬,四訊一甲, Calculus（Ⅱ）,微積分（二）,五06-08,國秀樓405教室
+W655,3,3,賴欣陽,四訊一乙, Chinese（Ⅱ）,國文（二）,二01-02,"國秀樓005教室), 四08-0"
+W656,2,2,呂小燕,四訊一乙, History and Culture（Ⅱ）,歷史與文化（二）,二03-04,國秀樓005教室
+W657,1,1,劉俊頤,四訊一乙, Music Appreciation,音樂鑑賞,四07-07,國秀樓3F音樂欣賞教室
+W658,0,2,黃書祥,四訊一乙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四05-06,國秀樓103教室
+W659,3,3,林晢皓,四訊一乙, Calculus（Ⅱ）,微積分（二）,五02-04,國秀樓406教室
+W660,3,3,李瑩瑜,四訊一丙, Chinese（Ⅱ）,國文（二）,五02-04,國秀樓413教室
+W661,2,2,蘇啟昌,四訊一丙, History and Culture（Ⅱ）,歷史與文化（二）,三03-04,國秀樓406教室
+W662,1,1,劉俊頤,四訊一丙, Music Appreciation,音樂鑑賞,四08-08,國秀樓3F音樂欣賞教室
+W663,0,2,黃凌瑤,四訊一丙, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,四05-06,國秀樓310教室
+W664,3,3,陳東賢,四訊一丙, Calculus（Ⅱ）,微積分（二）,三01-02,"國秀樓406教室), 五01-0"
+W690,3,3,童宏民,四文一甲, Chinese（Ⅱ）,國文（二）,四07-07,"國秀樓411教室), 三03-0"
+W691,2,2,鄭建生,四文一甲, History and Culture（Ⅱ）,歷史與文化（二）,二07-08,國秀樓411教室
+W692,1,1,鄭志敏,四文一甲, Music Appreciation,音樂鑑賞,五07-07,國秀樓3F音樂欣賞教室
+W693,0,2,林志洪,四文一甲, All-Out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一07-08,國秀樓103教室
+W700,3,3,林家民,技優專班, Calculus（Ⅱ）,微積分（二）,三10-12,國秀樓413教室
+W760,3,3,楊淑瓊,職四訊一甲, Chinese（Ⅱ）,國文（二）,三10-12,國秀樓305教室
+W761,2,2,廖姿斐,職四訊一甲, Freshman English（Ⅱ）,大一英文（二）,三13-14,國秀樓310教室
+W762,1,1,廖姿斐,職四訊一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,,雙週開課)一10-1
+W763,3,3,王仁聖,職四訊一甲, Calculus（Ⅱ）,微積分（二）,,單週開課)一10-1
+W764,0,2,何天民,職四訊一甲, PhysicalEducation（Ⅱ）,體育（二）,四13-14,羽球場
+W765,2,2,陳志昌,職四訊二甲, History and Culture（Ⅱ）,歷史與文化（二）,三13-14,國秀樓311教室
+W766,0,2,楊璁人,職四訊二甲, PhysicalEducation（Ⅳ）,體育（四）,五13-14,籃球場
+W767,2,2,李文堂,職四訊三甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,三13-14,國秀樓313教室
+W768,1,1,詹晴如,職四訊三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,二14-14,國秀樓4F美術鑑賞教室
+W769,1,1,呂威儀,職四訊三甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,雙週開課)五13-1
+W776,3,3,陳昌遠,職四機一甲, Chinese（Ⅱ）,國文（二）,,單週開課)一10-1
+W777,2,2,張端容,職四機一甲, Freshman English（Ⅱ）,大一英文（二）,五10-11,國秀樓1F語言教室A
+W778,1,1,張端容,職四機一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,五12-12,國秀樓1F語言教室A
+W779,3,3,陳瑞卿,職四機一甲, Calculus（Ⅱ）,微積分（二）,,雙週開課)三13-1
+W780,0,2,陳小平,職四機一甲, PhysicalEducation（Ⅱ）,體育（二）,二13-14,桌球教室
+W781,2,2,李文堂,職四機二甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,四13-14,國秀樓402教室
+W782,1,1,呂威儀,職四機二甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,二13-13,國秀樓3F音樂欣賞教室
+W783,1,1,李俐潔,職四機二甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,雙週開課)五13-1
+W784,0,2,洪彰鴻,職四機二甲, PhysicalEducation（Ⅳ）,體育（四）,三13-14,撞球
+W785,2,2,陳亮州,職四機三甲, History and Culture（Ⅱ）,歷史與文化（二）,三13-14,國秀樓403教室
+W796,3,3,譚立忠,職四電一甲, Chinese（Ⅱ）,國文（二）,四12-14,國秀樓305教室
+W797,2,2,郭豊莉,職四電一甲, Freshman English（Ⅱ）,大一英文（二）,五13-14,國秀樓305教室
+W798,1,1,郭豊莉,職四電一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,,雙週開課)三13-1
+W799,3,3,陳瑞卿,職四電一甲, Calculus（Ⅱ）,微積分（二）,二13-14,"國秀樓305教室),"
+W800,0,2,羅龍飛,職四電一甲, PhysicalEducation（Ⅱ）,體育（二）,四10-11,網球場
+W801,1,1,呂威儀,職四電二甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,二14-14,國秀樓3F音樂欣賞教室
+W802,0,2,羅龍飛,職四電二甲, PhysicalEducation（Ⅳ）,體育（四）,四13-14,排球場
+W803,1,1,詹晴如,職四電二甲, Art Appreciation（Ⅰ）,藝術鑑賞（一）,二13-13,國秀樓4F美術鑑賞教室
+W804,2,2,翁俊桔,職四電三甲, Constitution and Democracy﹙Ⅰ﹚,憲法與民主（一）,二13-14,國秀樓310教室
+W805,2,2,蘇啟昌,職四電四甲, History and Culture（Ⅱ）,歷史與文化（二）,二13-14,國秀樓306教室
+W811,3,3,謝肇禎,職四子一甲, Chinese（Ⅱ）,國文（二）,一10-11,"國秀樓406教室),"
+W812,3,3,蕭家孟,職四子一甲, Calculus（Ⅱ）,微積分（二）,五12-14,國秀樓406教室
+W813,2,2,張惠環,職四子一甲, Freshman English（Ⅱ）,大一英文（二）,二10-11,國秀樓406教室
+W814,1,1,張惠環,職四子一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,二12-12,國秀樓406教室
+W815,2,2,蔡朝枝,職四子一甲, History and Culture（Ⅱ）,歷史與文化（二）,五10-11,國秀樓406教室
+W816,0,2,謝武進,職四子一甲, PhysicalEducation（Ⅱ）,體育（二）,二13-14,撞球
+W817,2,2,嚴勝曦,職四子二甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,二13-14,國秀樓402教室
+W818,0,2,林誯鎮,職四子二甲, PhysicalEducation（Ⅳ）,體育（四）,五10-11,羽球場
+W819,1,1,蘇智偉,職四子三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,四14-14,國秀樓4F美術鑑賞教室
+W820,1,1,朱君苑,職四子三甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,四13-13,國秀樓3F音樂欣賞教室
+W826,3,3,楊淑瓊,職四化一甲, Chinese（Ⅱ）,國文（二）,三13-14,"國秀樓406教室),"
+W827,3,3,林金典,職四化一甲, Calculus（Ⅱ）,微積分（二）,三10-12,國秀樓405教室
+W828,2,2,游東道,職四化一甲, Freshman English（Ⅱ）,大一英文（二）,五10-11,國秀樓2F語言教室C
+W829,1,1,游東道,職四化一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,五12-12,國秀樓2F語言教室C
+W830,2,2,嚴勝曦,職四化一甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,五13-14,國秀樓409教室
+W831,0,2,梁隨燕,職四化一甲, PhysicalEducation（Ⅱ）,體育（二）,一10-11,桌球教室
+W832,1,1,李俐潔,職四化二甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,單週開課)五13-1
+W833,0,2,高文揚,職四化二甲, PhysicalEducation（Ⅳ）,體育（四）,一10-11,高爾夫球練習場
+W834,2,2,李靜兒,職四化三甲, History and Culture（Ⅱ）,歷史與文化（二）,四13-14,國秀樓411教室
+W835,1,1,呂威儀,職四化三甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,雙週開課)二10-1
+W839,3,3,王正良,職四工一甲, Chinese（Ⅱ）,國文（二）,三13-14,"國秀樓307教室),"
+W840,2,2,廖姿斐,職四工一甲, Freshman English（Ⅱ）,大一英文（二）,三10-11,國秀樓311教室
+W841,1,1,廖姿斐,職四工一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,三12-12,國秀樓311教室
+W842,3,3,劉哲明,職四工一甲, Calculus（Ⅱ）,微積分（二）,,單週開課)四13-1
+W843,0,2,宋孟遠,職四工一甲, PhysicalEducation（Ⅱ）,體育（二）,二10-11,高爾夫球練習場
+W844,3,3,陳昌遠,職四工一乙, Chinese（Ⅱ）,國文（二）,,雙週開課)一10-1
+W845,2,2,陳柏助,職四工一乙, Freshman English（Ⅱ）,大一英文（二）,三13-14,國秀樓312教室
+W846,1,1,陳柏助,職四工一乙, Listening and Speaking（Ⅱ）,英文聽講（二）,,雙週開課)四13-1
+W847,3,3,陳焜燦,職四工一乙, Calculus（Ⅱ）,微積分（二）,五12-14,國秀樓312教室
+W848,0,2,許志祥,職四工一乙, PhysicalEducation（Ⅱ）,體育（二）,二13-14,網球場
+W849,2,2,陳亮州,職四工二甲, History and Culture（Ⅱ）,歷史與文化（二）,五13-14,國秀樓306教室
+W850,0,2,蘇榮基,職四工二甲, PhysicalEducation（Ⅳ）,體育（四）,四10-11,桌球教室
+W851,2,2,蔡朝枝,職四工二乙, History and Culture（Ⅱ）,歷史與文化（二）,五13-14,國秀樓313教室
+W852,0,2,洪彰鴻,職四工二乙, PhysicalEducation（Ⅳ）,體育（四）,三10-11,撞球
+W853,1,1,倪玉珊,職四工三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,單週開課)一10-1
+W854,1,1,李俐潔,職四工三乙, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,雙週開課)五10-1
+W855,2,2,嚴勝曦,職四工四甲, Constitution and National Development﹙Ⅱ﹚,憲法與國家發展（二）,二10-11,國秀樓309教室
+W856,1,1,劉淑如,職四工四甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,雙週開課)三10-1
+W857,2,2,邱麗珍,職四工四乙, Constitution and National Development﹙Ⅱ﹚,憲法與國家發展（二）,五10-11,國秀樓308教室
+W858,1,1,朱君苑,職四工四乙, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,雙週開課)四10-1
+W859,3,3,王正良,職四休閒一甲, Chinese（Ⅱ）,國文（二）,三10-12,國秀樓408教室
+W860,2,2,楊策仲,職四休閒一甲, Calculus（Ⅱ）,微積分（二）,四13-14,國秀樓408教室
+W861,2,2,張惠環,職四休閒一甲, Freshman English（Ⅱ）,大一英文（二）,五12-13,國秀樓408教室
+W862,1,1,張惠環,職四休閒一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,二13-13,國秀樓408教室
+W863,0,2,韋磊,職四休閒一甲, PhysicalEducation（Ⅱ）,體育（二）,三13-14,桌球教室
+W864,0,2,江欣惇,職四休閒二甲, PhysicalEducation（Ⅳ）,體育（四）,三13-14,排球場
+W865,2,2,賴信真,職四休閒二甲, History and Culture（Ⅱ）,歷史與文化（二）,一10-11,國秀樓402教室
+W866,1,1,莊秉育,職四休閒四甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,雙週開課)一10-1
+W867,1,1,蘇智偉,職四休閒四甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,四13-13,國秀樓4F美術鑑賞教室
+W868,2,2,廖慧儒,職四休閒四甲, Constitution and National Development﹙Ⅱ﹚,憲法與國家發展（二）,五13-14,國秀樓403教室
+W871,2,2,林晏宇,職四資一甲, Freshman English（Ⅱ）,大一英文（二）,四10-11,國秀樓1F語言教室A
+W872,1,1,林晏宇,職四資一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,四12-12,國秀樓1F語言教室A
+W873,2,2,王清德,職四資一甲, Calculus（Ⅱ）,微積分（二）,二10-11,國秀樓306教室
+W874,0,2,韋磊,職四資一甲, PhysicalEducation（Ⅱ）,體育（二）,三10-11,桌球教室
+W875,3,3,譚立忠,職四資二甲, Chinese（Ⅱ）,國文（二）,二13-14,"國秀樓309教室),"
+W876,0,2,沈輝雄,職四資二甲, PhysicalEducation（Ⅳ）,體育（四）,四10-11,排球場
+W877,1,1,李俐潔,職四資三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,單週開課)五10-1
+W878,1,1,劉淑如,職四資四甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,雙週開課)三12-1
+W879,2,2,李易璋,職四資四甲, Constitution and National Development﹙Ⅱ﹚,憲法與國家發展（二）,二10-11,國秀樓312教室
+W880,2,2,陳亮州,職四資四甲, History and Culture（Ⅱ）,歷史與文化（二）,五10-11,國秀樓306教室
+W886,3,3,陳福智,職四冷一甲, Chinese（Ⅱ）,國文（二）,一10-11,"國秀樓311教室),"
+W887,3,3,謝坤昌,職四冷一甲, Calculus（Ⅱ）,微積分（二）,二10-12,國秀樓311教室
+W888,2,2,陳柏助,職四冷一甲, Freshman English（Ⅱ）,大一英文（二）,四10-11,國秀樓311教室
+W889,1,1,陳柏助,職四冷一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,四12-12,國秀樓311教室
+W890,0,2,劉英傑,職四冷一甲, PhysicalEducation（Ⅱ）,體育（二）,四13-14,籃球場
+W891,2,2,李易璋,職四冷二甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,二13-14,國秀樓308教室
+W892,0,2,高文揚,職四冷二甲, PhysicalEducation（Ⅳ）,體育（四）,四10-11,高爾夫球練習場
+W893,2,2,李靜兒,職四冷三甲, History and Culture（Ⅱ）,歷史與文化（二）,三13-14,國秀樓306教室
+W894,1,1,詹晴如,職四冷三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,單週開課)二10-1
+W895,1,1,朱君苑,職四冷三甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,四14-14,國秀樓3F音樂欣賞教室
+W901,3,3,楊靜芬,職四英一甲, Chinese（Ⅱ）,國文（二）,二12-14,國秀樓509教室
+W902,0,2,伍木成,職四英一甲, PhysicalEducation（Ⅱ）,體育（二）,一10-11,撞球
+W903,2,2,劉重迪,職四英二甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,三12-13,國秀樓509教室
+W904,2,2,鄭建生,職四英二甲, History and Culture（Ⅱ）,歷史與文化（二）,五12-13,國秀樓507教室
+W905,0,2,蔡輝炯,職四英二甲, PhysicalEducation（Ⅳ）,體育（四）,一10-11,羽球場
+W906,1,1,莊秉育,職四英三甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,單週開課)一10-1
+W907,1,1,倪玉珊,職四英三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,雙週開課)一10-1
+W916,2,2,江亞玉,職四技通識必修, Ghosts Themes in Ancient Chinese and Western Literature,通識人文藝術領域（中國與西方文學中的鬼神世界）,四13-14,國秀樓403教室
+W917,2,2,蘇彥蓁,職四技通識必修, Understanding yourself and humanity,通識人文藝術領域（心靈探索）,四13-14,國秀樓405教室
+W918,2,2,宋定莉,職四技通識必修, Philosophy of Life─Love、live and life,通識人文藝術領域（人生哲學─感情、生活與人生）,四13-14,國秀樓407教室
+W919,2,2,林敏勝,職四技通識必修, Taiwan Development Almanac,通識人文藝術領域（臺灣開發故事）,四13-14,國秀樓409教室
+W920,2,2,陳世穎,職四技通識必修, The psychology of happiness,通識社會科學領域（幸福心理學）,四13-14,國秀樓410教室
+W921,2,2,林育秀,職四技通識必修, Mass Communication and Society,通識社會科學領域（大眾傳播與社會）,四13-14,國秀樓412教室
+W923,2,2,胡清暉,職四技通識必修, Film and media literacy,通識社會科學領域（電影與媒體素養）,四13-14,國秀樓503教室
+W924,2,2,謝燕芬,職四技通識必修, Landscape experience: Feel the beauty of life,通識社會科學領域（景觀體驗－感受生活之美）,四13-14,國秀樓506教室
+W925,2,2,賴裕珊,職四技通識必修, World Cuisine and Food Culture,通識社會科學領域（世界飲食與文化）,四13-14,國秀樓507教室
+W926,2,2,林芳如,職四技通識必修, Biotechnology an introduction,通識自然科學領域（生物科技概論）,四13-14,國秀樓508教室
+W927,2,2,陳東賢,職四技通識必修, Creative games and mathematical thinking,通識自然科學領域（創意遊戲與數學思維）,四13-14,國秀樓511教室
+W961,3,3,郭苑平,職四企一甲, Chinese（Ⅱ）,國文（二）,五12-14,國秀樓407教室
+W962,2,2,郭豊莉,職四企一甲, Freshman English（Ⅱ）,大一英文（二）,五10-11,國秀樓407教室
+W963,1,1,郭豊莉,職四企一甲, Listening and Speaking（Ⅱ）,英文聽講（二）,,單週開課)三13-1
+W964,2,2,洪國智,職四企一甲, Calculus（Ⅱ）,微積分（二）,一10-11,國秀樓407教室
+W965,0,2,謝武進,職四企一甲, PhysicalEducation（Ⅱ）,體育（二）,二10-11,撞球
+W966,2,2,沈新民,職四企二甲, History and Culture（Ⅱ）,歷史與文化（二）,一10-11,國秀樓413教室
+W967,0,2,陳小平,職四企二甲, PhysicalEducation（Ⅳ）,體育（四）,五10-11,高爾夫球練習場
+W968,1,1,謝攸青,職四企三甲, Art Appreciation﹙Ⅱ﹚,藝術鑑賞（二）,,雙週開課)四10-1
+W969,1,1,朱君苑,職四企三甲, Music Appreciation﹙Ⅱ﹚,音樂鑑賞（二）,,單週開課)四10-1
+W970,2,2,鄭明政,職四企三甲, Constitution and Democracy﹙Ⅱ﹚,憲法與民主（二）,一10-11,國秀樓412教室
+W976,1,2,黃任賢,職二技四選, Badminton（Ⅱ）,羽球二,二10-11,羽球場
+W978,1,2,蔡文宬,職二技四選, tennisⅡ,網球二,三10-11,網球場
+W980,1,2,何天民,職二技四選, Badminton（Ⅱ）,羽球二,四10-11,羽球場
+W991,1,2,黃凌瑤,職四軍訓共選(二), All-out Defense Education Military Training（Ⅱ）,全民國防教育軍事訓練（二）,一10-11,國秀樓103教室
+W992,1,2,吳慧雯,職四軍訓共選(四), All-out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,二10-11,國秀樓103教室
+W993,1,2,黃書祥,職四軍訓共選(四), All-out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,二10-11,國秀樓310教室
+W994,1,2,朱瓊濤,職四軍訓共選(四), All-out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,三10-11,國秀樓103教室
+W995,1,2,薛仰禮,職四軍訓共選(四), All-out Defense Education Military Training（IV）,全民國防教育軍事訓練（四）,三10-11,國秀樓310教室
+WA01,2,2,涂惠玲,EB1, Freshman English（Ⅱ）,大一英文（二）,一01-02,國秀樓005教室
+WA02,1,1,涂惠玲,EB1, Listening and Speaking（Ⅱ）,英文聽講（二）,三16-16,國秀樓2F語言教室C
+WA03,2,2,朱曉薇,EB3, Freshman English（Ⅱ）,大一英文（二）,一01-02,國秀樓312教室
+WA04,1,1,朱曉薇,EB3, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓311教室
+WA05,2,2,林育群,EB5, Freshman English（Ⅱ）,大一英文（二）,一01-02,國秀樓406教室
+WA06,1,1,林育群,EB5, Listening and Speaking（Ⅱ）,英文聽講（二）,四09-09,國秀樓407教室
+WA07,2,2,陳碧貞,EC4, Freshman English（Ⅱ）,大一英文（二）,一01-02,國秀樓010教室
+WA08,1,1,陳碧貞,EC4, Listening and Speaking（Ⅱ）,英文聽講（二）,一09-09,國秀樓1F語言教室A
+WA09,2,2,藍夏萍,ED2, Freshman English（Ⅱ）,大一英文（二）,一01-02,國秀樓410教室
+WA10,1,1,藍夏萍,ED2, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓410教室
+WA11,2,2,林晏宇,EA1, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓307教室
+WA12,1,1,林晏宇,EA1, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓307教室
+WA13,2,2,游東道,EA2, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓312教室
+WA14,1,1,游東道,EA2, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓312教室
+WA15,2,2,涂惠玲,EB2, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓005教室
+WA16,1,1,涂惠玲,EB2, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓2F語言教室C
+WA17,2,2,柯源源,EB4, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓011教室
+WA18,1,1,柯源源,EB4, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓011教室
+WA19,2,2,蔡妮燕,EC1, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓306教室
+WA20,1,1,蔡妮燕,EC1, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓306教室
+WA21,2,2,陳碧貞,EC5, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓010教室
+WA22,1,1,陳碧貞,EC5, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓010教室
+WA23,2,2,戴宣毓,ED1, Freshman English（Ⅱ）,大一英文（二）,一03-04,國秀樓012教室
+WA24,1,1,戴宣毓,ED1, Listening and Speaking（Ⅱ）,英文聽講（二）,一16-16,國秀樓012教室
+WA25,2,2,柯源源,EA3, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓011教室
+WA26,1,1,柯源源,EA3, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓1F語言教室A
+WA27,2,2,呂仕華,EC2, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓306教室
+WA28,1,1,呂仕華,EC2, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓306教室
+WA29,2,2,林佑容,EC3, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓410教室
+WA30,1,1,林佑容,EC3, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓410教室
+WA31,2,2,陳碧貞,EC6, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓010教室
+WA32,1,1,陳碧貞,EC6, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓2F語言教室C
+WA33,2,2,張端容,ED3, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓005教室
+WA34,1,1,張端容,ED3, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓005教室
+WA35,2,2,林育群,MB1, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓407教室
+WA36,1,1,林育群,MB1, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓407教室
+WA37,2,2,段岱玲,MB3, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓408教室
+WA38,1,1,段岱玲,MB3, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓408教室
+WA39,2,2,張芳琪,MC2, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓403教室
+WA40,1,1,張芳琪,MC2, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓403教室
+WA41,2,2,游東道,MD3, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓312教室
+WA42,1,1,游東道,MD3, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓312教室
+WA43,2,2,柯源源,MA2, Freshman English（Ⅱ）,大一英文（二）,五01-02,國秀樓011教室
+WA44,1,1,柯源源,MA2, Listening and Speaking（Ⅱ）,英文聽講（二）,四09-09,國秀樓1F語言教室A
+WA45,2,2,張端容,MA1, Freshman English（Ⅱ）,大一英文（二）,五03-04,國秀樓311教室
+WA46,1,1,張端容,MA1, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,國秀樓311教室
+WA47,2,2,柯源源,MA3, Freshman English（Ⅱ）,大一英文（二）,五03-04,國秀樓011教室
+WA48,1,1,柯源源,MA3, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,國秀樓011教室
+WA49,2,2,藍夏萍,MB2, Freshman English（Ⅱ）,大一英文（二）,五03-04,工具機學院大樓四樓多功能教室
+WA50,1,1,藍夏萍,MB2, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,工具機學院大樓四樓多功能教室
+WA51,2,2,李佳欣,MC1, Freshman English（Ⅱ）,大一英文（二）,五03-04,國秀樓509教室
+WA52,1,1,李佳欣,MC1, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,國秀樓509教室
+WA53,2,2,吳淑蓉,MC3, Freshman English（Ⅱ）,大一英文（二）,五03-04,國秀樓412教室
+WA54,1,1,吳淑蓉,MC3, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,國秀樓412教室
+WA55,2,2,陳碧貞,MD1, Freshman English（Ⅱ）,大一英文（二）,五03-04,國秀樓010教室
+WA56,1,1,陳碧貞,MD1, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,國秀樓010教室
+WA57,2,2,朱曉薇,MD2, Freshman English（Ⅱ）,大一英文（二）,五03-04,國秀樓312教室
+WA58,1,1,朱曉薇,MD2, Listening and Speaking（Ⅱ）,英文聽講（二）,五16-16,國秀樓312教室
+WA59,2,2,戴宣毓,H1, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓307教室
+WA60,1,1,戴宣毓,H1, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓307教室
+WA61,2,2,李佳欣,H2, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓509教室
+WA62,1,1,李佳欣,H2, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓509教室
+WA63,2,2,林晏宇,H3, Freshman English（Ⅱ）,大一英文（二）,四01-02,國秀樓012教室
+WA64,1,1,林晏宇,H3, Listening and Speaking（Ⅱ）,英文聽講（二）,四16-16,國秀樓012教室
+WA65,3,3,謝志明,語言全校共選, German （Ⅱ）,基礎德語文法（二）,六02-04,國秀樓410教室
+WA66,3,3,謝志明,語言全校共選, German Listening and Speaking （Ⅱ）,基礎德語聽講（二）,六06-08,國秀樓410教室
+WA67,3,3,馮雅蓮,語言全校共選, Japanese Comprehensive Drill （Ⅲ）,日語綜合演練（三）,三10-12,國秀樓1F自學教室
+WA68,3,3,馮雅蓮,語言全校共選, Japanese Comprehensive Drill （Ⅳ）,日語綜合演練（四）,六02-04,國秀樓1F自學教室
+WA69,3,3,余孝恒,語言全校共選, TOEFL Comprehensive Exercise （Ⅲ）,托福綜合訓練（三）,六02-04,國秀樓1F語言教室A
+WA70,3,3,余孝恒,語言全校共選, TOEFL Comprehensive Exercise （Ⅳ）,托福綜合訓練（四）,六06-08,國秀樓1F語言教室A
+WA71,2,2,任秀林,語言全校共選, Workplace English,職場英文,一03-04,國秀樓311教室
+WA72,2,2,黃尚煃,語言全校共選, TOEIC Reading and Listening,多益測驗試題分析,一03-04,國秀樓1F自學教室
+WA73,2,2,謝君慈,語言全校共選, Basic Japanese for Travelers,觀光日語入門,一03-04,國秀樓B1國際語言培訓室
+WA74,2,2,任秀林,語言全校共選, Workplace English,職場英文,一05-06,國秀樓311教室
+WA75,2,2,黃尚煃,語言全校共選, TOEIC Reading and Listening,多益測驗試題分析,一05-06,國秀樓312教室
+WA76,2,2,蔡妮燕,語言全校性共選, CSEPT Reading and Listening,CSEPT 測驗試題分析,一05-06,國秀樓306教室
+WA77,2,2,謝君慈,語言全校共選, Basic Japanese for Travelers,觀光日語入門,一05-06,國秀樓B1國際語言培訓室
+WA78,2,2,任秀林,語言全校共選, Office English,辦公室英文,一07-08,國秀樓311教室
+WA79,2,2,謝君慈,語言全校共選, Everyday Japanese,生活日本語,一07-08,國秀樓B1國際語言培訓室
+WA80,2,2,盧麗桾,語言全校共選, Backpacker English,背包客英文,二01-02,國秀樓305教室
+WA81,2,2,賴郁君,語言全校共選, Travel Japanese （Ⅱ）,旅遊日語（二）,二01-02,國秀樓B1國際語言培訓室
+WA82,2,2,丁興蘭,語言全校共選, Basic Korean Pronounciation （Ⅱ）,初階韓語發音（二）,二01-02,國秀樓1F自學教室
+WA83,2,2,盧麗桾,語言全校共選, Tourism English,旅遊英文,二03-04,國秀樓305教室
+WA84,2,2,賴郁君,語言全校共選, Practical Japanese （Ⅱ）,實用日語（二）,二03-04,國秀樓B1國際語言培訓室
+WA85,2,2,羅秀青,語言全校共選, Basic Deutsch （Ⅰ）,基礎德語（一）,二03-04,國秀樓403教室
+WA86,2,2,丁興蘭,語言全校共選, Basic Korean Conversation（Ⅱ）,初階韓語會話（二）,二03-04,國秀樓1F自學教室
+WA87,2,2,李國傑,語言全校共選, Thai Conversation - Elementary,泰語會話-初級,二03-04,國秀樓309教室
+WA88,2,2,陳紅鸞,語言全校共選, Vietnamese Conversation - Elementary,越南語會話-初級,二03-04,國秀樓506教室
+WA89,2,2,盧麗桾,語言全校共選, English Listening and Speaking Trainimg,英語聽說訓練,二05-06,國秀樓305教室
+WA90,2,2,許玉音,語言全校共選, Tourism English,旅遊英文,二05-06,國秀樓B1國際語言培訓室
+WA91,2,2,羅秀青,語言全校共選, Basic Deutsch （Ⅰ）,基礎德語（一）,二05-06,國秀樓403教室
+WA92,2,2,丁興蘭,語言全校共選, Basic Korean Pronounciation （Ⅱ）,初階韓語發音（二）,二05-06,國秀樓509教室
+WA93,2,2,李國傑,語言全校共選, Thai Conversation - Elementary,泰語會話-初級,二05-06,國秀樓309教室
+WA94,2,2,陳紅鸞,語言全校共選, Vietnamese and Tourism,越南語與旅遊,二05-06,國秀樓1F自學教室
+WA95,2,2,許玉音,語言全校共選, Backpacker English,背包客英文,二07-08,國秀樓B1國際語言培訓室
+WA96,2,2,羅秀青,語言全校共選, Basic Deutsch （Ⅰ）,基礎德語（一）,二07-08,國秀樓403教室
+WA97,2,2,李國傑,語言全校共選, Thai and Tourism,泰語與旅遊,二07-08,國秀樓309教室
+WA98,2,2,陳紅鸞,語言全校共選, Vietnamese Conversation - Elementary（Ⅱ）,越南語會話-初級（二）,二07-08,國秀樓1F自學教室
+WA99,2,2,陳數紅,語言全校共選, Advanced English Reading,英語閱讀,三01-02,國秀樓B1國際語言培訓室
+WB00,2,2,馮雅蓮,語言全校共選, Basic Japanese （Ⅱ）,初階日文（二）,三01-02,國秀樓1F自學教室
+WB01,2,2,陳數紅,語言全校共選, Advanced English Reading,英語閱讀,三03-04,國秀樓B1國際語言培訓室
+WB02,2,2,馮雅蓮,語言全校共選, Practical Japanese,實用日語基礎,三03-04,國秀樓1F自學教室
+WB03,2,2,東谷天,語言全校共選, Travel German,德國旅遊與德語,三03-04,國秀樓305教室
+WB04,2,2,陳數紅,語言全校共選, English Presentation Skills,英文簡報技巧,三05-06,國秀樓B1國際語言培訓室
+WB05,2,2,馮雅蓮,語言全校共選, Practical Japanese for Travelers （Ⅱ）,實用旅遊日語（二）,三05-06,國秀樓1F自學教室
+WB06,2,2,東谷天,語言全校共選, Travel German,德國旅遊與德語,三05-06,國秀樓305教室
+WB07,2,2,林佑容,語言全校性共選, Advanced English Reading,英語閱讀,四05-06,國秀樓311教室
+WB08,2,2,呂仕華,語言全校性共選, CSEPT Reading and Listening,CSEPT 測驗試題分析,四05-06,國秀樓306教室
+WB09,2,2,段岱玲,語言全校共選, TOEIC Reading and Listening,多益測驗試題分析,四05-06,國秀樓1F自學教室
+WB10,2,2,林育秀,語言全校共選, Travel Russian,俄羅斯旅遊與俄語,四05-06,國秀樓B1國際語言培訓室
+WB11,2,2,林育秀,語言全校共選, Travel Russian,俄羅斯旅遊與俄語,四07-08,國秀樓B1國際語言培訓室
+WB12,2,2,余孝恒,語言全校共選, TOEIC Reading and Listening,多益測驗試題分析,五03-04,國秀樓305教室
+WB14,2,2,石秋燕,語言全校共選, Practical French,實用基礎法語,五05-06,國秀樓502教室
+WB30,3,3,莊雅雯,外國四資一甲, Chinese Listening Speaking and Reading（Ⅱ）,華語聽說與閱讀（二）,四07-09,國秀樓406教室
+WB31,2,2,莊雅雯,外國四資一甲, Chinese Workshop（Ⅱ）,華語工作坊（二）,四05-06,國秀樓406教室
+WB32,3,3,戴宣毓,外國四資一甲, English Listening and Speaking（Ⅱ）,英文聽與說（二）,一06-08,國秀樓1F自學教室
+WB33,2,2,張芳琪,產學國際-華主A1班, Theme-based Chinese Reading and Writing （Ⅱ）,華文主題式讀寫（二）,五01-02,國秀樓010教室
+WB34,2,2,戴宣毓,產學國際-華主A2班, Theme-based Chinese Reading and Writing （Ⅱ）,華文主題式讀寫（二）,五01-02,國秀樓301教室
+Y200,0,2,江欣惇,二子三甲, PhysicalEducation,體育,四05-06,排球場
+Y401,2,2,謝攸青,二子三甲, Art and Philosophy,藝術與哲學,五07-08,國秀樓4F美術鑑賞教室
+Y402,2,2,張芳琪,二子三甲, Practical English,實用英文,五05-06,國秀樓402教室
+Y600,3,5,高秀玲,產學二冷三甲, Chinese Listening and Speaking（Ⅱ）,華語聽說（二）,一05-07,"E227研究所電化教室), 五01-0"
+Y601,0,2,伍木成,產學二冷三甲, Physical Education （II）,體育（二）,一08-09,桌球教室
+Y602,2,2,徐瑋瑩,產學二冷三甲, Art and Philosophy,藝術與哲學,三05-06,國秀樓B2美術教室
+Y603,3,5,𤩐政文,產學二冷三甲, Chinese Reading and Writing（Ⅱ）,華語讀寫（二）,四05-09,研發大樓CAD電腦教室
+Y803,2,2,游東道,職二工二甲, Practical English,實用英文,四10-11,國秀樓305教室
+Y804,2,2,詹晴如,職二工二甲, Art and Philosophy,藝術與哲學,三10-11,國秀樓4F美術鑑賞教室
+ZZZ3,0,0,,,,操行,,

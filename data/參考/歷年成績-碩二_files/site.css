@@ -1,0 +1,195 @@
+﻿html {
+    height: 100%;
+}
+
+body {
+    background-color: #9fcae9;
+    font-size: 15px;
+    height: 100%;
+}
+
+/* menu
+----------------------------------------------------------*/
+/* bootstrap overwrite */
+ul.navbar-nav > li > a, div.navbar-right > form {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.navbar-right > form {
+    padding-top: 15px;
+}
+
+ul.navbar-nav a {
+    text-decoration: none;
+}
+
+.navbar-right
+{
+    padding-right: 5px;
+}
+
+/*因應選單長度，更改navbar的折疊條件從螢幕寬度768px => 991px，否則斷行過多既難看又會擋住上方文字(因為fix to top)*/
+@media (max-width: 991px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    /* since 3.1.0 */
+    .navbar-collapse.collapse.in { 
+        display: block!important;
+    }
+    .collapsing {
+        overflow: hidden!important;
+    }
+}
+
+/* page elements
+----------------------------------------------------------*/
+/* featured */
+
+.site-title-img {
+    width: 145px;
+    height: 33px;
+    background-image: url('../Images/logo0506.png');
+    background-position: -80px -28px;
+    cursor: pointer;
+    margin-top:11px;
+}
+
+.deleteContent {
+    text-decoration: line-through;
+    color: silver;
+}
+
+/* bootstrap overwrite */
+.notices .list-group a{
+    text-decoration: none;
+    font-size:initial;
+}
+
+.notices .list-group h4 {
+    font-weight: bold;
+}
+
+.notices .list-group p {
+    font-size:smaller;
+    line-height: 20px;
+}
+
+body { padding-top: 70px; }
+
+.container .form-horizontal .form-group label {
+    display: inline;
+}
+
+.container form.form-custom {
+    box-shadow: 0 0 20px rgba(0,0,0,.3);
+    background-color: #e2e2e2;
+}
+
+.container .form-custom .title {
+    border-bottom: 1px solid #d0dada;
+}
+
+.container .form-custom .title h2 {
+    line-height: 23px;
+    color: #1B9596;
+    padding: 25px 0;
+    margin: 0;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 27px;
+}
+
+.container .form-custom a.thumbnail {
+    text-decoration: none;
+    text-align: center;
+}
+
+.container .form-custom textarea {
+    resize: vertical;
+}
+
+.redWord {
+    color: red;
+}
+
+.pinkWord {
+    color: pink;
+}
+
+.cyanWord {
+    color: cyan;
+}
+
+.orangeWord {
+    color: orange;
+}
+
+.orangeRedWord {
+    color: orangeRed;
+}
+
+.oliveWord {
+    color: olive;
+}
+
+#warp {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+#footer {
+    height: 100px;
+    background: #333333;
+    color: white;
+}
+
+.glyphicon-ok-sign::before
+{
+    color: #5cb85c;
+}
+
+.glyphicon-question-sign::before
+{
+    color: #f0ad4e;
+}
+
+.glyphicon-remove-sign::before
+{
+    color: #d9534f;
+}
+
+@media (min-width: 768px) {
+    #footer {
+        height: 60px;
+        background: #333333;
+        color: white;
+    }
+}

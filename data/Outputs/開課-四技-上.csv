@@ -1,0 +1,178 @@
+﻿代碼,學分,學時,老師,班級,Subject,科目,時間,地點
+3201,3,3,林進榮,四資二選1, Discrete Mathematics,離散數學,二02-04,管理館M501
+3202,3,3,陳世銘,四資二選1, Image Processing and Applications,影像處理與應用,二02-04,管理館M511
+3203,3,3,吳志盛,四資二選1, Interactive Web Page Design,互動式網頁設計,二02-04,管理館M513
+3207,3,3,陳宏昌,四資三選2, Algorithms,演算法,二06-08,管理館M419
+3212,3,3,陳仕昇,四資三選2, Big Data Analysis,巨量資料分析,二05-07,管理館M511
+3213,3,3,林進榮,四資三選2, Puzzle Game Design,益智遊戲設計,二05-07,管理館M513
+3214,3,3,張維平,四資三選3, Emerging Technologies and Applications,新興科技與應用,三02-04,管理館M402A
+3215,3,3,曹文瑜,四資三選3, ERP,進銷存管理資訊系統,三02-04,管理館M513
+3221,3,3,黃俊明,四資三選3, Three Dimensional Shape Design and Printing Technology,3D造型設計與列印實務,三02-04,管理館M511
+3222,3,3,廖文忠,四資三選3, Web information system devolopment,網站資訊系統開發實務,三02-04,管理館M514
+3223,3,3,楊惠貞,四資三選7,,研究方法,二02-04,管理館M510B
+3224,3,3,王清林,四資三選7, Internet of Things Application Practice,物聯網應用與實務,二02-04,管理館M514
+3225,3,3,張裕幸,四資四選4, Software Engineering,軟體工程,一05-07,管理館M513
+3226,3,3,徐欣怡,四資四選4, Management Psychology,管理心理學,一06-08,管理館M503
+3228,3,3,劉宜菁,四資四選5, Innovative IT Applications & Cases,創新IT應用與個案研討,四05-07,管理館M503
+3230,3,3,張裕幸,四資四選5, Data Warehouse and Data Mining,資料倉儲與挖掘,四05-07,管理館M511
+3234,3,3,張裕幸,四資四選6, Information and Law,資訊與法律,五02-04,管理館M502
+3235,9,9,資校外實習,四資四選, Extracurricular Intern,校外實習（一）,,
+3240,3,3,洪龍廷,四資一甲, Economics,經濟學,一02-02,"管理館M501), 三03-0"
+3241,2,2,范振銘,四資一甲, Accounting（Ⅰ）,會計學（一）,三01-02,管理館M502
+3242,3,3,廖文忠,四資一甲, Introduction to Computer Science,計算機概論,二05-06,"管理館M502), 四06-0"
+3243,3,4,林進榮,四資一甲, Object-Oriented Programming Language,物件導向程式設計,一05-06,"管理館M501), 五05-0"
+3244,3,3,洪龍廷,四資一乙, Economics,經濟學,三02-02,"管理館M501), 一03-0"
+3245,2,2,范振銘,四資一乙, Accounting（Ⅰ）,會計學（一）,三03-04,管理館M501
+3246,3,3,廖文忠,四資一乙, Introduction to Computer Science,計算機概論,二07-07,"管理館M502), 四07-0"
+3247,3,4,黃展鵬,四資一乙, Object-Oriented Programming Language,物件導向程式設計,三05-06,"管理館M511), 五05-0"
+3248,3,3,陳宏昌,四資二甲, Production and Operation Management,生產與作業管理,一06-06,"管理館M419), 四07-0"
+3249,3,3,楊惠貞,四資二甲, Marketing,行銷學,一02-02,"管理館M419), 三03-0"
+3250,3,3,王清林,四資二甲, Statistics（Ⅰ）,統計學（一）,二05-07,管理館M501
+3251,3,3,曹文瑜,四資二甲, Database Theory and Management,資料庫管理系統,一03-04,"管理館M513), 五02-0"
+3252,3,4,黃淑賢,四資二甲, Web Application Programming,網頁應用程式設計,三05-06,"管理館M514), 四05-0"
+3253,3,3,劉宜菁,四資二甲, Management Information System,資訊管理導論,四02-02,"管理館M503), 五03-0"
+3254,3,3,陳宏昌,四資二乙, Production and Operation Management,生產與作業管理,一07-08,"管理館M419), 四06-0"
+3255,3,3,楊惠貞,四資二乙, Marketing,行銷學,一03-04,"管理館M419), 三02-0"
+3256,3,3,廖文忠,四資二乙, Statistics（Ⅰ）,統計學（一）,四05-05,"管理館M419), 五07-0"
+3257,3,3,曹文瑜,四資二乙, Database Theory and Management,資料庫管理系統,一02-02,"管理館M513), 五03-0"
+3258,3,4,黃淑賢,四資二乙, Web Application Programming,網頁應用程式設計,二05-06,"管理館M514), 四07-0"
+3259,3,3,張定原,四資二乙, Management Information System,資訊管理導論,一05-05,"管理館M502), 四01-0"
+3260,3,3,王清林,四資三甲, The development of Enterprise application system,企業應用系統開發,三05-05,"管理館M513), 一03-0"
+3261,3,3,陳仕昇,四資三甲, Customer Relationship Management,顧客關係管理,三06-06,"管理館M501), 一07-0"
+3262,2,6,資專題甲,四資三甲, Project study （Ⅰ）,實務專題（一）,,
+3263,3,3,王清林,四資三乙, The development of Enterprise application system,企業應用系統開發,三06-07,"管理館M513), 一02-0"
+3264,3,3,陳仕昇,四資三乙, Customer Relationship Management,顧客關係管理,一03-04,"管理館M501), 三05-0"
+3265,2,6,資專題乙,四資三乙, Project study （Ⅰ）,實務專題（一）,,
+3268,0,320,,四資四甲, Diversified Training,多元實習,,
+3270,0,320,,四資四乙, Diversified Training,多元實習,,
+T006,0,1,宋孟遠,四資一乙, Labor and Social services Education（Ⅰ）,勞作與社會服務教育（一）,五07-07,國秀樓411教室
+W001,2,2,劉淑如,四技通識必修, Dialogue of Classical music and Movie,通識人文藝術領域（古典音樂與電影的對話）,一05-06,國秀樓3F音樂欣賞教室
+W002,2,2,游惠遠,四技通識必修, Gender Issues and Text Analysis,通識人文藝術領域（性別議題與電影）,一05-06,文化休閒館CRB02
+W003,2,2,謝炯庠,四技通識必修, Politics and Life,通識社會科學領域（政治與生活）,一05-06,國秀樓005教室
+W004,2,2,楊卿,四技通識必修, Psychology and modern life,通識社會科學領域（心理與生活）,一05-06,國秀樓010教室
+W005,2,2,楊馥綺,四技通識必修, Positive thinking and well-being,通識社會科學領域（正向思考與幸福人生）,一05-06,國秀樓011教室
+W006,2,2,徐瑋瑩,四技通識必修, Art and Society,通識社會科學領域（藝術與社會）,一05-06,國秀樓511教室
+W007,2,2,劉淑爾,四技通識必修, The secret code of the Zhuyin,通識社會科學領域（乾坤密碼讀易經）,一05-06,國秀樓502教室
+W008,2,2,劉柏宏,四技通識必修, Scientific Decoding of Leonardo Davinci,通識自然科學領域（科學解碼達文西）,一05-06,國秀樓411教室
+W009,2,2,張漢昌,四技通識必修, Science of toxic materials and environment,通識自然科學領域（生活與毒化物科學）,一05-06,國秀樓409教室
+W010,2,2,北殿義雄,四技通識必修, Physics in life,通識自然科學領域（生活中的物理）,一05-06,國秀樓4A
+W078,2,2,田金昌,四技通識必修, Hakka Social and Cultural,通識人文藝術領域（客家社會與文化）,五05-06,國秀樓411教室
+W079,2,2,何瑞蓮,四技通識必修, Read English and Chinese Classics through Film and Play,通識人文藝術領域（從影像品味文學經典）,五05-06,國秀樓005教室
+W080,2,2,鄭志敏,四技通識必修, Sing Appreciation,通識人文藝術領域（歌唱的藝術）,五05-06,國秀樓3F音樂欣賞教室
+W081,2,2,廖育菁,四技通識必修, Appreciation Of Drama,通識人文藝術領域（戲劇鑑賞）,五05-06,國秀樓507教室
+W082,2,2,徐瑋瑩,四技通識必修, Fun Art and Everyday Life,通識社會科學領域（藝術與翻玩日常）,五05-06,國秀樓502教室
+W083,2,2,王仁祿,四技通識必修, Book of Changes and Life,通識社會科學領域（易經與人生）,五05-06,國秀樓407教室
+W084,2,2,趙申,四技通識必修, Global Issues and International Relations,通識社會科學領域（從全球議題談國際關係）,五05-06,國秀樓506教室
+W085,2,2,林經緯,四技通識必修, International Politics and International Relations,通識社會科學領域（國際政治與國際關係）,五05-06,國秀樓302教室
+W086,2,2,宋孟遠,四技通識必修, Sport Sociology,通識社會科學領域（運動社會學）,五05-06,國秀樓1F語言教室B
+W087,2,2,林麗嬌,四技通識必修, environment protection of modern and innovative life,通識社會科學領域（摩登環保新生活）,五05-06,M423專業科目教
+W088,2,2,葉怡巖,四技通識必修, Passes knows the natural sciences domain,通識自然科學領域（環境教育與永續發展）,五05-06,國秀樓313教室
+W089,2,2,黃坤山,四技通識必修, Chinese medicine and Health promotion,通識自然科學領域（中醫與保健）,五05-06,國秀樓307教室
+W090,2,2,方智芳,四技通識必修, From farm to dining table─Friendly agriculture and healthy diet,通識自然科學領域（從農田到餐桌─友善農業與健康飲食）,五05-06,管理館M706景觀效益實驗室
+W091,2,2,錢玉樹,四技通識必修, Green Technology and Circular Economy,通識自然科學領域（綠色科技與循環經濟）,五05-06,國秀樓412教室
+W092,2,2,北殿義雄,四技通識必修, Physics in life,通識自然科學領域（生活中的物理）,五05-06,國秀樓4A
+W190,0,2,余詩芸,, English Remedial Class A,英檢輔導A,二05-06,國秀樓403教室
+W191,0,2,余詩芸,, English Remedial Class A,英檢輔導A,二07-08,國秀樓403教室
+W192,0,2,楊琇茹,, English Remedial Class A,英檢輔導A,四05-06,國秀樓413教室
+W193,0,2,楊琇茹,, English Remedial Class A,英檢輔導A,四07-08,國秀樓413教室
+W194,0,2,楊琇茹,, English Remedial Class A,英檢輔導A,四10-11,國秀樓413教室
+W217,0,2,洪彰鴻,EC4, PhysicalEducation（Ⅰ）,體育（一）,四01-02,撞球
+W218,0,2,江欣惇,ED2, PhysicalEducation（Ⅰ）,體育（一）,四01-02,排球場
+W219,0,2,高文揚,MC1, PhysicalEducation（Ⅰ）,體育（一）,四01-02,高爾夫球練習場
+W220,0,2,何添生,MC3, PhysicalEducation（Ⅰ）,體育（一）,四01-02,羽球場
+W221,0,2,蔡輝炯,MB1, PhysicalEducation（Ⅰ）,體育（一）,四01-02,網球場
+W222,0,2,劉英傑,EC5, PhysicalEducation（Ⅰ）,體育（一）,四01-02,籃球場
+W223,0,2,梁隨燕,EC1, PhysicalEducation（Ⅰ）,體育（一）,四01-02,桌球教室
+W224,0,2,韋磊,MD1, PhysicalEducation（Ⅰ）,體育（一）,五01-02,桌球教室
+W225,0,2,伍木成,MD2, PhysicalEducation（Ⅰ）,體育（一）,五01-02,撞球
+W226,0,2,陳小平,MD3, PhysicalEducation（Ⅰ）,體育（一）,五01-02,韻律教室
+W227,0,2,林誯鎮,MA3, PhysicalEducation（Ⅰ）,體育（一）,五01-02,羽球場
+W228,0,2,何添生,MA1, PhysicalEducation（Ⅰ）,體育（一）,五01-02,排球場
+W229,0,2,韋磊,MA2, PhysicalEducation（Ⅰ）,體育（一）,五03-04,桌球教室
+W230,0,2,伍木成,MB2, PhysicalEducation（Ⅰ）,體育（一）,五03-04,撞球
+W231,0,2,陳小平,MB3, PhysicalEducation（Ⅰ）,體育（一）,五03-04,韻律教室
+W232,0,2,林誯鎮,MC2, PhysicalEducation（Ⅰ）,體育（一）,五03-04,網球場
+W239,0,2,蔡輝炯,四資二甲, PhysicalEducation（Ⅲ）,體育（三）,一07-08,撞球
+W253,0,2,夏綠荷,四資二乙, PhysicalEducation（Ⅲ）,體育（三）,二07-08,韻律教室
+W270,1,2,江佳恩,體育大三大四選, Billiard Ⅰ,撞球一,二01-02,撞球
+W271,1,2,溫麗香,體育大三大四選, PilatesⅠ,皮拉提斯一,二01-02,韻律教室
+W272,1,2,陳健隆,體育大三、四選, Swimming I,游泳一,二01-02,游泳池
+W273,1,2,鄧政顯,體育大三、大四選, Basketball I,籃球一,二03-04,籃球場
+W274,1,2,溫麗香,體育大三、大四選, PilatesⅠ,皮拉提斯一,二03-04,韻律教室
+W275,1,2,江佳恩,體育大三、大四選, Billiard Ⅰ,撞球一,二03-04,撞球
+W276,1,2,陳健隆,體育大三大四選, Swimming I,游泳一,二03-04,游泳池
+W277,1,2,徐國陽,體育大三、大四選, Somatic fitnessⅠ,身心瑜珈一,三01-02,韻律教室
+W278,1,2,楊士欣,體育大三、大四選, Volleyball I,排球一,三01-02,排球場
+W279,1,2,劉嘉豪,體育大三大四選, Billiard Ⅰ,撞球一,三01-02,撞球
+W280,1,2,楊雅琪,體育大三大四選, CurlingⅠ,冰壺一,三01-02,體適能教室
+W281,1,2,徐國陽,體育大三、大四選, Somatic fitnessⅠ,身心瑜珈一,三03-04,韻律教室
+W282,1,2,伍木成,體育大三、大四選, Table Tennis I,桌球一,三03-04,桌球教室
+W283,1,2,陳小平,體育大三、大四選, Billiard Ⅰ,撞球一,三03-04,撞球
+W284,1,2,劉嘉豪,體育大三大四選, Swimming I,游泳一,三03-04,游泳池
+W285,1,2,楊士欣,體育大三、大四選, Volleyball I,排球一,三03-04,排球場
+W286,1,2,劉英傑,大三、大四選, Basketball I,籃球一,三03-04,籃球場
+W287,1,2,黃俊傑,體育大三、大四選, Frisbee Ⅰ,飛盤一,三03-04,運動場
+W288,1,2,宋孟遠,體育大三、大四選, Badminton I,羽球一,三05-06,羽球場
+W289,1,2,梁隨燕,體育大三、大四選, Table Tennis I,桌球一,三05-06,桌球教室
+W290,1,2,陳培季,體育大三大四選, CurlingⅠ,冰壺一,三05-06,體適能教室
+W292,1,2,鄭清榮,體育大三、大四選, Health and Body Sculpting I,健康與塑身一,四05-06,重量訓練室
+W293,1,2,施廷衛,體育大三、大四選, Table Tennis I,桌球一,四05-06,桌球教室
+W294,1,2,沈輝雄,體育大三、大四選, Badminton I,羽球一,四05-06,羽球場
+W295,1,2,步國財,體育大三、大四選, Basketball I,籃球一,四05-06,籃球場
+W296,1,2,陳培季,體育大三大四選, CurlingⅠ,冰壺一,四05-06,體適能教室
+W297,1,2,楊士欣,體育大三四選, Swimming I,游泳一,四05-06,游泳池
+W298,1,2,鄭清榮,體育大三、大四選, Health and Body Sculpting I,健康與塑身一,四07-08,重量訓練室
+W299,1,2,步國財,體育大三、大四選, Basketball I,籃球一,四07-08,籃球場
+W29A,1,2,施廷衛,體育大三、大四選, Table Tennis I,桌球一,四07-08,桌球教室
+W29B,1,2,沈輝雄,體育大三、大四選, Badminton I,羽球一,四07-08,羽球場
+W29C,1,2,陳培季,體育大三大四選, CurlingⅠ,冰壺一,四07-08,體適能教室
+W29D,1,2,劉嘉豪,體育大三、大四選, Swimming I,游泳一,四07-08,游泳池
+W555,3,3,徐華中,四資一甲, Chinese（Ⅰ）,國文（一）,二07-07,"國秀樓509教室), 三05-0"
+W556,2,2,朱倩如,四資一甲, History and Culture（Ⅰ）,歷史與文化（一）,四07-08,國秀樓509教室
+W557,1,1,劉淑如,四資一甲, Music Appreciation,音樂鑑賞,一07-07,國秀樓3F音樂欣賞教室
+W558,0,2,陳建文,四資一甲, All-Out Defense Education Military Training（Ⅰ）,全民國防教育軍事訓練（一）,二01-02,國秀樓310教室
+W560,2,2,王清德,四資一甲, Calculus（Ⅰ）,微積分（一）,二03-04,國秀樓509教室
+W561,3,3,江亞玉,四資一乙, Chinese（Ⅰ）,國文（一）,二05-06,"國秀樓509教室), 三07-0"
+W562,2,2,沈新民,四資一乙, History and Culture（Ⅰ）,歷史與文化（一）,一05-06,國秀樓509教室
+W563,1,1,楊喻涵,四資一乙, Music Appreciation,音樂鑑賞,二08-08,國秀樓3F音樂欣賞教室
+W564,0,2,陳建文,四資一乙, All-Out Defense Education Military Training（Ⅰ）,全民國防教育軍事訓練（一）,二03-04,國秀樓310教室
+W566,2,2,賴馨華,四資一乙, Calculus（Ⅰ）,微積分（一）,四05-06,國秀樓509教室
+WA23,2,2,柯源源,EA2, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓011教室
+WA24,1,1,柯源源,EA2, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓1F語言教室A
+WA25,2,2,呂仕華,EC2, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓411教室
+WA26,1,1,呂仕華,EC2, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓411教室
+WA27,2,2,林佑容,EC3, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓302教室
+WA28,1,1,林佑容,EC3, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓302教室
+WA29,2,2,陳碧貞,EC6, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓010教室
+WA30,1,1,陳碧貞,EC6, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓2F語言教室C
+WA31,2,2,游東道,ED1, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓402教室
+WA32,1,1,游東道,ED1, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓402教室
+WA33,2,2,張端容,ED3, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓405教室
+WA34,1,1,張端容,ED3, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓405教室
+WA35,2,2,林育群,MB2, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓301教室
+WA36,1,1,林育群,MB2, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓301教室
+WA37,2,2,李佳欣,MB3, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓407教室
+WA38,1,1,李佳欣,MB3, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓407教室
+WA39,2,2,段岱玲,MC2, Freshman English（Ⅰ）,大一英文（一）,四01-02,國秀樓408教室
+WA40,1,1,段岱玲,MC2, Listening and Speaking（Ⅰ）,英文聽講（一）,四16-16,國秀樓408教室
+WA41,2,2,柯源源,MA2, Freshman English（Ⅰ）,大一英文（一）,五01-02,國秀樓011教室
+WA42,1,1,柯源源,MA2, Listening and Speaking（Ⅰ）,英文聽講（一）,四09-09,國秀樓1F語言教室A
+WA43,2,2,柯源源,MA1, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓011教室
+WA44,1,1,柯源源,MA1, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓011教室
+WA45,2,2,張端容,MA3, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓312教室
+WA46,1,1,張端容,MA3, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓312教室
+WA47,2,2,許惠慈,MB1, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓012教室
+WA48,1,1,許惠慈,MB1, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓012教室
+WA49,2,2,李佳欣,MC1, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓509教室
+WA50,1,1,李佳欣,MC1, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓509教室
+WA51,2,2,吳淑蓉,MC3, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓412教室
+WA52,1,1,吳淑蓉,MC3, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓412教室
+WA53,2,2,陳碧貞,MD1, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓010教室
+WA54,1,1,陳碧貞,MD1, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓010教室
+WA55,2,2,朱曉薇,MD2, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓410教室
+WA56,1,1,朱曉薇,MD2, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓410教室
+WA57,2,2,戴宣毓,MD3, Freshman English（Ⅰ）,大一英文（一）,五03-04,國秀樓301教室
+WA58,1,1,戴宣毓,MD3, Listening and Speaking（Ⅰ）,英文聽講（一）,五16-16,國秀樓301教室
+WA65,6,6,羅秀青,語言全校共選,,德語菁英班（第1學期）,六06-08,"國秀樓1F自學教室), 六02-0"
+WA67,6,6,馮雅蓮,語言全校共選,,日語菁英班（第1學期）,三10-12,"國秀樓1F語言教室A), 六02-0"
+WA69,6,6,余孝,,,英語菁英班（第1學期）,,
